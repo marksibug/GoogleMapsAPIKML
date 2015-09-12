@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+	<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+	<link href="mainstylesheet.css" rel="stylesheet" type="text/css">
+	<title>Maryland Historic District (Beta Map)</title>
+	<script src="https://maps.googleapis.com/maps/api/js?sensor=false" type="text/javascript"></script>
+    <style type="text/css">
+      .color-span {
+        width: 14px;
+        height: 14px;
+        font-size: 0;
+        margin: 2px;
+        float: left;
+        cursor: pointer;
+      }
+
+      #delete-button {
+        margin-top: 5px;
+      }
+    </style>
+	<script type="text/javascript">
+		var map;
+		var drawingManager;
+		var kmlBars, kmlRestaurants, kmlShops, kmlSites, kmlParks, kmlMiscellaneous;
+		var selectedShape;
+		var selectedLineColor, selectedShapeColor;
+		var colors = ['#1E90FF', '#FF1493', '#32CD32', '#FF8C00', '#4B0082'];
+		var lineColorSpans = {};
+		var shapeColorSpans = {};
+
+
+
+		function toggleBars() {
+			if (document.getElementById('bars').checked) {
+				kmlBars.setMap(map);
+				kmlBars.set('preserveViewport', true);
+			} else {
+				kmlBars.setMap(null);
+				kmlBars.set('preserveViewport', true);
+			}
+		}
+
+		function toggleRestaurants() {
+			if (document.getElementById('restaurants').checked) {
+				kmlRestaurants.setMap(map);
+				kmlRestaurants.set('preserveViewport', true);
+			} else {
+				kmlRestaurants.setMap(null);
+				kmlRestaurants.set('preserveViewport', true);
+			}
+		}
+
+		function toggleShops() {
+			if (document.getElementById('shops').checked) {
+				kmlShops.setMap(map);
+				kmlShops.set('preserveViewport', true);
+			} else {
+				kmlShops.setMap(null);
+				kmlShops.set('preserveViewport', true);
+			}
+		}
+
+		function toggleSites() {
+			if (document.getElementById('historicsites').checked) {
+				kmlSites.setMap(map);
+				kmlSites.set('preserveViewport', true);
+			} else {
+				kmlSites.setMap(null);
+				kmlSites.set('preserveViewport', true);
+			}
+		}
+
+		function toggleParks() {
+			if (document.getElementById('parks').checked) {
+				kmlParks.setMap(map);
+				kmlParks.set('preserveViewport', true);
+			} else {
+				kmlParks.setMap(null);
+				kmlParks.set('preserveViewport', true);
+			}
+		}
+
+
+
+		function toggleMisc() {
+			if (document.getElementById('miscs').checked) {
+				kmlMiscellaneous.setMap(map);
+				kmlMiscellaneous.set('preserveViewport', true);
+			} else {
+				kmlMiscellaneous.setMap(null);
+				kmlMiscellaneous.set('preserveViewport', true);
+			}
+		}
+
+		function toggleTowns() {
+			if (document.getElementById('historicTowns').checked) {
+				kmlTowns.setMap(map);
+				kmlTowns.set('preserveViewport', true);
+			} else {
+				kmlTowns.setMap(null);
+				kmlTowns.set('preserveViewport', true);
+			}
+		}
+
+
+		function initialize() {
+			if( google.maps.Map !== undefined) {
+				var mapOptions = {
+					center: new google.maps.LatLng(38.9745, -77.196293),
+					zoom: 8
+				};
+				map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
+
+				var randomValue = Math.random();
+				kmlBars = new google.maps.KmlLayer("http://www.mdhistoricdistrict.com/mainlocator/maps/bars.kml?v=1&random=" + randomValue, {map: map, preserveViewport:true});
+				kmlRestaurants = new google.maps.KmlLayer("http://www.mdhistoricdistrict.com/mainlocator/maps/restaurants.kml?v=1&random=" + randomValue, {map: map, preserveViewport:true});
+				kmlShops = new google.maps.KmlLayer("http://www.mdhistoricdistrict.com/mainlocator/maps/shops.kml?v=1.2&random=" + randomValue, {map: map, preserveViewport:true});
+				kmlSites = new google.maps.KmlLayer("http://www.mdhistoricdistrict.com/mainlocator/maps/sites.kml?v=1.4&random=" + randomValue, {map: map, preserveViewport:true});
+				kmlParks = new google.maps.KmlLayer("http://www.mdhistoricdistrict.com/mainlocator/maps/parks.kml?v=1.43&random=" + randomValue, {map: map, preserveViewport:true});
+				kmlMiscellaneous = new google.maps.KmlLayer("http://www.mdhistoricdistrict.com/mainlocator/maps/miscs.kml?v=1.1&random=" + randomValue, {map: map, preserveViewport:true});
+				kmlTowns = new google.maps.KmlLayer("http://www.mdhistoricdistrict.com/mainlocator/maps/historicTowns.kml?v=1&random=" + randomValue);
+
+				document.getElementById("bars").checked = true;
+				document.getElementById("restaurants").checked = true;
+				document.getElementById("shops").checked = true;
+				document.getElementById("historicsites").checked = true;
+				document.getElementById("parks").checked = true;
+				document.getElementById("miscs").checked = true;
+
+				drawingManager = new google.maps.drawing.DrawingManager({
+					drawingMode: google.maps.drawing.OverlayType.MARKER,
+					drawingControl: true,
+					drawingControlOptions: {
+						position: google.maps.ControlPosition.TOP_CENTER,
+						drawingModes: [
+							google.maps.drawing.OverlayType.MARKER,
+							google.maps.drawing.OverlayType.POLYGON,
+							google.maps.drawing.OverlayType.POLYLINE
+						]
+					},
+					markerOptions: {draggable: true},
+					polylineOptions: {geodesic: true,
+						strokeColor: "#FF0000",
+						strokeOpacity: 1.0,
+						strokeWeight: 3,
+						editable: true,
+						draggable: true},
+					polygonOptions: {geodesic: true,
+						strokeColor: "#00FF00",
+						strokeOpacity: 1.0,
+						strokeWeight: 3,
+						editable: true,
+						draggable: true}
+				});
+				drawingManager.setMap(map);
+
+
+				addLineColors();
+				addShapeColors();
+
+
+				google.maps.event.addListener(drawingManager, 'overlaycomplete', function(e) {
+					if (e.type != google.maps.drawing.OverlayType.MARKER) {
+						// Add an event listener that selects the newly-drawn shape when clicked on.
+						var newShape = e.overlay;
+						newShape.type = e.type;
+						google.maps.event.addListener(newShape, 'click', function() {
+							setSelection(newShape);
+						});
+						setSelection(newShape);
+					}
+				});
+
+				// Clear the current selection when the drawing mode is changed or the map is clicked.
+				google.maps.event.addListener(drawingManager, 'drawingmode_changed', clearSelection);
+				google.maps.event.addListener(map, 'click', clearSelection);
+			}
+		}
+	</script>
+
+</head>
+<body onload="initialize()">
+
+<table>
+	<tr style="vertical-align:top">
+
+		<td>
+			<!-- The frame used to measure the screen size -->
+			<div id="frame"></div>
+
+			<div id="map_canvas" style="width: 1000px; height: 550px"></div>
+			&nbsp;
+			<p>
+        <a href="http://www.mdhistoricdistrict.com/"><font face="Calibri" size ="2" color="black">Return to Maryland Historic District</font></a>
+
+				<input type="checkbox" id ="bars" value="bars" onChange="toggleBars();" /><label for="bars">Bars</label>
+				<input type="checkbox" id ="restaurants" value="restaurants" onChange="toggleRestaurants();"/><label for="restaurants">Restaurants</label>
+				<input type="checkbox" id ="shops" value="shops" onClick="toggleShops();" /><label for="shops">Shops</label>
+				<input type="checkbox" id ="historicsites" value="historicsites" onClick="toggleSites();"/><label for="historicsites">Historic Sites</label>
+				<input type="checkbox" id ="parks" value="parks" onClick="toggleParks();"/><label for="parks">Parks</label>
+				<input type="checkbox" id ="miscs" value="miscs" onClick="toggleMisc();"/><label for="miscs">Misc</label>
+				<input type="checkbox" id ="historicTowns" value="historicTowns" onClick="toggleTowns();"/><label for="historicTowns">Historic Towns</label>
+          </p>
+		</td>
+	</tr>
+
+</table>
+
+</body>
+</html>

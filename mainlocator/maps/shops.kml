@@ -1,0 +1,1054 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<Style id="shop">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/shop.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="shop_art">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/shop_art.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="shop_books">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/shop_book.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="shop_furniture">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/shop_furniture.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="shop_crafts">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/shop_crafts.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="grocery">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/supermarket.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="shop_toys">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/shop_toys.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="shop_candy">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/shop_candy.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="shop_clothes">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/shop_clothes.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="shop_hardware">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/shop_hardware.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="shop_jewelry">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/shop_jewelry.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="shop_wine">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/shop_wine.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+	<name>A Journey From Junk</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/a-journey-from-junk">A Journey From Junk</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=8249+Main+St,+Ellicott+City,+MD+21043&hl=en&ll=39.267618,-76.798749&spn=0.001809,0.004128&sll=39.041682,-76.986801&sspn=0.115595,0.264187&hnear=8249+Main+St,+Ellicott+City,+Maryland+21043&t=m&z=19&iwloc=A">8249 Main St, Ellicott City, MD 21043</a>
+		<br>Phone: 410-465-8330
+		<br><a href="https://www.facebook.com/pages/A-Journey-from-Junk/102635203105529">Website</a>
+
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<LookAt>
+		<longitude>-76.79874900000000</longitude>
+		<latitude>39.26761800000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79874900000000,39.26761800000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>All Time Toys</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/all-time-toys/">All Time Toys</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8185+Main+Street,+Ellicott+City,+MD&hnear=8185+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8185 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-418-4788
+		<br><a href="http://www.alltimetoys.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#shop_toys</styleUrl>
+	<LookAt>
+		<longitude>-76.79767300000000</longitude>
+		<latitude>39.26736928403600</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79767300000000,39.26736928403600,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Amber Coast</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/amber-coast/">Amber Coast</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=3+East+Patrick+Street,+Frederick,+MD&hnear=3+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">3 East Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-631-2217
+
+	]]></description>
+	<styleUrl>#shop_crafts</styleUrl>
+	<LookAt>
+		<longitude>-77.41064200000000</longitude>
+		<latitude>39.41428068506600</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.41064200000000,39.41428068506600,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Andies Candies</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/andies-candies/">Andies Candies</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8054+Main+St,+Ellicott+City,+MD&hnear=8054+Main+St,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8054 Main St, Ellicott City, MD</a>
+		<br>Phone: 410-465-8333
+		<br><a href="http://www.andiescandies.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#shop_candy</styleUrl>
+	<LookAt>
+		<longitude>-76.79572100000000</longitude>
+		<latitude>39.26772107703900</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79572100000000,39.26772107703900,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>AnnMarie&#039;s Interior Details</name>
+	<description><![CDATA[
+		AnnMarie's Interior Details
+		<br>Address: <a href="http://maps.google.com/maps?q=28+E+Patrick+Street,+Frederick,+MD&hnear=28+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">28 E Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-846-9767
+
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<LookAt>
+		<longitude>-77.40990400000000</longitude>
+		<latitude>39.41392847634400</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.40990400000000,39.41392847634400,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Antiques &amp; Old Stuff</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/antiques-old-stuff/">Antiques & Old Stuff</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8018+Main+Street,+Ellicott+City,+MD+21043&oe=utf-8&client=firefox-a&hnear=8018+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8018 Main Street, Ellicott City, MD 21043</a>
+
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<LookAt>
+		<longitude>-76.79505400000000</longitude>
+		<latitude>39.26792506989000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79505400000000,39.26792506989000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Art &amp; Artisan</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/art-artisan/">Art & Artisan</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8020+Main+Street+Ellicott+City,+MD+21043&ll=39.267908,-76.795152&spn=0.003185,0.004823&oe=utf-8&client=firefox-a&hnear=8020+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=18&vpsrc=6&iwloc=A">8020 Main Street Ellicott City, MD 21043</a>
+		<br>Phone: 410-203-9370
+		<br><a href="http://www.artandartisan.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#shop_art</styleUrl>
+	<LookAt>
+		<longitude>-76.79516500000000</longitude>
+		<latitude>39.26790000000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79516500000000,39.26790000000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Attic Antiques &#039;N Things</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/attic-antiques-n-things/">Attic Antiques 'N Things</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8241+Main+Street,+Ellicott+City,+MD&hnear=8241+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8241 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-465-5255
+
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<LookAt>
+		<longitude>-76.79862600000000</longitude>
+		<latitude>39.26749061120300</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79862600000000,39.26749061120300,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Brainstorm Comics Cards &amp; Gaming</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/brainstorm-comics/">Brainstorm Comics Cards & Gaming</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=54+East+Patrick+Street,+Frederick,+MD&hnear=54+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">54 East Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-663-3039
+		<br><a href="http://www.brainstormcomics.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#shop_books</styleUrl>
+	<LookAt>
+		<longitude>-77.40915800000000</longitude>
+		<latitude>39.41387947561800</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.40915800000000,39.41387947561800,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Carrol Creek Antiques</name>
+	<description><![CDATA[
+		Carrol Creek Antiques
+		<br>Address: <a href="http://maps.google.com/maps?q=14+East+Patrick+Street,+Frederick,+MD&hnear=14+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">14 East Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-663-8574
+
+	]]></description>
+	<styleUrl>#shop_furniture</styleUrl>
+	<LookAt>
+		<longitude>-77.41026800000000</longitude>
+		<latitude>39.41395657091900</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.41026800000000,39.41395657091900,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Chic to Chic</name>
+	<description><![CDATA[
+		Chic to Chic
+		<br>Address: <a href="http://maps.google.com/maps?q=23A+East+Patrick+Street,+Frederick,+MD&hnear=23+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">23A East Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-620-8889
+		<br><a href="http://www.chictochic.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#shop_clothes</styleUrl>
+	<LookAt>
+		<longitude>-77.40981300000000</longitude>
+		<latitude>39.41392148924500</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.40981300000000,39.41392148924500,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Colonial Jewelers</name>
+	<description><![CDATA[
+		Colonial Jewelers
+		<br>Address: <a href="http://maps.google.com/maps?q=1+South+Market+Street+Frederick,+MD&hnear=1+S+Market+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">1 South Market Street Frederick, MD</a>
+		<br>Phone: 301-663-9252
+		<br><a href="http://www.colonialjewelers.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#shop_jewelry</styleUrl>
+	<LookAt>
+		<longitude>-77.41114900000000</longitude>
+		<latitude>39.41401913078600</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.41114900000000,39.41401913078600,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Colonial Treasures</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/colonial-treasures/">Colonial Treasures</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=43+E+Patrick+St+%23+B,+Frederick,+MD&hnear=43+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">43 E Patrick St # B, Frederick, MD</a>
+		<br>Phone: 240-422-4384
+
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<LookAt>
+		<longitude>-77.40942100000000</longitude>
+		<latitude>39.41422577428400</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.40942100000000,39.41422577428400,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Cottage Antiques</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/cottage-antiques/">Cottage Antiques</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8181+Main+St+%23+1,+Ellicott+City,+MD&hnear=8181+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8181 Main St # 1, Ellicott City, MD</a>
+		<br>Phone: 410-465-1412
+
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<LookAt>
+		<longitude>-76.79755900000000</longitude>
+		<latitude>39.26735680750200</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79755900000000,39.26735680750200,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Country Crafters</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/country-crafters/">Country Crafters</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8080+Main+Street,+Ellicott+City,+MD&hnear=8080+Main+St,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">Directions to Country Crafters</a>
+		<br>Phone: 410-203-2618
+		<br><a href="http://ellicottcityhandmadecrafts.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#shop_crafts</styleUrl>
+	<LookAt>
+		<longitude>-76.79618700000000</longitude>
+		<latitude>39.26759104069500</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79618700000000,39.26759104069500,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Discoveries</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/discoveries/">Discoveries</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8055+Main+Street,+Ellicott+City,+MD&hnear=8055+Main+St,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8055 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-461-9600
+
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<LookAt>
+		<longitude>-76.79554200000000</longitude>
+		<latitude>39.26756544789600</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79554200000000,39.26756544789600,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Ecclectibles</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/ecclectibles/">Ecclectibles</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=13+East+Patrick+Street,+Frederick,+MD&ll=39.415408,-77.410333&spn=0.007907,0.015686&hnear=13+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0&iwloc=A">13 East Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-662-7670
+		<br><a href="http://www.ecclectibles.net/">Website</a>
+
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<LookAt>
+		<longitude>-77.41034700000000</longitude>
+		<latitude>39.41426648721400</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.41034700000000,39.41426648721400,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Ellicott&#039;s Country Store</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/ellicotts-country-store/">Ellicott's Country Store</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8180+Main+Street,+Ellicott+City,+MD&hnear=8180+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8180 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-465-4482
+
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<LookAt>
+		<longitude>-76.79751000000000</longitude>
+		<latitude>39.26755114093600</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79751000000000,39.26755114093600,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Fabulous Finds</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/fabulous-finds/">Fabulous Finds</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=24+E+Patrick+Street,+Frederick,+MD&hnear=24+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">24 E Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-694-9390
+		<br><a href="http://www.facebook.com/pages/Fabulous-Finds-of-Frederick/308837430024?sk=info">Website</a>
+
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<LookAt>
+		<longitude>-77.40999900000000</longitude>
+		<latitude>39.41393574718300</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.40999900000000,39.41393574718300,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Harpers Ferry Books</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/harpers-ferry-books">Harpers Ferry Books</a>
+
+	]]></description>
+	<styleUrl>#shop_books</styleUrl>
+	<LookAt>
+		<longitude>-77.73113864770625</longitude>
+		<latitude>39.32360159466828</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.73113864770625,39.32360159466828,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Heritage Antiques</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/heritage-antiques/">Heritage Antiques</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=39+E.+Patrick+Street,+Frederick,+MD&hnear=39+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">39 E Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-668-0299
+		<br><a href="http://www.heritageantiques.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<LookAt>
+		<longitude>-77.40956300000000</longitude>
+		<latitude>39.41423360347100</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.40956300000000,39.41423360347100,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Hi Ho Silver Co</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/hi-ho-silver-co/">Hi Ho Silver Co</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=3732+Old+Columbia+Pike,+Ellicott+City,+MD&hnear=3732+Old+Columbia+Pike,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">3732 Old Columbia Pike, Ellicott City, MD</a>
+		<br>Phone: 410-461-4100
+
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<LookAt>
+		<longitude>-76.79910400000000</longitude>
+		<latitude>39.26708028163100</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79910400000000,39.26708028163100,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Home Essentials</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/home-essentials/">Home Essentials</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=38+East+Patrick+Street,+Frederick,+MD&hnear=38+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">38 East Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-696-9070
+		<br><a href="http://homeessentialsfrederick.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#shop_furniture</styleUrl>
+	<LookAt>
+		<longitude>-77.40960600000000</longitude>
+		<latitude>39.41391008866600</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.40960600000000,39.41391008866600,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Little&#039;s Fine Furniture</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/littles-fine-furniture/">Little's Fine Furniture</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=55+East+Patrick+Street,+Frederick,+MD&hnear=55+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">55 East Patrick Street, Frederick, MD</a>
+		<br>Phone: 1-866-691-7199
+		<br><a href="http://www.littlesfurniture.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#shop_furniture</styleUrl>
+	<LookAt>
+		<longitude>-77.41022800000000</longitude>
+		<latitude>39.41425801940400</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.41022800000000,39.41425801940400,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Original Souls</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/original-souls/">Original Souls</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8120+Main+Street,+Ellicott+City,+MD&hnear=8120+Main+St,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8120 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-461-2300
+		<br><a href="http://www.originalsouls.net/">Website</a>
+
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<LookAt>
+		<longitude>-76.79676600000000</longitude>
+		<latitude>39.26746295136700</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79676600000000,39.26746295136700,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Out Of Our Past Antiques</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/out-of-our-past-antiques/">Out Of Our Past Antiques</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8111+Main+Street,+Ellicott+City,+MD&hnear=8111+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8111 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-480-2970
+		<br><a href="http://outofourpastantiques.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<LookAt>
+		<longitude>-76.79643100000000</longitude>
+		<latitude>39.26730336063100</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79643100000000,39.26730336063100,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Precious Gifts</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/precious-gifts/">Precious Gifts</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8225+Main+Street,+Ellicott+City,+MD&hnear=8225+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8225 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-461-6813
+		<br><a href="http://www.preciousgifts.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<LookAt>
+		<longitude>-76.79834100000000</longitude>
+		<latitude>39.26739531566500</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79834100000000,39.26739531566500,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Retropolitan Ltd</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/retropolitan/">Retropolitan Ltd</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8227+Main+Street,+Ellicott+City,+MD&hnear=8227+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8227 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-461-0701
+		<br><a href="http://www.retropolitan.net/">Website</a>
+
+	]]></description>
+	<styleUrl>#shop_clothes</styleUrl>
+	<LookAt>
+		<longitude>-76.79843900000000</longitude>
+		<latitude>39.26747214586900</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79843900000000,39.26747214586900,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Samuel J Yates &amp; Son Grocery</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/samuel-j-yates-son-grocery/">Samuel J Yates & Son Grocery</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8249+Main+Street,+Ellicott+City,+MD&hnear=8249+Main+St,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8249 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-465-3222
+
+	]]></description>
+	<styleUrl>#grocery</styleUrl>
+	<LookAt>
+		<longitude>-76.79883100000000</longitude>
+		<latitude>39.26751111600000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79883100000000,39.26751111600000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Shoemaker Country</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/shoemaker-country/">Shoemaker Country</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8185+Main+Street,+Ellicott+City,+MD&hnear=8185+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8185 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-461-5552
+		<br><a href="http://www.shoemakercountry.net/">Website</a>
+
+	]]></description>
+	<styleUrl>#shop_furniture</styleUrl>
+	<LookAt>
+		<longitude>-76.79627300000000</longitude>
+		<latitude>39.26734669858100</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79627300000000,39.26734669858100,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Sweet Cascades</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/sweet-cascades/">Sweet Cascades</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8167+Main+St+%23+2,+Ellicott+City,+MD&hnear=8167+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8167 Main St # 2, Ellicott City, MD</a>
+		<br>Phone: 410-750-8422
+
+	]]></description>
+	<styleUrl>#shop_candy</styleUrl>
+	<LookAt>
+		<longitude>-76.79720000000000</longitude>
+		<latitude>39.26726673811600</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79720000000000,39.26726673811600,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Sweet Memories</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/sweet-memories/">Sweet Memories</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=43+East+Patrick+Street,+Frederick,+MD&hnear=43+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">43 East Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-620-4202
+		<br><a href="http://www.sweetmemoriescandystore.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#shop_candy</styleUrl>
+	<LookAt>
+		<longitude>-77.40948800000000</longitude>
+		<latitude>39.41422947605300</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.40948800000000,39.41422947605300,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Taylor&#039;s Antique Mall</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/taylors-antique-mall/">Taylor's Antique Mall</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8197+Main+Street,+Ellicott+City,+MD&hnear=8197+Main+St,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8197 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-465-4444
+		<br><a href="http://www.taylorsantiquemall.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<LookAt>
+		<longitude>-76.79780600000000</longitude>
+		<latitude>39.26738669405500</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79780600000000,39.26738669405500,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>The Forget Me Not Factory</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/the-forget-me-not-factory/">The Forget Me Not Factory</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8044+Main+Street,+Ellicott+City,+MD&hnear=8044+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8044 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-465-7355
+		<br><a href="http://www.forgetmenotfactory.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<LookAt>
+		<longitude>-76.79930600000000</longitude>
+		<latitude>39.26788821881300</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79930600000000,39.26788821881300,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Vintage Girls</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/vintage-girls/">Vintage Girls</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8086+Main+Street,+Ellicott+City,+MD&hnear=8086+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8086 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-465-5117
+
+	]]></description>
+	<styleUrl>#shop_clothes</styleUrl>
+	<LookAt>
+		<longitude>-76.79625800000000</longitude>
+		<latitude>39.26757170131600</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79625800000000,39.26757170131600,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Wagon Wheel Antique Shop</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/wagon-wheel-antique-shop/">Wagon Wheel Antique Shop</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8061+Tiber+Aly,+Ellicott+City,+MD&hnear=8061+Tiber+Alley,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8061 Tiber Aly, Ellicott City, MD</a>
+		<br>Phone: 410-465-7910
+
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<LookAt>
+		<longitude>-76.79568500000000</longitude>
+		<latitude>39.26722863308200</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79568500000000,39.26722863308200,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Wine &amp; Gourmet</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/wine-gourmet">Wine & Gourmet</a>
+		<br>Address: <a href="https://www.google.com/maps?q=wine+and+gourmet+harpers+ferry&hl=en&sll=39.323652,-77.733942&sspn=0.01391,0.01929&t=m&z=17&iwloc=A">196 High St, Harpers Ferry, WV ‎</a>
+		<br>Phone: 304-535-1834
+
+	]]></description>
+	<styleUrl>#shop_wine</styleUrl>
+	<LookAt>
+		<longitude>-77.73188301104788</longitude>
+		<latitude>39.32401766199406</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.73188301104788,39.32401766199406,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Wine Bin</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/the-wine-bin/">Wine Bin</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8390+Main+St+%23+1,+Ellicott+City,+MD&hnear=8390+Main+St,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8390 Main St # 1, Ellicott City, MD</a>
+		<br>Phone: 410-465-7802
+		<br><a href="http://www.winebinec.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#shop_wine</styleUrl>
+	<LookAt>
+		<longitude>-76.80039900000000</longitude>
+		<latitude>39.26862954115700</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.80039900000000,39.26862954115700,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Yates Hardware</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/yates-hardware/">Yates Hardware</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8249+Main+Street,+Ellicott+City,+MD&hnear=8249+Main+St,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8249 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-465-4480
+
+	]]></description>
+	<styleUrl>#shop_hardware</styleUrl>
+	<LookAt>
+		<longitude>-76.79872900000000</longitude>
+		<latitude>39.26750239206200</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79872900000000,39.26750239206200,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Yuppy Puppy Pet Boutique</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/yuppy-puppy-pet-boutique/">Yuppy Puppy Pet Boutique</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8120+Main+Street,+Ellicott+City,+MD&hnear=8120+Main+St,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8120 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-750-9663
+		<br><a href="http://theyuppypuppypetboutique.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<LookAt>
+		<longitude>-76.79657300000000</longitude>
+		<latitude>39.26748759651700</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79657300000000,39.26748759651700,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Zepop</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/zebop/">Zepop</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8034+Main+Street,+Ellicott+City,+MD+21043&ll=39.267815,-76.795233&spn=0.001593,0.002411&oe=utf-8&client=firefox-a&hnear=8034+Main+St,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=19&vpsrc=6">8034 Main Street Ellicott City, MD 21043</a>
+		<br>Phone: 410-461-8045
+		<br><a href="http://www.facebook.com/pages/ZEBOP-of-Historic-Ellicott-City/284178702254">Website</a>
+
+	]]></description>
+	<styleUrl>#shop_clothes</styleUrl>
+	<LookAt>
+		<longitude>-76.79533200000000</longitude>
+		<latitude>39.26784410066600</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79533200000000,39.26784410066600,0</coordinates>
+	</Point>
+	</Placemark>
+
+</Document>
+</kml>

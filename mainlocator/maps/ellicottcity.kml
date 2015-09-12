@@ -1,0 +1,814 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>Ellicott City</name>
+	<description>Restaurants and shops around Ellicott City</description>
+
+
+	<Style id="restaurant">
+		<LineStyle><color>75FF0000</color><width>0.1</width></LineStyle>
+		<PolyStyle><color>63FF0000</color></PolyStyle>
+	</Style>
+	<Style id="bar">
+		<LineStyle><color>85FFAA00</color><width>0.1</width></LineStyle>
+		<PolyStyle><color>75FFAA00</color></PolyStyle>
+	</Style>
+	<Style id="shop">
+		<LineStyle><color>770000FF</color><width>0.1</width></LineStyle>
+		<PolyStyle><color>550000FF</color></PolyStyle>
+	</Style>
+	<Style id="site">
+		<LineStyle><color>ff003e7c</color><width>0.1</width></LineStyle>
+		<PolyStyle><color>bd003e7c</color></PolyStyle>
+	</Style>
+	<Style id="art">
+		<LineStyle><color>FF8255AA</color><width>0.1</width></LineStyle>
+		<PolyStyle><color>958255AA</color></PolyStyle>
+	</Style>
+	<Style id="park">
+		<LineStyle><color>FF00FFAA</color><width>0.1</width></LineStyle>
+		<PolyStyle><color>9500FFAA</color></PolyStyle>
+	</Style>
+	<Style id="misc">
+		<LineStyle><color>FF00AAFF</color><width>0.1</width></LineStyle>
+		<PolyStyle><color>9500AAFF</color></PolyStyle>
+	</Style>
+
+
+	<Placemark>
+	<name>La Palapa Grill</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/la-palapa/">La Palapa Grill</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8307+Main+Street,+Ellicott+City,+MD&hnear=8307+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8307 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-465-0070
+		<br><a href="http://lapalapagrill.com/">Website</a>
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.80015699875516,39.26786420877554,0 -76.8002316308215,39.26780593838384,0 -76.80037337500069,39.26768571643041,0 -76.80023217734389,39.26758615511643,0 -76.80012811762835,39.2676866463088,0 -76.80000510638897,39.26761262631498,0 -76.79989995157786,39.26770369070857,0 -76.79991343531032,39.26771551890538,0 -76.79985985148575,39.26775920734814,0 -76.79997998619616,39.26782896445272,0 -76.80001845496321,39.26778884612901,0 -76.80002211240706,39.26778634466413,0 -76.80002427571212,39.26778471517575,0 -76.80008023595279,39.26781682613801,0 -76.80015699875516,39.26786420877554,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+
+	<Placemark>
+	<name>Phoenix Emporium</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/phoenix-emporium/">Phoenix Emplorium</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8049+Main+Street,+Ellicott+City,+MD+&hl=en&sll=39.267628,-76.795496&sspn=0.012742,0.01929&vpsrc=0&hnear=8049+Main+St,+Ellicott+City,+Maryland+21043&t=h&z=17">8049 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-465-5665
+		<br><a href="http://www.facebook.com/ThePhoenixEmporium">Website</a>
+	]]></description>
+	<styleUrl>#bar</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79554406945032,39.26762238907618,0 -76.79539900899302,39.26738175018208,0 -76.79528975324257,39.26741659563385,0 -76.79544443182617,39.26765585882197,0 -76.79554406945032,39.26762238907618,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+
+	<Placemark>
+	<name>Tiber River Tavern</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/tiber-river-tavern/">Tiber River Tavern</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=3747+Old+Columbia+Pike,+Ellicott+City,+MD&hnear=3747+Old+Columbia+Pike,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">3747 Old Columbia Pike, Ellicott City, MD</a>
+	]]></description>
+	<styleUrl>#bar</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79857244664417,39.26708069748707,0 -76.79859910140097,39.2671255192782,0 -76.79873654153572,39.26708554700321,0 -76.79869379812543,39.26704303644119,0 -76.79857244664417,39.26708069748707,0
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+
+	<Placemark>
+	<name>Diamondback Tavern</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/diamondback-tavern/">Diamondback Tavern</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=3733+Old+Columbia+Pike,+Ellicott+City,+MD&hnear=3733+Old+Columbia+Pike,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">3733 Old Columbia Pike, Ellicott City, MD</a>
+		<br>Phone: 410-313-8530
+		<br><a href="http://www.diamondbacktavern.com/">Website</a
+	]]></description>
+	<styleUrl>#bar</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79869360690374,39.26704197129939,0 -76.79874409368608,39.26709207780883,0 -76.79887993735072,39.26703954687835,0 -76.79883184491827,39.26698833802382,0 -76.79869360690374,39.26704197129939,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Ellicott Mills Brewing Company</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/ellicott-mills-brewing-company/">Ellicott Mills Brewing Company</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8308+Main+Street,+Ellicott+City,+MD&hnear=8308+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8308 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-313-8141
+		<br><a href="http://www.ellicottmillsbrewing.com/">Website</a>
+	]]></description>
+	<styleUrl>#bar</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79951458391808,39.26799956150146,0 -76.79930025778378,39.26819722662913,0 -76.79940815284478,39.26825621771504,0 -76.79961855444076,39.26806789044929,0 -76.79951458391808,39.26799956150146,0
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>The Trolley Stop</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/the-trolley-stop/">The Trolley Stop</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=6+Oella+Avenue,+Ellicott+City,+MD&hnear=6+Oella+Ave,+Catonsville,+Baltimore,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">6 Oella Avenue, Ellicott City, MD</a>
+		<br>Phone: 410-465-8546
+		<br><a href="http://thetrolleystop.com/">Website</a>
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79340103133092,39.26804434965983,0 -76.79337419787123,39.267905673107,0 -76.79336047576257,39.2679074712203,0 -76.79335375388516,39.26787696638585,0 -76.79320506579074,39.26788752088521,0 -76.79324939795365,39.26806387371341,0 -76.79340103133092,39.26804434965983,0
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Pure Wine Cafe</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/pure-wine-cafe/">Pure Wine Cafe</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8210+Main+Street,+Ellicott+City,+MD&hnear=8210+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8210 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-480-5037
+		<br><a href="http://www.purewinecafe.com/">Website</a>
+	]]></description>
+	<styleUrl>#bar</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79812034876538,39.2677334793344,0 -76.79812089849634,39.26770347687723,0 -76.79813436094675,39.26770285931245,0 -76.79816802234825,39.2676088971531,0 -76.79799128088972,39.26758675388177,0 -76.79794703828262,39.2677033577013,0 -76.79802807706227,39.26770268705815,0 -76.79802321561725,39.26773392301131,0 -76.79812034876538,39.2677334793344,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>The Rumor Mill</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/the-rumor-mill/">The Rumor Mill</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8069+Tiber+Alley,+Ellicott+City,+MD&hnear=8069+Tiber+Alley,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8069 Tiber Alley, Ellicott City, MD</a>
+		<br>Phone: 410-461-0041
+		<br><a href="http://www.therumormillrestaurant.com/">Website</a>
+	]]></description>
+	<styleUrl>#bar</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79588808516431,39.26716905222676,0 -76.79587121757494,39.26714910896277,0 -76.79583950510188,39.26716211540643,0 -76.79584983557584,39.2671830432088,0 -76.79582954927759,39.26719166482807,0 -76.79581904759976,39.26717416772635,0 -76.79576857174824,39.26719237963938,0 -76.79576776426063,39.26719408572445,0 -76.79576854456225,39.26719559364673,0 -76.79576876036499,39.2671971575158,0 -76.79577146309266,39.26720862218222,0 -76.79580014443566,39.2672657761066,0 -76.7958545778146,39.26724217045008,0 -76.79590300407827,39.2673225001997,0 -76.79601267935486,39.26728542230428,0 -76.79593384507038,39.26715510730979,0 -76.79588808516431,39.26716905222676,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Tea on the Tiber</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/tea-on-the-tiber/">Tea on the Tiber</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8081+Main+Street,+Ellicott+City,+MD&hnear=8081+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8081 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-480-8000
+		<br><a href="http://www.teaonthetiber.com/">Website</a>
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79602816610594,39.26735353938339,0 -76.79601723329733,39.26733157210374,0 -76.79592836595495,39.26736045503626,0 -76.79600153391378,39.26747640027481,0 -76.79610944647051,39.26744836574731,0 -76.79602816610594,39.26735353938339,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Portalli&apos;s</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/portallis/">Portalli's</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8085+Main+Street,+Ellicott+City,+MD&hnear=8085+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8085 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-720-2330
+		<br><a href="http://www.portallisec.com/">Website</a
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79601051897686,39.26721875019128,0 -76.79603326046718,39.26726463853186,0 -76.7960060485005,39.26727173808398,0 -76.79611229677697,39.26744951859968,0 -76.79621747135026,39.26741985502247,0 -76.79608457436854,39.26720374464768,0 -76.79601051897686,39.26721875019128,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Ellicott Firehouse Museum</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/ellicott-firehouse-museum/">Ellicott Firehouse Museum</a>
+		<br>Address: <a href="">3829 Church Road, Ellicott City, MD</a>
+		<br>Phone: 410-465-8500
+	]]></description>
+	<styleUrl>#site</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79822885137827,39.26770314228938,0 -76.79834958772501,39.26768326214188,0 -76.79835346099489,39.26766211697959,0 -76.79837470056154,39.26766340921251,0 -76.79837895865356,39.26764459887482,0 -76.79840679146697,39.26764374921731,0 -76.79840908582648,39.2676277188228,0 -76.79823192542575,39.26760963375876,0 -76.79822885137827,39.26770314228938,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+
+	
+	<Placemark>
+	<name>Bean Hollow</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/bean-hollow/">Bean Hollow</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8059+Main+Street,+Ellicott+City,+MD&hnear=8059+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8059 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-465-0233
+		<br><a href="http://beanhollowcoffee.com/">Website</a>
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.7956904065769,39.26757136773503,0 -76.79562989953658,39.26745539090561,0 -76.79555048090575,39.26748385216412,0 -76.79561193163687,39.26759447977247,0 -76.7956904065769,39.26757136773503,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+
+	
+	<Placemark>
+	<name>Cacao Lane Restaurant</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/cacao-lane/">Cacao Lane Restaurant</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8066+Main+Street,+Ellicott+City,+MD&hnear=8066+Main+St,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8066 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-461-1378
+		<br><a href="http://www.cacaolane.net/">Website</a>
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.7961828209861,39.26776240277345,0 -76.79615724489429,39.26766356501327,0 -76.79617888968066,39.26763062828769,0 -76.79614792107164,39.2675691771186,0 -76.79605423801955,39.26758950959983,0 -76.79604519820387,39.26757853489603,0 -76.7959164508508,39.26761743096002,0 -76.79598861589371,39.26781665372415,0 -76.7961828209861,39.26776240277345,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Sidestreets Restaurant</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/sidestreets-restaurant/">Sidestreets Restaurant</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8069+Tiber+Ellicott+City,+MD+21043&hnear=8069+Tiber+Alley,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8069 Tiber AlyEllicott City, MD 21043</a>
+		<br>Phone: 410-461-5577
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79585481501547,39.26715630873693,0 -76.79579964806223,39.26707942851475,0 -76.79576456071692,39.26709283252034,0 -76.79575401788925,39.26708123575525,0 -76.7957137196631,39.26709515903821,0 -76.79572915304958,39.2671112152963,0 -76.79569351043597,39.26712362431783,0 -76.79575691785763,39.26720042046338,0 -76.79585481501547,39.26715630873693,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+
+	<Placemark>
+	<name>Tersiguel&apos;s French Country Restaurant</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/tersiguels/">Tersiguel&apos;s French Country Restaurant</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8293+Main+Street,+Ellicott+City,+MD&hnear=8293+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8293 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-465-4004
+		<br><a href="http://www.tersiguels.com/">Website</a>
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79961193824876,39.26757075767973,0 -76.79944741366106,39.26773380425788,0 -76.79952826059549,39.26778799138447,0 -76.79970008533121,39.26762268766605,0 -76.79961193824876,39.26757075767973,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+
+	<Placemark>
+	<name>Johny&apos;s Bistro on Main</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/johnnys-bistro-on-main/">Johny&apos;s Bistro on Main</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8167+Main+St+%23+1,+Ellicott+City,+MD&hl=en&gl=us&hnear=8167+Main+St,+Ellicott+City,+Maryland+21043&t=h&z=16&vpsrc=0">8167 Main St # 1, Ellicott City, MD</a>
+		<br>Phone: 410-461-8210
+		<br><a href="http://www.johnnysbistro.net/">Website</a>
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.7973258509748,39.26707346420076,0 -76.79726201964803,39.26733764273625,0 -76.79740850294272,39.26735630159563,0 -76.79748602700812,39.26709402701368,0 -76.7973258509748,39.26707346420076,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+
+	<Placemark>
+	<name>Jordan's Steakhouse</name>
+	<description><![CDATA[
+		Article: http://www.mdhistoricdistrict.com/jordans-steakhouse/
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79590240350198,39.2674994487559,0 -76.79597270324631,39.26747178980548,0 -76.79588919934461,39.26736121688658,0 -76.79581589157337,39.26738003577431,0 -76.79590240350198,39.2674994487559,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+
+	<Placemark>
+	<name>Sarah &amp; Desmonds Gourmet Bakery</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/sarah-desmonds-gourmet-bakery/">Sarah &amp; Desmonds Gourmet Bakery</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=3715+Old+Columbia+Pike,+Ellicott+City,+MD&hnear=3715+Old+Columbia+Pike,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">3715 Old Columbia Pike, Ellicott City, MD</a>
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.7984604472846,39.26719387328173,0 -76.79828508435008,39.26703935875964,0 -76.79812809237987,39.26711710864812,0 -76.79828366447561,39.26726299428711,0 -76.7984604472846,39.26719387328173,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+
+
+
+	<Placemark>
+	<name>Andies Candies</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/andies-candies/">Andies Candies</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8054+Main+St,+Ellicott+City,+MD&hnear=8054+Main+St,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8054 Main St, Ellicott City, MD</a>
+		<br>Phone: 410-465-8333
+		<br><a href="http://www.andiescandies.com/">Website</a>
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79583621205703,39.26785536797829,0 -76.79577117452087,39.26767233690471,0 -76.79566835503198,39.26770342363498,0 -76.79575308024431,39.26790072014863,0 -76.79580298465334,39.26788605857481,0 -76.7957964768222,39.26786856258499,0 -76.79583621205703,39.26785536797829,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Sweet Cascades</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/sweet-cascades/">Sweet Cascades</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8167+Main+St+%23+2,+Ellicott+City,+MD&hnear=8167+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8167 Main St # 2, Ellicott City, MD</a>
+		<br>Phone: 410-750-8422
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79712489523269,39.26731128398584,0 -76.79726354065528,39.26733616380849,0 -76.79732503565475,39.26707486154111,0 -76.79718078529147,39.26708898361375,0 -76.79712489523269,39.26731128398584,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>All Time Toys</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/all-time-toys/">All Time Toys</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8185+Main+Street,+Ellicott+City,+MD&hnear=8185+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8185 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-418-4788
+		<br><a href="http://www.alltimetoys.com/">Website</a>
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79776034079133,39.26729097675912,0 -76.79775540402343,39.26730009471564,0 -76.79767619415001,39.26728376921889,0 -76.7976371289316,39.26741252286903,0 -76.79771917139991,39.2674251502819,0 -76.79776034079133,39.26729097675912,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Yuppy Puppy Pet Boutique</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/yuppy-puppy-pet-boutique/">Yuppy Puppy Pet Boutique</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8120+Main+Street,+Ellicott+City,+MD&hnear=8120+Main+St,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8120 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-750-9663
+		<br><a href="http://theyuppypuppypetboutique.com/">Website</a>
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79665306689611,39.26756013413788,0 -76.79662867751792,39.26744740377247,0 -76.79653464813519,39.26746783489741,0 -76.79656566535059,39.26758247806728,0 -76.79665306689611,39.26756013413788,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+
+
+	
+	<Placemark>
+	<name>Taylor&apos;s Antique Mall</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/taylors-antique-mall/">Taylor&apos;s Antique Mall</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8197+Main+Street,+Ellicott+City,+MD&hnear=8197+Main+St,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8197 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-465-4444
+		<br><a href="http://www.taylorsantiquemall.com/">Website</a>
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79787346735549,39.26746252447034,0 -76.79791431318007,39.26727730506065,0 -76.79777650606107,39.26719916791534,0 -76.79771986579392,39.26742339791594,0 -76.79787346735549,39.26746252447034,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Cottage Antiques</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/cottage-antiques/">Cottage Antiques</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8181+Main+St+%23+1,+Ellicott+City,+MD&hnear=8181+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8181 Main St # 1, Ellicott City, MD</a>
+		<br>Phone: 410-465-1412
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79748542233807,39.26738035533476,0 -76.79763668944736,39.26741049647669,0 -76.797682027739,39.2672662174362,0 -76.797532495629,39.26723524568043,0 -76.79748542233807,39.26738035533476,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Out Of Our Past Antiques</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/out-of-our-past-antiques/">Out Of Our Past Antiques</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8111+Main+Street,+Ellicott+City,+MD&hnear=8111+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8111 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-480-2970
+		<br><a href="http://outofourpastantiques.com/">Website</a>
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79641411828183,39.26736202382317,0 -76.79651987942302,39.26733237837829,0 -76.79647462302577,39.2672562300866,0 -76.79637248106255,39.26728541919093,0 -76.79641411828183,39.26736202382317,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Ellicott&apos;s Country Store</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/ellicotts-country-store/">Ellicott&apos;s Country Store</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8180+Main+Street,+Ellicott+City,+MD&hnear=8180+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8180 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-465-4482
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79745077116471,39.26752321611431,0 -76.79743663096244,39.26760324383338,0 -76.79757493700876,39.26762129406885,0 -76.79760068489779,39.26754769745261,0 -76.79745077116471,39.26752321611431,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Hi Ho Silver Co</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/hi-ho-silver-co/">Hi Ho Silver Co</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=3732+Old+Columbia+Pike,+Ellicott+City,+MD&hnear=3732+Old+Columbia+Pike,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">3732 Old Columbia Pike, Ellicott City, MD</a>
+		<br>Phone: 410-461-4100
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79920253927348,39.26701627242573,0 -76.7991164543857,39.26698620082623,0 -76.79905911498049,39.26708388554672,0 -76.79900178836934,39.26710057251409,0 -76.79902456992231,39.26717185465111,0 -76.79915825461016,39.26713494110724,0 -76.79914970925663,39.26710518269598,0 -76.79920253927348,39.26701627242573,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+
+	<Placemark>
+	<name>The Forget Me Not Factory</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/the-forget-me-not-factory/">The Forget Me Not Factory</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8044+Main+Street,+Ellicott+City,+MD&hnear=8044+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8044 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-465-7355
+		<br><a href="http://www.forgetmenotfactory.com/">Website</a>	
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79939968467943,39.26791247193876,0 -76.79928151448338,39.26783401432638,0 -76.79916852159417,39.26792634287007,0 -76.79923916157142,39.26796764928027,0 -76.79920408914352,39.2679986614298,0 -76.79925778376615,39.26803668816766,0 -76.79939968467943,39.26791247193876,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Precious Gifts</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/precious-gifts/">Precious Gifts</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8225+Main+Street,+Ellicott+City,+MD&hnear=8225+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8225 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-461-6813
+		<br><a href="http://www.preciousgifts.com/">Website</a>
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79855721711384,39.26724455827337,0 -76.79826989700386,39.2673552077277,0 -76.7982448434429,39.26748829388407,0 -76.79840639618948,39.26750782781826,0 -76.7984323976809,39.2673861441646,0 -76.7986055588887,39.26731920169057,0 -76.79855721711384,39.26724455827337,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+
+	<Placemark><name>Wine Bin</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/the-wine-bin/">Wine Bin</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8390+Main+St+%23+1,+Ellicott+City,+MD&hnear=8390+Main+St,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8390 Main St # 1, Ellicott City, MD</a>
+		<br>Phone: 410-465-7802
+		<br><a href="http://www.winebinec.com/">Website</a>
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.80039795972962,39.26852325200665,0 -76.80022369454082,39.26876745746955,0 -76.80035386379609,39.26882702187637,0 -76.80052907929179,39.26858141254679,0 -76.80039795972962,39.26852325200665,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Original Souls</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/original-souls/">Original Souls</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8120+Main+Street,+Ellicott+City,+MD&hnear=8120+Main+St,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8120 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-461-2300
+		<br><a href="http://www.originalsouls.net/">Website</a>
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79671315592644,39.26743516540411,0 -76.79673969278962,39.26754809046263,0 -76.79682913327783,39.26754152603726,0 -76.79681975566105,39.26743148880298,0 -76.79671315592644,39.26743516540411,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+
+	
+	
+
+	
+	
+
+	
+	<Placemark>
+	<name>Clef Notes Music &amp; Cafe</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/clef-notes-music-cafe/">Clef Notes Music &amp; Cafe</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8321+Main+Street,+Ellicott+City,+MD&hnear=8321+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8321 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-461-6709
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.80054560443377,39.26760000136441,0 -76.80053404976012,39.26759260869731,0 -76.80059491824564,39.26755269556074,0 -76.80050885157606,39.26748633144509,0 -76.80038946264729,39.2675691773868,0 -76.80047747896099,39.26764500079025,0 -76.80054560443377,39.26760000136441,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+
+	
+	<Placemark>
+	<name>Samuel J Yates &amp; Son Grocery</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/samuel-j-yates-son-grocery/">Samuel J Yates &amp; Son Grocery</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8249+Main+Street,+Ellicott+City,+MD&hnear=8249+Main+St,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8249 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-465-3222
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79886862112127,39.26756037200973,0 -76.79890269920259,39.26746174440713,0 -76.79880148263062,39.26744013369987,0 -76.79877552154777,39.26754576456406,0 -76.79886862112127,39.26756037200973,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Yates Hardware</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/yates-hardware/">Yates Hardware</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8249+Main+Street,+Ellicott+City,+MD&hnear=8249+Main+St,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8249 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-465-4480
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79878692480175,39.2674854112044,0 -76.7987433887824,39.26747856225224,0 -76.7987695319483,39.26739036609652,0 -76.7987034270772,39.2673823842725,0 -76.79866237469641,39.26752944655769,0 -76.79877321587493,39.26754387704665,0 -76.79878692480175,39.2674854112044,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Attic Antiques &apos;N Things</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/attic-antiques-n-things/">Attic Antiques &apos;N Things</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8241+Main+Street,+Ellicott+City,+MD&hnear=8241+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8241 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-465-5255
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79869133790037,39.26742802666643,0 -76.7987043862267,39.26736993254796,0 -76.7986385088828,39.26736819846219,0 -76.79862631472749,39.26741123967702,0 -76.79859774115099,39.26740706699142,0 -76.79857118548453,39.26752298548242,0 -76.79865039546476,39.2675335636638,0 -76.79869133790037,39.26742802666643,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+
+	
+	<Placemark>
+	<name>Retropolitan Ltd</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/retropolitan/">Retropolitan Ltd</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8227+Main+Street,+Ellicott+City,+MD&hnear=8227+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8227 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-461-0701
+		<br><a href="http://www.retropolitan.net/">Website</a>
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79847360070207,39.26751126868881,0 -76.79850068166178,39.26738392144353,0 -76.79843007027959,39.26740288685026,0 -76.79840632133617,39.26750428008136,0 -76.79847360070207,39.26751126868881,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	
+
+	
+	
+	<Placemark>
+	<name>Shoemaker Country</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/shoemaker-country/">Shoemaker Country</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8185+Main+Street,+Ellicott+City,+MD&hnear=8185+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8185 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-461-5552
+		<br><a href="http://www.shoemakercountry.net/">Website</a>
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79641250824272,39.267363949185,0 -76.79630348718627,39.26716963755074,0 -76.79625270163244,39.26718272033877,0 -76.79624082695449,39.26716658146759,0 -76.79615751485994,39.2671918516545,0 -76.79613782334089,39.26719034750083,0 -76.79614447310837,39.26720640445296,0 -76.79609480876627,39.26721965027199,0 -76.79621913911302,39.26742178564425,0 -76.79641250824272,39.267363949185,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	
+	<Placemark>
+	<name>Wagon Wheel Antique Shop</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/wagon-wheel-antique-shop/">Wagon Wheel Antique Shop</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8061+Tiber+Aly,+Ellicott+City,+MD&hnear=8061+Tiber+Alley,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8061 Tiber Aly, Ellicott City, MD</a>
+		<br>Phone: 410-465-7910
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79576844642701,39.26720129462662,0 -76.79574323060814,39.26720513659269,0 -76.79572643983553,39.26716809163327,0 -76.79558482064435,39.26720094333724,0 -76.79563555089821,39.26728899738655,0 -76.79579331294713,39.26725462330641,0 -76.79576844642701,39.26720129462662,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	
+	<Placemark>
+	<name>Vintage Girls</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/vintage-girls/">Vintage Girls</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8086+Main+Street,+Ellicott+City,+MD&hnear=8086+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8086 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-465-5117
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79631531853852,39.26758581328063,0 -76.79630700199886,39.26756273502233,0 -76.79628341557681,39.2675389696146,0 -76.79628342330857,39.2675400436562,0 -76.79621893526183,39.26755498842454,0 -76.79624956586972,39.26763374205873,0 -76.79631463526769,39.26761298689281,0 -76.79631531853852,39.26758581328063,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	
+	<Placemark>
+	<name>Country Crafters</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/country-crafters/">Country Crafters</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8080+Main+Street,+Ellicott+City,+MD&hnear=8080+Main+St,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8080 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-203-2618
+		<br><a href="http://ellicottcityhandmadecrafts.com/">Website</a>
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79626194367452,39.26769220210785,0 -76.7962570424363,39.26766325283321,0 -76.79621817186315,39.26755628950146,0 -76.79615144877779,39.26757505150327,0 -76.79617909926363,39.26763077407244,0 -76.79616967475732,39.26764513549109,0 -76.79619090704699,39.26770778960215,0 -76.79626194367452,39.26769220210785,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+
+	
+	<Placemark>
+	<name>Discoveries</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/discoveries/">Discoveries</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8055+Main+Street,+Ellicott+City,+MD&hnear=8055+Main+St,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8055 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-461-9600
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79560746798569,39.26759152906015,0 -76.79547981783735,39.26735954689288,0 -76.7954019640525,39.26738264975601,0 -76.79554027120103,39.26761478981319,0 -76.79560746798569,39.26759152906015,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	
+	
+	<Placemark>
+	<name>The Obladi</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/the-obladi/">The Obladi</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8060+Main+St,+Ellicott+City,+MD&hnear=8060+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8060 Main St, Ellicott City, MD</a>
+		<br>Phone: 410-480-1968
+		<br><a href="http://theobladi.com/">Website</a>
+	]]></description>
+	<styleUrl>#misc</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79597702309206,39.26778787354763,0 -76.79591676674036,39.26762083876468,0 -76.79577153558471,39.26766209497561,0 -76.79583130168392,39.267832759582,0 -76.79597702309206,39.26778787354763,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	
+	
+	<Placemark>
+	<name>Zebop</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/zebop/">Zepop</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8034+Main+Street,+Ellicott+City,+MD+21043&ll=39.267815,-76.795233&spn=0.001593,0.002411&oe=utf-8&client=firefox-a&hnear=8034+Main+St,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=19&vpsrc=6">8034 Main Street Ellicott City, MD 21043</a>
+		<br>Phone: 410-461-8045
+		<br><a href="http://www.facebook.com/pages/ZEBOP-of-Historic-Ellicott-City/284178702254">Website</a>
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79540276536862,39.26789736811808,0 -76.79536600086183,39.26780624983914,0 -76.79530338113962,39.26782455513853,0 -76.79533784860783,39.26791958701062,0 -76.79540276536862,39.26789736811808,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	
+	<Placemark>
+	<name>Art &amp; Artisan</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/art-artisan/">Art &amp; Artisan</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8020+Main+Street+Ellicott+City,+MD+21043&ll=39.267908,-76.795152&spn=0.003185,0.004823&oe=utf-8&client=firefox-a&hnear=8020+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=18&vpsrc=6&iwloc=A">8020 Main Street Ellicott City, MD 21043</a>
+		<br>Phone: 410-203-9370 
+		<br><a href="http://www.artandartisan.com/">Website</a>
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.7952312368066,39.26798957370206,0 -76.79517812690204,39.26786653026505,0 -76.79513139336274,39.26788318557586,0 -76.79518460554267,39.26800527804804,0 -76.7952312368066,39.26798957370206,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	
+	<Placemark>
+	<name>Antiques &amp; Old Stuff</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/antiques-old-stuff/">Antiques &amp; Old Stuff</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8018+Main+Street,+Ellicott+City,+MD+21043&oe=utf-8&client=firefox-a&hnear=8018+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8018 Main Street, Ellicott City, MD 21043</a>
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-76.79513656693254,39.26800791763188,0 -76.79508810103326,39.26789922431988,0 -76.79499062747939,39.2679311909554,0 -76.79503949772649,39.2680422320966,0 -76.79513656693254,39.26800791763188,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+</Document>
+</kml>

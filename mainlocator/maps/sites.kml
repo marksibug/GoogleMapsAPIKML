@@ -1,0 +1,1296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<Style id="bridge_old">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/bridge_old.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="museum_war">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/museum_war.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="site">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/site.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="temple">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/temple.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="museum_baseball">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/baseball.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="cabin">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/cabin.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="cemetary">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/cemetary.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="farm">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/farm.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="house">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/house.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="mansion">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/mansion.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="museum_naval">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/museum_naval.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="observatory">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/observatory.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="train">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/train.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="fort">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/fort.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="museum_agriculture">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/museum_agriculture.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="museum_medicine">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/museum_medicine.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="museum_aircraft">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/museum_aircraft.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="museum_firehouse">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/museum_firehouse.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="whitehouse">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/whitehouse.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+	<name>Annapolis Maritime Museum</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/annapolis-maritime-museum/">Annapolis Maritime Museum</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=723+Second+Street,+Annapolis,+Maryland,+21403&hnear=723+2nd+St,+Annapolis,+Maryland+21403&gl=us&t=h&z=16">723 Second Street, Annapolis, Maryland, 21403</a>
+		<br>Phone: 410-295-0104
+		<br><a href="http://www.amaritime.org/">Website</a>
+
+	]]></description>
+	<styleUrl>#museum_naval</styleUrl>
+	<LookAt>
+		<longitude>-76.47631100000000</longitude>
+		<latitude>38.96885111390700</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.47631100000000,38.96885111390700,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>B &amp; O Railroad Museum: Ellicott City Station</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/baltimore-and-ohio-railroad-museum-ellicott-city">B & O Railroad Museum: Ellicott City Station</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=2711+Maryland+Avenue+Ellicott+City,+MD+21043&ll=39.267571,-76.794839&spn=0.0009,0.002064&hnear=2711+Maryland+Ave,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=20">2711 Maryland Avenue, Ellicott City, MD 21043</a>
+		<br>Phone: 410-461-1945
+
+	]]></description>
+	<styleUrl>#train</styleUrl>
+	<LookAt>
+		<longitude>-76.79488869008100</longitude>
+		<latitude>39.26749057959500</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79488869008100,39.26749057959500,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Ballestone-Stansbury House</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/ballestone-stansbury-house/">Ballestone-Stansbury House</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=1935+Back+River+Neck+Road,+Baltimore,+MD+21221&hl=en&hnear=1935+Back+River+Neck+Rd,+15,+Baltimore,+Maryland+21221&t=h&z=16&vpsrc=0&iwloc=A">1935 Back River Neck Road, Baltimore, MD 21221</a>
+		<br>Phone: 410-887-0218
+		<br><a href="http://www.ballestonestansburyhouse.org/">Website</a>
+
+	]]></description>
+	<styleUrl>#house</styleUrl>
+	<LookAt>
+		<longitude>-76.41806100000000</longitude>
+		<latitude>39.25178569556600</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.41806100000000,39.25178569556600,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Baltimore Cathedral</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/baltimore-cathedral/">Baltimore Cathedral</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=409+Cathedral+Street,+Baltimore,+MD+21201&hl=en&safe=off&hnear=409+Cathedral+St,+Baltimore,+Maryland+21201&gl=us&t=h&z=16">409 Cathedral Street, Baltimore, MD 21201</a>
+		<br>Phone: 410-727-3565
+		<br><a href="http://www.baltimorebasilica.org/">Website</a>
+
+	]]></description>
+	<styleUrl>#temple</styleUrl>
+	<LookAt>
+		<longitude>-76.61618600000000</longitude>
+		<latitude>39.29437601210300</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.61618600000000,39.29437601210300,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Baltimore Poe House and Museum</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/baltimore-poe-house-and-museum/">Baltimore Poe House and Museum</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=203+North+Amity+Street,+Baltimore,+MD+21223&hl=en&safe=off&hnear=203+N+Amity+St,+Baltimore,+Maryland+21223&gl=us&t=h&z=16">203 North Amity Street, Baltimore, MD 21223</a>
+		<br>Phone: 410-396-7932
+		<br><a href="http://www.eapoe.org/balt/poehse.htm">Website</a>
+
+	]]></description>
+	<styleUrl>#site</styleUrl>
+	<LookAt>
+		<longitude>-76.63312000000000</longitude>
+		<latitude>39.29128103569700</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.63312000000000,39.29128103569700,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Benjamin Banneker Historical Park and Museum</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/benjamin-banneker-historical-park-and-museum/">Benjamin Banneker Historical Park and Museum</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=300+Oella+Avenue,+Catonsville,+MD+21228-5416&hnear=300+Oella+Ave,+Catonsville,+Maryland+21228&gl=us&t=h&z=16&vpsrc=0">300 Oella Avenue, Catonsville, MD 21228-5416</a>
+		<br>Phone: 410-887-1081
+		<br><a href="http://www.bannekermuseum.blogspot.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#museum_agriculture</styleUrl>
+	<LookAt>
+		<longitude>-76.77497900000000</longitude>
+		<latitude>39.26895670754700</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.77497900000000,39.26895670754700,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Calvert Marine Museum</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/calvert-marine-museum/">Calvert Marine Museum</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=14200+Solomons+Island+Road,+Solomons,+MD+20688&hl=en&safe=off&hnear=14200+Solomons+Island+Rd,+Solomons,+Maryland+20688&gl=us&t=h&z=16">14200 Solomons Island Road, Solomons, MD 20688</a>
+		<br>Phone: 410-326-2042
+		<br><a href="http://www.calvertmarinemuseum.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#museum_naval</styleUrl>
+	<LookAt>
+		<longitude>-76.46437600000000</longitude>
+		<latitude>38.33155563651600</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.46437600000000,38.33155563651600,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Carroll Mansion</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/carroll-mansion/">Carroll Mansion</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=800+E.+Lombard+Street,+Baltimore,+MD+21202&hl=en&safe=off&hnear=800+E+Lombard+St,+Baltimore,+Maryland+21202&gl=us&t=h&z=16">800 E. Lombard Street, Baltimore, MD 21202</a>
+		<br>Phone: 410-605-2964
+		<br><a href="http://www.carrollmuseums.org/home.html">Website</a>
+
+	]]></description>
+	<styleUrl>#mansion</styleUrl>
+	<LookAt>
+		<longitude>-76.60436600000000</longitude>
+		<latitude>39.28853492535900</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.60436600000000,39.28853492535900,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Carrolton Viaduct</name>
+	<description><![CDATA[
+		Carrolton Viaduct
+		<br>Address: <a href="http://maps.google.com/maps?q=39.275417,-76.654889&hl=en&ll=39.275944,-76.655613&spn=0.005905,0.013078&safe=off&t=h&z=17">Carrolton Viaduct</a>
+
+	]]></description>
+	<styleUrl>#bridge_old</styleUrl>
+	<LookAt>
+		<longitude>-76.65488900000000</longitude>
+		<latitude>39.27541666666700</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.65488900000000,39.27541666666700,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Charles Carroll House</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/charles-carroll-house/">Charles Carroll House</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=107+Duke+of+Gloucester+Street,+Annapolis,+MD+21401&hnear=107+Duke+of+Gloucester+St,+Annapolis,+Maryland+21401&gl=us&t=h&z=16">107 Duke of Gloucester Street, Annapolis, MD 21401</a>
+		<br>Phone: 410-269-1737
+		<br><a href="http://charlescarrollhouse.org/">Website</a>
+
+	]]></description>
+	<styleUrl>#mansion</styleUrl>
+	<LookAt>
+		<longitude>-76.48746100000000</longitude>
+		<latitude>38.97469011249300</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.48746100000000,38.97469011249300,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Chase - Lloyd House</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/chase-lloyd-house/">Chase - Lloyd House</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=22+Maryland+Ave+Annapolis,+Maryland+21401&hnear=22+Maryland+Ave,+Annapolis,+Maryland+21401&gl=us&t=h&z=16">22 Maryland Ave, Annapolis, Maryland 21401</a>
+		<br>Phone: 410-263-2723
+
+	]]></description>
+	<styleUrl>#mansion</styleUrl>
+	<LookAt>
+		<longitude>-76.48876100000000</longitude>
+		<latitude>38.98104894183600</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.48876100000000,38.98104894183600,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Chesapeake &amp; Delaware Canal Museum</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/chesapeake-delaware-canal-museum/">Chesapeake &amp; Delaware Canal Museum</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=815+Bethel+Road,+Chesapeake+City,+MD&hl=en&safe=off&hnear=815+Bethel+Rd,+Chesapeake+City,+Maryland+21915&gl=us&t=h&z=16">815 Bethel Road, Chesapeake City, MD</a>
+		<br>Phone: 410-885-5622
+		<br><a href="http://www.nap.usace.army.mil/cd/">Website</a>
+
+	]]></description>
+	<styleUrl>#bridge_old</styleUrl>
+	<LookAt>
+		<longitude>-75.80691400000000</longitude>
+		<latitude>39.52736176656900</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-75.80691400000000,39.52736176656900,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Chesapeake Bay Maritime Museum</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/chesapeake-bay-maritime-museum/">Chesapeake Bay Maritime Museum</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=213+North+Talbot+Street+St.+Michaels,+MD+21663&hl=en&safe=off&hnear=213+N+Talbot+St,+St+Michaels,+Maryland+21663&gl=us&t=h&z=16">213 North Talbot Street, St. Michaels, MD 21663</a>
+		<br>Phone: 410-745-2916
+		<br><a href="http://www.cbmm.org/">Website</a>
+
+	]]></description>
+	<styleUrl>#museum_naval</styleUrl>
+	<LookAt>
+		<longitude>-76.21942300000000</longitude>
+		<latitude>38.78776627420600</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.21942300000000,38.78776627420600,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>College of Medicine of Maryland</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/college-of-medicine-of-maryland/">College of Medicine of Maryland</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=22+S+Greene+St,+Baltimore,+MD+21201&hl=en&safe=off&hnear=22+S+Greene+St,+Baltimore,+Maryland+21201&gl=us&t=h&z=16">22 S Greene St, Baltimore, MD 21201</a>
+		<br>Phone: 1-800-492-5538
+		<br><a href="http://www.facebook.com/pages/College-of-Medicine-of-Maryland/103119593061334">Website</a>
+
+	]]></description>
+	<styleUrl>#museum_medicine</styleUrl>
+	<LookAt>
+		<longitude>-76.62317800000000</longitude>
+		<latitude>39.28779913755400</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.62317800000000,39.28779913755400,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Dickinson Gorsuch Farm Museum</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/dickinson-gorsuch-farm-museum/">Dickinson Gorsuch Farm Museum</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=Van+Buren+Lane,+Cockeysville,+MD+21030&ll=39.460567,-76.627418&spn=0.005889,0.013078&hnear=Van+Buren+Ln,+Cockeysville,+Baltimore,+Maryland+21030&gl=us&t=h&z=17&vpsrc=6">Van Buren Lane, Cockeysville, MD 21030</a>
+		<br>Phone: 410-666-1878
+		<br><a href="http://www.hsobc.org/farmmuseum.html/">Website</a>
+
+	]]></description>
+	<styleUrl>#farm</styleUrl>
+	<LookAt>
+		<longitude>-76.62724500000000</longitude>
+		<latitude>39.46114194987100</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.62724500000000,39.46114194987100,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Ellicott Firehouse Museum</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/ellicott-firehouse-museum/">Ellicott Firehouse Museum</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=3829+Church+Road,+Ellicott+City,+MD&hl=en&ll=39.267841,-76.797666&spn=0.0009,0.002064&hnear=3829+Church+Rd,+Ellicott+City,+Maryland+21043&t=h&z=20">3829 Church Road, Ellicott City, MD</a>
+		<br>Phone: 410-465-8500
+
+	]]></description>
+	<styleUrl>#museum_firehouse</styleUrl>
+	<LookAt>
+		<longitude>-76.79830300000000</longitude>
+		<latitude>39.26764345658600</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79830300000000,39.26764345658600,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Gaithersburg Latitude Observatory</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/gaithersburg-latitude-observatory/">Gaithersburg Latitude Observatory</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=100+Desellum+Ave,+Gaithersburg,+MD+20877&hl=en&safe=off&hnear=100+Desellum+Ave,+Gaithersburg,+Maryland+20877&gl=us&t=h&z=16">100 Desellum Ave, Gaithersburg, MD 20877</a>
+		<br>Phone: 301-258-6310
+		<br><a href="http://www.gaithersburgmd.gov/observatory/index.htm">Website</a>
+
+	]]></description>
+	<styleUrl>#observatory</styleUrl>
+	<LookAt>
+		<longitude>-77.19870100000000</longitude>
+		<latitude>39.13670049097900</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.19870100000000,39.13670049097900,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Glenn L. Martin Aviation Museum</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/glenn-l-martin-aviation-museum/">Glenn L. Martin Aviation Museum</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=701+Wilson+Point+Road,+Middle+River,+MD+21220&hnear=701+Wilson+Point+Rd,+Middle+River,+Maryland+21220&gl=us&t=h&z=16&vpsrc=0">Hangar 5, 701 Wilson Point Road, Middle River, MD 21220</a>
+		<br>Phone: 410-682-6122
+		<br><a href="http://www.marylandaviationmuseum.org/">Website</a>
+
+	]]></description>
+	<styleUrl>#museum_aircraft</styleUrl>
+	<LookAt>
+		<longitude>-76.42138400000000</longitude>
+		<latitude>39.32889746805000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.42138400000000,39.32889746805000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Hammond - Harwood House</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/hammond-harwood-house/">Hammond - Harwood House</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=19+Maryland+Avenue,+Annapolis,+Maryland+21401&hl=en&hnear=19+Maryland+Ave,+Annapolis,+Maryland+21401&gl=us&t=h&z=16">19 Maryland Avenue, Annapolis, Maryland 21401</a>
+		<br>Phone: 410-263-4683
+		<br><a href="http://www.hammondharwoodhouse.org/">Website</a>
+
+	]]></description>
+	<styleUrl>#mansion</styleUrl>
+	<LookAt>
+		<longitude>-76.48835700000000</longitude>
+		<latitude>38.98090949340500</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.48835700000000,38.98090949340500,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Hampton National Historic Site</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/hampton-national-historic-site/">Hampton National Historic Site</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=535+Hampton+Lane,+Towson,+MD+21286&hnear=535+Hampton+Ln,+Towson,+Maryland+21286&gl=us&t=h&z=16&vpsrc=0">535 Hampton Lane, Towson, MD 21286</a>
+		<br>Phone: 410-823-1309
+		<br><a href="http://www.nps.gov/hamp/">Website</a>
+
+	]]></description>
+	<styleUrl>#mansion</styleUrl>
+	<LookAt>
+		<longitude>-76.58752500000000</longitude>
+		<latitude>39.41628700647600</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.58752500000000,39.41628700647600,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Harper Cemetery</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/harper-cemetery">Harper Cemetery</a>
+		<br>Address: <a href="https://www.google.com/maps?q=Harper+Cemetery&sll=39.3235999,-77.7340912&sspn=0.0063741,0.0109864&t=m&cid=0x987ea4be86bdce16&hq=Harper+Cemetery&z=16&iwloc=A">Directions to Harper Cemetery</a>
+
+	]]></description>
+	<styleUrl>#cemetary</styleUrl>
+	<LookAt>
+		<longitude>-77.73501831803422</longitude>
+		<latitude>39.32353178800361</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.73501831803422,39.32353178800361,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Homewood Museum</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/homewood-museum/">Homewood Museum</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=3400+N.+Charles+Street,+Baltimore,+MD+21218&hl=en&safe=off&hnear=3400+N+Charles+St,+Baltimore,+Maryland+21218&gl=us&t=h&z=16">3400 N. Charles Street, Baltimore, MD 21218</a>
+		<br>Phone: 410-516-5589
+		<br><a href="http://www.museums.jhu.edu/homewood.php">Website</a>
+
+	]]></description>
+	<styleUrl>#mansion</styleUrl>
+	<LookAt>
+		<longitude>-76.61892500000000</longitude>
+		<latitude>39.32969438340800</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.61892500000000,39.32969438340800,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Jacob House</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/jacob-house/">Jacob House</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=300+Lennox+Ave.,+Towson,+MD+20286&hnear=300+Lennox+Ave,+Towson,+Maryland+21286&gl=us&t=h&z=16&vpsrc=0">300 Lennox Ave., Towson, MD 20286</a>
+
+	]]></description>
+	<styleUrl>#house</styleUrl>
+	<LookAt>
+		<longitude>-76.59805400000000</longitude>
+		<latitude>39.39883379755100</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.59805400000000,39.39883379755100,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Jefferson Rock</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/jefferson-rock">Jefferson Rock</a>
+
+	]]></description>
+	<styleUrl>#site</styleUrl>
+	<LookAt>
+		<longitude>-77.73327076629380</longitude>
+		<latitude>39.32261296439457</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.73327076629380,39.32261296439457,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>John Brown&#039;s Fort</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/john-browns-fort">John Brown's Fort</a>
+		<br>Address: <a href="https://www.google.com/maps?q=John+Brown\'s+Fort&sll=39.3230304,-77.729553&sspn=0.0063742,0.0109864&t=m&cid=0x261cccb83aac05f0&hq=John+Brown\'s+Fort&z=16&iwloc=A">Directions to John Brown's Fort</a>
+		<br>Phone: 304-535-6029
+
+	]]></description>
+	<styleUrl>#fort</styleUrl>
+	<LookAt>
+		<longitude>-77.72955640463835</longitude>
+		<latitude>39.32304030447610</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.72955640463835,39.32304030447610,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>John Brown&#039;s Wax Museum</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/john-browns-wax-museum">John Brown's Wax Museum</a>
+		<br>Address: <a href="https://www.google.com/maps?q=John+Brown+Wax+Museum,+High+Street,+Harpers+Ferry,+WV&hl=en&sll=39.323982,-77.731197&sspn=0.01391,0.01929&oq=john+brown+wa&t=m&z=17&iwloc=A">168 High St, Harpers Ferry, WV</a>
+		<br>Phone: 304-535-6342
+
+	]]></description>
+	<styleUrl>#museum_war</styleUrl>
+	<LookAt>
+		<longitude>-77.73098868528761</longitude>
+		<latitude>39.32356712709137</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.73098868528761,39.32356712709137,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>London Town Publik House</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/london-town-publik-house/">London Town Publik House</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=839+Londontown+Road,+Edgewater,+MD+21037&hl=en&safe=off&hnear=839+Londontown+Rd,+Edgewater,+Maryland+21037&gl=us&t=h&z=16">839 Londontown Road, Edgewater, MD 21037</a>
+		<br>Phone: 410-222-1919
+		<br><a href="http://www.historiclondontown.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#mansion</styleUrl>
+	<LookAt>
+		<longitude>-76.54008500000000</longitude>
+		<latitude>38.94084193971700</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.54008500000000,38.94084193971700,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Maryland State House</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/maryland-state-house/">Maryland State House</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=100+State+Circle,+Annapolis,+MD+21401&hl=en&hnear=100+State+Cir,+Annapolis,+Maryland+21401&gl=us&t=h&z=16">100 State Circle, Annapolis, MD 21401</a>
+		<br>Phone: 410-260-6445
+		<br><a href="http://www.msa.md.gov/msa/mdstatehouse/html/home.html">Website</a>
+
+	]]></description>
+	<styleUrl>#site</styleUrl>
+	<LookAt>
+		<longitude>-76.49102100000000</longitude>
+		<latitude>38.97886039202500</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.49102100000000,38.97886039202500,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Montpelier Mansion</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/montpelier-mansion/">Montpelier Mansion</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=9650+Muirkirk+Road,+Laurel,+MD+20708&hl=en&safe=off&hnear=9650+Muirkirk+Rd,+Laurel,+Maryland+20708&gl=us&t=h&z=16">9650 Muirkirk Road, Laurel, MD 20708</a>
+		<br>Phone: 301-377-7817
+		<br><a href="http://www.pgparks.com/places/eleganthistoric/montpelier_intro.html">Website</a>
+
+	]]></description>
+	<styleUrl>#mansion</styleUrl>
+	<LookAt>
+		<longitude>-76.84322700000000</longitude>
+		<latitude>39.06480831306800</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.84322700000000,39.06480831306800,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Mount Clare Museum House</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/mount-clare-museum-house/">Mount Clare Museum House</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=1500+Washington+Blvd,+Baltimore,+MD+21230+%5D&hl=en&safe=off&hnear=1500+Washington+Blvd,+Baltimore,+Maryland+21230&gl=us&sqi=2&t=h&z=16">1500 Washington Blvd, Baltimore, MD 21230</a>
+		<br>Phone: 410-837-3262
+		<br><a href="http://www.mountclare.org/index.html">Website</a>
+
+	]]></description>
+	<styleUrl>#mansion</styleUrl>
+	<LookAt>
+		<longitude>-76.64298200000000</longitude>
+		<latitude>39.27895817273500</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.64298200000000,39.27895817273500,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Mount Royal Station</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/mount-royal-station/">Mount Royal Station</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=1300+Mount+Royal+Avenue,+Baltimore,+MD+21217&hl=en&safe=off&hnear=1300+W+Mt+Royal+Ave,+Baltimore,+Maryland+21217&gl=us&t=h&z=16">1300 Mount Royal Avenue, Baltimore, MD 21217</a>
+		<br>Phone: 410-669-9200
+		<br><a href="http://www.mica.edu/Browse_Art/Mount_Royal_Station.html">Website</a>
+
+	]]></description>
+	<styleUrl>#train</styleUrl>
+	<LookAt>
+		<longitude>-76.61989300000000</longitude>
+		<latitude>39.30538638005300</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.61989300000000,39.30538638005300,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>National Air and Space Museum</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/national-air-and-space-museum">National Air and Space Museum</a>
+		<br>Address: <a href="https://goo.gl/maps/2K5sH">595 Independence Avenue Southwest Washington, District of Columbia</a>
+		<br>Phone: 202-633-2214
+		<br><a href="http://airandspace.si.edu/">Website</a>
+
+	]]></description>
+	<styleUrl>#museum_aircraft</styleUrl>
+	<LookAt>
+		<longitude>-77.01986900000000</longitude>
+		<latitude>38.88806300000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.01986900000000,38.88806300000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>National Museum of Civil War Medicine</name>
+	<description><![CDATA[
+		National Museum of Civil War Medicine
+		<br>Address: <a href="http://maps.google.com/maps?q=48+East+Patrick+Street,+Frederick,+MD&hnear=48+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">48 East Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-695-1864
+		<br><a href="http://www.civilwarmed.org/">Website</a>
+
+	]]></description>
+	<styleUrl>#museum_medicine</styleUrl>
+	<LookAt>
+		<longitude>-77.40930100000000</longitude>
+		<latitude>39.41394847619500</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.40930100000000,39.41394847619500,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>National Shrine of Saint Elizabeth Ann Seton</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/national-shrine-of-saint-elizabeth-ann-seton/">National Shrine of Saint Elizabeth Ann Seton</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=333+S+Seton+Ave+Emmitsburg,+MD+21727&hl=en&sll=39.698978,-77.324996&sspn=0.002757,0.006539&vpsrc=0&gl=us&hnear=333+S+Seton+Ave,+Emmitsburg,+Frederick,+Maryland+21727&t=h&z=16">333 S Seton Avenue, Emmitsburg, Maryland 21727</a>
+		<br>Phone: 301-447-6606
+		<br><a href="http://www.setonheritage.org/">Website</a>
+
+	]]></description>
+	<styleUrl>#temple</styleUrl>
+	<LookAt>
+		<longitude>-77.32542600000000</longitude>
+		<latitude>39.69899457330700</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.32542600000000,39.69899457330700,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Negro Leagues Baseball Museum of Maryland</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/negro-leagues-baseball-museum-of-maryland/">Negro Leagues Baseball Museum of Maryland</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=3800+Patterson+Ave.,+Baltimore,+MD+21207&hnear=3800+Patterson+Ave,+Lochearn,+Baltimore,+Maryland+21207&gl=us&t=h&z=16&vpsrc=0">3800 Patterson Ave., Baltimore, MD 21207</a>
+		<br>Phone: 410-597-9797
+		<br><a href="http://www.nlbmminc.org/">Website</a>
+
+	]]></description>
+	<styleUrl>#museum_baseball</styleUrl>
+	<LookAt>
+		<longitude>-76.71746800000000</longitude>
+		<latitude>39.34536886992700</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.71746800000000,39.34536886992700,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Phoenix Shot Tower</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/phoenix-shot-tower/">Phoenix Shot Tower</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=800+E.+Lombard+Street,+Baltimore,+MD+21202&hl=en&safe=off&hnear=800+E+Lombard+St,+Baltimore,+Maryland+21202&gl=us&t=h&z=16">800 E. Lombard Street, Baltimore, MD 21202</a>
+		<br>Phone: 410-605-2964
+		<br><a href="http://www.carrollmuseums.org/home.html">Website</a>
+
+	]]></description>
+	<styleUrl>#site</styleUrl>
+	<LookAt>
+		<longitude>-76.60544100000000</longitude>
+		<latitude>39.29069673463200</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.60544100000000,39.29069673463200,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Poplar Hill Historic House Museum</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/poplar-hill-historic-house-museum/">Poplar Hill Historic House Museum</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=7606+Woodyard+Road,+Clinton,+Md.+20735&hl=en&safe=off&hnear=7606+Woodyard+Rd,+Clinton,+Maryland+20735&gl=us&t=h&z=16">7606 Woodyard Road, Clinton, Md. 20735</a>
+		<br>Phone: 301-856-0358
+		<br><a href="http://www.poplarhillonhlk.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#mansion</styleUrl>
+	<LookAt>
+		<longitude>-76.84459000000000</longitude>
+		<latitude>38.77863060648000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.84459000000000,38.77863060648000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Pullen Museum</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/pullen-museum/">Pullen Museum</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=1824+Frederick+Road,+Catonsville,+MD+21228&hnear=1824+Frederick+Rd,+Catonsville,+Maryland+21228&gl=us&t=h&z=16&vpsrc=0">1824 Frederick Road, Catonsville, MD 21228</a>
+		<br>Phone: 410-744-3034
+		<br><a href="http://www.catonsvillehistory.org/townsend_pullen.aspx">Website</a>
+
+	]]></description>
+	<styleUrl>#house</styleUrl>
+	<LookAt>
+		<longitude>-76.75506300000000</longitude>
+		<latitude>39.26852058526300</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.75506300000000,39.26852058526300,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Rachel Carson House</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/rachel-carson-house/">Rachel Carson House</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=11701+Berwick+Rd,+Silver+Spring,+MD+20904&hl=en&safe=off&hnear=11701+Berwick+Rd,+Silver+Spring,+Maryland+20904&gl=us&t=h&z=16">11701 Berwick Road, Silver Spring, MD 20904</a>
+		<br>Phone: 301-593-7507
+		<br><a href="http://www.rachelcarsoncouncil.org/">Website</a>
+
+	]]></description>
+	<styleUrl>#house</styleUrl>
+	<LookAt>
+		<longitude>-77.00053700000000</longitude>
+		<latitude>39.04686944444400</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.00053700000000,39.04686944444400,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Riversdale House Museum</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/riversdale-house-museum/">Riversdale House Museum</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=4811+Riverdale+Road,+Riverdale+Park,+MD+20737&hl=en&safe=off&hnear=4811+Riverdale+Rd,+Riverdale+Park,+Prince+George's,+Maryland+20737&gl=us&t=h&z=16">4811 Riverdale Road, Riverdale Park, MD 20737</a>
+		<br>Phone: 301-864-0420
+		<br><a href="http://www.pgparks.com/places/eleganthistoric/riversdale_intro.html">Website</a>
+
+	]]></description>
+	<styleUrl>#mansion</styleUrl>
+	<LookAt>
+		<longitude>-76.93180800000000</longitude>
+		<latitude>38.96023337594900</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.93180800000000,38.96023337594900,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Saint Peter&#039;s Roman Catholic Church</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/saint-peters-roman-catholic-church">Saint Peter's Roman Catholic Church</a>
+		<br>Address: <a href="https://www.google.com/maps?q=110+Church+St,+Harpers+Ferry,+WV+25425&hl=en&sll=37.6,-95.665&sspn=57.196548,79.013672&t=h&hnear=110+Church+St,+Harpers+Ferry,+West+Virginia+25425&z=17">110 Church St, Harpers Ferry, WV 25425</a>
+		<br>Phone: 304-725-5558
+
+	]]></description>
+	<styleUrl>#temple</styleUrl>
+	<LookAt>
+		<longitude>-77.73125531718800</longitude>
+		<latitude>39.32268969498200</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.73125531718800,39.32268969498200,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>The Kennedy Farmhouse</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/the-kennedy-farmhouse/">The Kennedy Farmhouse</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=2406+Chestnut+Grove+Road,+Sharpsburg,+MD+21782&hl=en&safe=off&hnear=2406+Chestnut+Grove+Rd,+Sharpsburg,+Maryland+21782&gl=us&t=h&z=16">2406 Chestnut Grove Road, Sharpsburg, MD 21782</a>
+		<br><a href="http://www.johnbrown.org/toc.htm">Website</a>
+
+	]]></description>
+	<styleUrl>#farm</styleUrl>
+	<LookAt>
+		<longitude>-77.71517100000000</longitude>
+		<latitude>39.37995835273700</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.71517100000000,39.37995835273700,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Thomas Isaac Log Cabin</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/thomas-isaac-log-cabin">Thomas Isaac Log Cabin</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=39.26893903766427,-76.80096508256841&amp;hl=en&amp;ll=39.26893903766427,-76.80096508256841&amp;spn=0.003206,0.004823&amp;sll=39.26893903766427,-76.80096508256841&amp;sspn=0.003206,0.004823&amp;num=1&amp;t=h&amp;gl=us&amp;z=18">39.26893903766427, -76.80096508256841</a>
+
+	]]></description>
+	<styleUrl>#cabin</styleUrl>
+	<LookAt>
+		<longitude>-76.80096508256841</longitude>
+		<latitude>39.26893903766427</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.80096508256841,39.26893903766427,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Thomas Stone House</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/thomas-stone-house/">Thomas Stone House</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=6655+Rose+Hill+Rd,+Port+Tobacco,+MD+20677&hl=en&safe=off&hnear=6655+Rose+Hill+Rd,+Port+Tobacco,+Maryland+20677&gl=us&t=h&z=16">6655 Rose Hill Rd, Port Tobacco, MD 20677</a>
+		<br>Phone: 301-392-1776
+		<br><a href="http://www.nps.gov/thst/index.htm">Website</a>
+
+	]]></description>
+	<styleUrl>#mansion</styleUrl>
+	<LookAt>
+		<longitude>-77.03600200000000</longitude>
+		<latitude>38.53016748037600</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.03600200000000,38.53016748037600,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Town&#039;s Inn</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/towns-inn">Town's Inn</a>
+		<br>Address: <a href="https://www.google.com/maps?daddr=179+High+St,+Harpers+Ferry,+WV+25425&sll=39.3238031,-77.7338888&sspn=0.0063741,0.0109864&t=m&geocode=FZcIWAIdYehd-ylhzuhaWh22iTEtZeYFrgfElw&z=16">179 High St, Harpers Ferry, WV 25425</a>
+		<br>Phone: 304-535-1860
+		<br><a href="www.thetownsinn.com">Website</a>
+
+	]]></description>
+	<styleUrl>#house</styleUrl>
+	<LookAt>
+		<longitude>-77.73169081437702</longitude>
+		<latitude>39.32378831730490</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.73169081437702,39.32378831730490,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Townsend House</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/townsend-house/">Townsend House</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=1824+Frederick+Road,+Catonsville,+MD+21228&hnear=1824+Frederick+Rd,+Catonsville,+Maryland+21228&gl=us&t=h&z=16&vpsrc=0">1824 Frederick Road, Catonsville, MD 21228</a>
+		<br>Phone: 410-744-3034
+		<br><a href="http://www.catonsvillehistory.org/townsend_pullen.aspx">Website</a>
+
+	]]></description>
+	<styleUrl>#house</styleUrl>
+	<LookAt>
+		<longitude>-76.75518500000000</longitude>
+		<latitude>39.26842648578700</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.75518500000000,39.26842648578700,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>U.S. Naval Academy Museum</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/u-s-naval-academy-museum/">U.S. Naval Academy Museum</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=118+Maryland+Avenue,+Annapolis,+MD+21402&hnear=Maryland+Ave,+Annapolis,+Anne+Arundel,+Maryland+21402&gl=us&t=h&z=16">118 Maryland Avenue, Annapolis, MD 21402</a>
+		<br>Phone: 410-293-2108
+		<br><a href="http://www.usna.edu/Museum/">Website</a>
+
+	]]></description>
+	<styleUrl>#museum_naval</styleUrl>
+	<LookAt>
+		<longitude>-76.48660500000000</longitude>
+		<latitude>38.98322657376800</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.48660500000000,38.98322657376800,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>White House</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/white-house">White House</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=white+house,+dc&hl=en&sll=39.334274,-76.439406&sspn=0.060345,0.132093&t=h&gl=us&hq=white+house,+dc&z=17">1600 Pennsylvania Ave NW, Washington, DC</a>
+		<br><a href="http://www.whitehouse.gov/">Website</a>
+
+	]]></description>
+	<styleUrl>#whitehouse</styleUrl>
+	<LookAt>
+		<longitude>-77.03650000000000</longitude>
+		<latitude>38.89766700000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.03650000000000,38.89766700000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>William Paca House</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/william-paca-house/">William Paca House</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=186+Prince+George+Street,+Annapolis,+Maryland+21401&hnear=186+Prince+George+St,+Annapolis,+Maryland+21401&gl=us&t=h&z=16">186 Prince George Street, Annapolis, Maryland 21401</a>
+		<br>Phone: 410-263-4683
+		<br><a href="http://www.annapolis.org/index.asp?pageid=49">Website</a>
+
+	]]></description>
+	<styleUrl>#mansion</styleUrl>
+	<LookAt>
+		<longitude>-76.48773500000000</longitude>
+		<latitude>38.97949512026400</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.48773500000000,38.97949512026400,0</coordinates>
+	</Point>
+	</Placemark>
+
+</Document>
+</kml>

@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<Style id="city">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/smallcity.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+	<name>Annapolis</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/annapolis/">Annapolis</a>
+
+	]]></description>
+	<styleUrl>#city</styleUrl>
+	<LookAt>
+		<longitude>-76.49070100000000</longitude>
+		<latitude>38.97877333516700</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.49070100000000,38.97877333516700,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Baltimore</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/baltimore/">Baltimore</a>
+
+	]]></description>
+	<styleUrl>#city</styleUrl>
+	<LookAt>
+		<longitude>-76.61577900000000</longitude>
+		<latitude>39.29211087086300</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.61577900000000,39.29211087086300,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Big Pool</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/big-pool">Big Pool</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=big+pool+md&hnear=Big+Pool,+Washington,+Maryland&gl=us&t=h&z=15">Big Pool, Maryland</a>
+
+	]]></description>
+	<styleUrl>#city</styleUrl>
+	<LookAt>
+		<longitude>-77.95349100000000</longitude>
+		<latitude>39.61216800000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.95349100000000,39.61216800000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Brunswick</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/brunswick/">Brunswick</a>
+
+	]]></description>
+	<styleUrl>#city</styleUrl>
+	<LookAt>
+		<longitude>-77.62805600000000</longitude>
+		<latitude>39.31425592808100</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.62805600000000,39.31425592808100,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Catonsville</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/catonsville/">Catonsville</a>
+
+	]]></description>
+	<styleUrl>#city</styleUrl>
+	<LookAt>
+		<longitude>-76.61577900000000</longitude>
+		<latitude>39.29211087086300</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.61577900000000,39.29211087086300,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Chesapeake City</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/chesapeake-city">Chesapeake City</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=chesapeake+city+maryland&hl=en&sll=39.530946,-75.807437&sspn=0.030088,0.066047&t=h&gl=us&hnear=Chesapeake+City,+Cecil,+Maryland&z=15">Chesapeake City, Maryland</a>
+
+	]]></description>
+	<styleUrl>#city</styleUrl>
+	<LookAt>
+		<longitude>-75.80609300000000</longitude>
+		<latitude>39.53092300000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-75.80609300000000,39.53092300000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Cockeysville</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/cockeysville">Cockeysville</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=cockeysville,+md&hl=en&sll=39.623761,-78.016293&sspn=0.030047,0.066047&t=h&gl=us&hnear=Cockeysville,+Baltimore,+Maryland&z=13">Cockeysville, Maryland</a>
+
+	]]></description>
+	<styleUrl>#city</styleUrl>
+	<LookAt>
+		<longitude>-76.64573200000000</longitude>
+		<latitude>39.48301100000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.64573200000000,39.48301100000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Columbia</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/columbia/">Columbia</a>
+
+	]]></description>
+	<styleUrl>#city</styleUrl>
+	<LookAt>
+		<longitude>-76.86188600000000</longitude>
+		<latitude>39.21533167085200</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.86188600000000,39.21533167085200,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Edgewater</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/edgewater">Edgewater</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=Edgewater,+Maryland&hl=en&sll=39.481217,-76.64386&sspn=0.120437,0.264187&t=h&gl=us&hnear=Edgewater,+Anne+Arundel,+Maryland&z=14">Edgewater, Maryland</a>
+
+	]]></description>
+	<styleUrl>#city</styleUrl>
+	<LookAt>
+		<longitude>-76.51190300000000</longitude>
+		<latitude>38.88761400000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.51190300000000,38.88761400000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Elkridge</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/elkridge/">Elkridge</a>
+
+	]]></description>
+	<styleUrl>#city</styleUrl>
+	<LookAt>
+		<longitude>-76.71035500000000</longitude>
+		<latitude>39.21643186882900</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.71035500000000,39.21643186882900,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Ellicott City</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/ellicott-city/">Ellicott City</a>
+
+	]]></description>
+	<styleUrl>#city</styleUrl>
+	<LookAt>
+		<longitude>-76.79712500000000</longitude>
+		<latitude>39.26740422599800</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79712500000000,39.26740422599800,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Emmitsburg</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/emmitsburg/">Emmitsburg</a>
+
+	]]></description>
+	<styleUrl>#city</styleUrl>
+	<LookAt>
+		<longitude>-77.32694100000000</longitude>
+		<latitude>39.70462632139600</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.32694100000000,39.70462632139600,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Frederick</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/frederick/">Frederick</a>
+
+	]]></description>
+	<styleUrl>#city</styleUrl>
+	<LookAt>
+		<longitude>-77.41078100000000</longitude>
+		<latitude>39.41529102995400</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.41078100000000,39.41529102995400,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Harpers Ferry</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/harpers-ferry/">Harpers Ferry</a>
+
+	]]></description>
+	<styleUrl>#city</styleUrl>
+	<LookAt>
+		<longitude>-77.72987400000000</longitude>
+		<latitude>39.32321586325800</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.72987400000000,39.32321586325800,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Laurel</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/laurel/">Laurel</a>
+
+	]]></description>
+	<styleUrl>#city</styleUrl>
+	<LookAt>
+		<longitude>-76.84591900000000</longitude>
+		<latitude>39.09999544777700</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.84591900000000,39.09999544777700,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Middle River</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/middle-river">Middle River</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=Middle+River,+Maryland&hl=en&sll=38.933446,-76.549406&sspn=0.06069,0.132093&t=h&gl=us&hnear=Middle+River,+Baltimore,+Maryland&z=14">Middle River, Maryland</a>
+
+	]]></description>
+	<styleUrl>#city</styleUrl>
+	<LookAt>
+		<longitude>-76.44038200000000</longitude>
+		<latitude>39.33496100000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.44038200000000,39.33496100000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Savage</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/savage/">Savage</a>
+
+	]]></description>
+	<styleUrl>#city</styleUrl>
+	<LookAt>
+		<longitude>-76.82678200000000</longitude>
+		<latitude>39.13634225749000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.82678200000000,39.13634225749000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Sykesville</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/sykesville/">Sykesville</a>
+
+	]]></description>
+	<styleUrl>#city</styleUrl>
+	<LookAt>
+		<longitude>-76.96937500000000</longitude>
+		<latitude>39.36598625663300</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.96937500000000,39.36598625663300,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Thurmont</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/thurmont/">Thurmont</a>
+
+	]]></description>
+	<styleUrl>#city</styleUrl>
+	<LookAt>
+		<longitude>-77.41158500000000</longitude>
+		<latitude>39.62258417625900</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.41158500000000,39.62258417625900,0</coordinates>
+	</Point>
+	</Placemark>
+
+</Document>
+</kml>

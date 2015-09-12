@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<Style id="restaurant">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/restaurant.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="bar">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/bar.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="restaurant_bakery">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/restaurant_bakery.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="restaurant_coffee">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/restaurant_coffee.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="restaurant_icecream">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/restaurant_icecream.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="restaurant_tea">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/restaurant_tea.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+	<name>Bean Hollow</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/bean-hollow/">Bean Hollow</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8059+Main+Street,+Ellicott+City,+MD&hnear=8059+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8059 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-465-0233
+		<br><a href="http://beanhollowcoffee.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#restaurant_coffee</styleUrl>
+	<LookAt>
+		<longitude>-76.79563600000000</longitude>
+		<latitude>39.26753271792000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79563600000000,39.26753271792000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Cacao Lane Restaurant</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/cacao-lane/">Cacao Lane Restaurant</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8066+Main+Street,+Ellicott+City,+MD&hnear=8066+Main+St,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8066 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-461-1378
+		<br><a href="http://www.cacaolane.net/">Website</a>
+
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<LookAt>
+		<longitude>-76.79604600000000</longitude>
+		<latitude>39.26762544639300</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79604600000000,39.26762544639300,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Clef Notes Music &amp; Cafe</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/clef-notes-music-cafe/">Clef Notes Music & Cafe</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8321+Main+Street,+Ellicott+City,+MD&hnear=8321+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8321 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-461-6709
+
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<LookAt>
+		<longitude>-76.80051000000000</longitude>
+		<latitude>39.26754435697100</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.80051000000000,39.26754435697100,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Coffee Mill</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/coffee-mill">Coffee Mill</a>
+		<br>Phone: 304-535-1257
+
+	]]></description>
+	<styleUrl>#restaurant_coffee</styleUrl>
+	<LookAt>
+		<longitude>-77.73071964823367</longitude>
+		<latitude>39.32345028955926</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.73071964823367,39.32345028955926,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Francis Scott Key Cafe</name>
+	<description><![CDATA[
+		Francis Scott Key Cafe
+		<br>Address: <a href="http://maps.google.com/maps?q=31+West+Patrick+Street,+Frederick,+MD&ll=39.415358,-77.411878&spn=0.007907,0.015686&hnear=31+W+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0&iwloc=r6">31 West Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-695-9101
+
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<LookAt>
+		<longitude>-77.41208100000000</longitude>
+		<latitude>39.41436105826500</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.41208100000000,39.41436105826500,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Hannah&#039;s Train Depot</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/hannahs-train-depot">Hannah's Train Depot</a>
+		<br>Address: <a href="https://www.google.com/maps?q=Hannah%27s+Train+Depot&sll=39.3247665,-77.7327025&sspn=0.006374,0.0109864&t=m&cid=0x3f609022ed15774b&hq=Hannah%27s+Train+Depot&z=16">201 Potomac Harpers Ferry, WV 25425</a>
+		<br>Phone: 304-535-1333
+		<br><a href="http://www.hannahstraindepot.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<LookAt>
+		<longitude>-77.73290982313831</longitude>
+		<latitude>39.32460505411733</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.73290982313831,39.32460505411733,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Johny&#039;s Bistro on Main</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/johnnys-bistro-on-main/">Johny's Bistro on Main</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8167+Main+St+%23+1,+Ellicott+City,+MD&hl=en&gl=us&hnear=8167+Main+St,+Ellicott+City,+Maryland+21043&t=h&z=16&vpsrc=0">8167 Main St # 1, Ellicott City, MD</a>
+		<br>Phone: 410-461-8210
+		<br><a href="http://www.johnnysbistro.net/">Website</a>
+
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<LookAt>
+		<longitude>-76.79734600000000</longitude>
+		<latitude>39.26728427869300</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79734600000000,39.26728427869300,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>La Palapa Grill</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/la-palapa/">La Palapa Grill</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8307+Main+Street,+Ellicott+City,+MD&hnear=8307+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8307 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-465-0070
+		<br><a href="http://lapalapagrill.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<LookAt>
+		<longitude>-76.80012300000000</longitude>
+		<latitude>39.26772806338700</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.80012300000000,39.26772806338700,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Portalli&#039;s</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/portallis/">Portalli's</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8085+Main+Street,+Ellicott+City,+MD&hnear=8085+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8085 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-720-2330
+		<br><a href="http://www.portallisec.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<LookAt>
+		<longitude>-76.79611800000000</longitude>
+		<latitude>39.26737978581600</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79611800000000,39.26737978581600,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Private Quinn&#039;s Pub</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/private-quinns-pub">Private Quinn's Pub</a>
+		<br>Address: <a href="https://www.google.com/maps?q=Private+Quinn\'s+Pub&sll=39.3240065,-77.731172&sspn=0.0063741,0.0109864&t=m&cid=0xc4be7853a880ba90&hq=Private+Quinn\'s+Pub&z=16">109 Potomac St, Harpers Ferry, WV 25425</a>
+		<br>Phone: 304-535-2322
+
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<LookAt>
+		<longitude>-77.73206214355740</longitude>
+		<latitude>39.32445075722072</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.73206214355740,39.32445075722072,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Sarah &amp; Desmonds Gourmet Bakery</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/sarah-desmonds-gourmet-bakery/">Sarah & Desmonds Gourmet Bakery</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=3715+Old+Columbia+Pike,+Ellicott+City,+MD&hnear=3715+Old+Columbia+Pike,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">3715 Old Columbia Pike, Ellicott City, MD</a>
+
+	]]></description>
+	<styleUrl>#restaurant_bakery</styleUrl>
+	<LookAt>
+		<longitude>-76.79836200000000</longitude>
+		<latitude>39.26720840994000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79836200000000,39.26720840994000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Scoop&#039;s Ice Cream</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/scoops-ice-cream">Scoop's Ice Cream</a>
+		<br>Address: <a href="https://www.google.com/maps?q=harpers+ferry+books,+harpers+ferry&hl=en&ll=39.32376,-77.731884&spn=0.001739,0.002411&sll=39.323968,-77.731796&sspn=0.006955,0.009645&hq=harpers+ferry+books,&hnear=Harpers+Ferry,+Jefferson,+West+Virginia&t=m&z=19">173 Potomac St, Harpers Ferry, WV 25425</a>
+		<br>Phone: 304-535-6654
+
+	]]></description>
+	<styleUrl>#restaurant_icecream</styleUrl>
+	<LookAt>
+		<longitude>-77.73195164030260</longitude>
+		<latitude>39.32438108959192</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.73195164030260,39.32438108959192,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Secret Six Tavern</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/secret-six-tavern">Secret Six Tavern</a>
+		<br>Address: 186 High St Harpers Ferry, WV 25425
+		<br>Phone: 304-535-3044
+		<br><a href="https://maps.google.com/maps?q=Secret+Six+Tavern,+High+Street,+Harpers+Ferry,+WV&hl=en&sll=39.319698,-77.749844&sspn=0.055644,0.077162&oq=secret+six&t=h&z=17&iwloc=A">Website</a>
+
+	]]></description>
+	<styleUrl>#bar</styleUrl>
+	<LookAt>
+		<longitude>-77.73170904306000</longitude>
+		<latitude>39.32394427578000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.73170904306000,39.32394427578000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Sidestreets Restaurant</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/sidestreets-restaurant/">Sidestreets Restaurant</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8069+Tiber+Ellicott+City,+MD+21043&hnear=8069+Tiber+Alley,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8069 Tiber Aly, Ellicott City, MD 21043</a>
+		<br>Phone: 410-461-5577
+
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<LookAt>
+		<longitude>-76.79578200000000</longitude>
+		<latitude>39.26713260451400</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79578200000000,39.26713260451400,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Sumittra</name>
+	<description><![CDATA[
+		Sumittra
+		<br>Address: <a href="http://maps.google.com/maps?q=12+E+Patrick+St,+Frederick,+MD&hnear=12+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">12 E Patrick St, Frederick, MD</a>
+		<br>Phone: 301-668-2303
+		<br><a href="http://www.sumittra.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<LookAt>
+		<longitude>-77.41038900000000</longitude>
+		<latitude>39.41399454830100</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.41038900000000,39.41399454830100,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Tajitu Ethiopian Restaurant</name>
+	<description><![CDATA[
+		Tajitu Ethiopian Restaurant
+		<br>Address: <a href="http://maps.google.com/maps?q=7+East+Patrick+Street,+Frederick,+MD&hnear=7+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">7 East Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-631-6800
+		<br><a href="http://www.tajitu.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<LookAt>
+		<longitude>-77.41048400000000</longitude>
+		<latitude>39.41424091183600</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.41048400000000,39.41424091183600,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Tea on the Tiber</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/tea-on-the-tiber/">Tea on the Tiber</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8081+Main+Street,+Ellicott+City,+MD&hnear=8081+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8081 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-480-8000
+		<br><a href="http://www.teaonthetiber.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#restaurant_tea</styleUrl>
+	<LookAt>
+		<longitude>-76.79603300000000</longitude>
+		<latitude>39.26741934371000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79603300000000,39.26741934371000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Tersiguel&#039;s French Country Restaurant</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/tersiguels/">Tersiguel's French Country Restaurant</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8293+Main+Street,+Ellicott+City,+MD&hnear=8293+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8293 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-465-4004
+		<br><a href="http://www.tersiguels.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<LookAt>
+		<longitude>-76.79952000000000</longitude>
+		<latitude>39.26772254988400</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79952000000000,39.26772254988400,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>The Trolley Stop</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/the-trolley-stop/">The Trolley Stop</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=6+Oella+Avenue,+Ellicott+City,+MD&hnear=6+Oella+Ave,+Catonsville,+Baltimore,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">6 Oella Avenue, Ellicott City, MD</a>
+		<br>Phone: 410-465-8546
+		<br><a href="http://thetrolleystop.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<LookAt>
+		<longitude>-76.79331000000000</longitude>
+		<latitude>39.26795584707900</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79331000000000,39.26795584707900,0</coordinates>
+	</Point>
+	</Placemark>
+
+</Document>
+</kml>

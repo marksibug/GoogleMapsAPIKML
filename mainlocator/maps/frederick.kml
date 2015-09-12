@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>Frederick</name>
+	<description>Restaurants and shops around Frederick</description>
+
+	<Style id="restaurant">
+		<LineStyle><color>75FF0000</color><width>0.1</width></LineStyle>
+		<PolyStyle><color>63FF0000</color></PolyStyle>
+	</Style>
+	<Style id="bar">
+		<LineStyle><color>85FFAA00</color><width>0.1</width></LineStyle>
+		<PolyStyle><color>75FFAA00</color></PolyStyle>
+	</Style>
+	<Style id="shop">
+		<LineStyle><color>770000FF</color><width>0.1</width></LineStyle>
+		<PolyStyle><color>550000FF</color></PolyStyle>
+	</Style>
+	<Style id="site">
+		<LineStyle><color>ff003e7c</color><width>0.1</width></LineStyle>
+		<PolyStyle><color>bd003e7c</color></PolyStyle>
+	</Style>
+	<Style id="art">
+		<LineStyle><color>FF8255AA</color><width>0.1</width></LineStyle>
+		<PolyStyle><color>958255AA</color></PolyStyle>
+	</Style>
+	<Style id="park">
+		<LineStyle><color>FF00FFAA</color><width>0.1</width></LineStyle>
+		<PolyStyle><color>9500FFAA</color></PolyStyle>
+	</Style>
+	<Style id="misc">
+		<LineStyle><color>FF00AAFF</color><width>0.1</width></LineStyle>
+		<PolyStyle><color>9500AAFF</color></PolyStyle>
+	</Style>
+
+
+	<Placemark>
+	<name>Francis Scott Key Kaffe</name>
+	<description><![CDATA[
+		Address: <a href="http://maps.google.com/maps?q=31+West+Patrick+Street,+Frederick,+MD&ll=39.415358,-77.411878&spn=0.007907,0.015686&hnear=31+W+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0&iwloc=r6">31 West Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-695-9101
+	]]></description>
+	<styleUrl>#restaurant</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-77.41220380414927,39.41432271719845,0 -77.41198160555965,39.41430505000759,0 -77.41196878787029,39.41441667713483,0 -77.41219241951775,39.41443583235254,0 -77.41220380414927,39.41432271719845,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+
+	
+	<Placemark>
+	<name>The Weinberg Center</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/weinberg-center/">The Weinberg Center</a>
+		<br><a href="http://maps.google.com/maps?q=20+West+Patrick+Street,+Frederick,+MD&hnear=20+W+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">20 West Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-600-2828
+		<br><a href="http://www.weinbergcenter.org/">Website</a>
+	]]></description>
+	<styleUrl>#art</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-77.41176446200188,39.41391318976915,0 -77.4116681136378,39.41390666140539,0 -77.41164046928257,39.4141192586336,0 -77.4117359060276,39.4141246986224,0 -77.41176446200188,39.41391318976915,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Verbena Day Spa</name>
+	<description><![CDATA[
+		<a href="http://maps.google.com/maps?q=14+West+Patrick+Street,+Frederick,+MD&hnear=14+W+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">14 West Patrick Street, Frederick, MD</a>
+		<br>Phone: 240-575-5333
+		<br><a href="http://www.verbenadayspa.com/">Website</a>
+	]]></description>
+	<styleUrl>#misc</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-77.41156681717743,39.41394831707085,0 -77.41143815859529,39.41393741245198,0 -77.41142021191001,39.41410632705025,0 -77.41154362633918,39.41411390532942,0 -77.41156681717743,39.41394831707085,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Colonial Jewelers</name>
+	<styleUrl>#shop</styleUrl>
+	<description><![CDATA[
+		Address: <a href="http://maps.google.com/maps?q=1+South+Market+Street+Frederick,+MD&hnear=1+S+Market+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">1 South Market Street  Frederick, MD</a>
+		<br>Phone: 301-663-9252
+		<br><a href="http://www.colonialjewelers.com/">Website</a>
+	]]></description>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-77.41111228236922,39.41398392340039,0 -77.41109769201972,39.41409136453127,0 -77.41121062339576,39.41409569827172,0 -77.4112225978925,39.41398935599353,0 -77.41111228236922,39.41398392340039,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Amber Coast</name>
+	<styleUrl>#shop</styleUrl>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/amber-coast/">Amber Coast</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=3+East+Patrick+Street,+Frederick,+MD&hnear=3+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">3 East Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-631-2217
+	]]></description>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-77.41070738315972,39.41422837141607,0 -77.41062688913618,39.41422455467205,0 -77.41060384545853,39.41439756344099,0 -77.41068680328588,39.41440402164974,0 -77.41070738315972,39.41422837141607,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Cafe Nola</name>
+	<styleUrl>#restaurant</styleUrl>
+	<description><![CDATA[
+		Article: 
+		<br>Phone: 301-694-6652
+		<br>Website: http://www.cafe-nola.com/
+	]]></description>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-77.41070030199876,39.41387047134008,0 -77.41069748231342,39.41387156173807,0 -77.41057493897361,39.41386442941708,0 -77.4105447229513,39.41405740602044,0 -77.41067035431442,39.41406605904808,0 -77.41070030199876,39.41387047134008,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Sumittra</name>
+	<styleUrl>#restaurant</styleUrl>
+	<description><![CDATA[
+		Address: <a href="http://maps.google.com/maps?q=12+E+Patrick+St,+Frederick,+MD&hnear=12+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">12 E Patrick St, Frederick, MD</a>
+		<br>Phone: 301-668-2303
+		<br><a href="http://www.sumittra.com/">Website</a>
+	]]></description>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-77.41046635954825,39.41386327583372,0 -77.41039519429305,39.41385889297418,0 -77.41038379287949,39.4139194149146,0 -77.41035703824228,39.41392104602632,0 -77.41034281944987,39.41404702935983,0 -77.41043829618143,39.41405298444991,0 -77.41046635954825,39.41386327583372,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Tajitu Ethiopian Restaurant</name>
+	<styleUrl>#restaurant</styleUrl>
+	<description><![CDATA[
+		Address: <a href="http://maps.google.com/maps?q=7+East+Patrick+Street,+Frederick,+MD&hnear=7+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">7 East Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-631-6800
+		<br><a href="http://www.tajitu.com/">Website</a>
+	]]></description>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-77.41055685675147,39.41422384292986,0 -77.41042103371883,39.41421733113527,0 -77.41038616881039,39.41443666462148,0 -77.4105213627675,39.41444523134202,0 -77.41055685675147,39.41422384292986,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Ecclectibles</name>
+	<styleUrl>#shop</styleUrl>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/ecclectibles/">Ecclectibles</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=13+East+Patrick+Street,+Frederick,+MD&ll=39.415408,-77.410333&spn=0.007907,0.015686&hnear=13+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0&iwloc=A">13 East Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-662-7670
+		<br><a href="http://www.ecclectibles.net/">Website</a>
+	]]></description>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-77.41038063811882,39.41446515567215,0 -77.41041988613544,39.41421767913649,0 -77.41032047366926,39.41420846675819,0 -77.41027823706789,39.4144599099345,0 -77.41038063811882,39.41446515567215,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Little&apos;s Fine Furniture</name>
+	<styleUrl>#shop</styleUrl>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/littles-fine-furniture/">Little&apos;s Fine Furniture</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=55+East+Patrick+Street,+Frederick,+MD&hnear=55+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">55 East Patrick Street, Frederick, MD</a>
+		<br>Phone: 1-866-691-7199
+		<br><a href="http://www.littlesfurniture.com/">Website</a>
+	]]></description>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-77.41019468094368,39.41420081197196,0 -77.41015886377174,39.41444062013122,0 -77.41027465408919,39.41444757051003,0 -77.41030392548029,39.41420894398219,0 -77.41019468094368,39.41420081197196,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Carrol Creek Antiques</name>
+	<styleUrl>#shop</styleUrl>
+	<description><![CDATA[
+		Address: <a href="http://maps.google.com/maps?q=14+East+Patrick+Street,+Frederick,+MD&hnear=14+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">14 East Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-663-8574
+	]]></description>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-77.41035792380573,39.41373815955875,0 -77.41025701797713,39.41373159641884,0 -77.41021996484776,39.41404383570573,0 -77.41032031815739,39.41404853621724,0 -77.41035792380573,39.41373815955875,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Fabulous Finds</name>
+	<styleUrl>#shop</styleUrl>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/fabulous-finds/">Fabulous Finds</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=24+E+Patrick+Street,+Frederick,+MD&hnear=24+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">24 E Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-694-9390
+		<br><a href="http://www.facebook.com/pages/Fabulous-Finds-of-Frederick/308837430024?sk=info">Website</a>
+	]]></description>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-77.41005502494924,39.41403370719366,0 -77.41009731621821,39.41370566634587,0 -77.40998489951443,39.41369970293389,0 -77.40994535089999,39.41402696420416,0 -77.41005502494924,39.41403370719366,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>AnnMarie&apos;s Interior Details</name>
+	<styleUrl>#shop</styleUrl>
+	<description><![CDATA[
+		Address: <a href="http://maps.google.com/maps?q=28+E+Patrick+Street,+Frederick,+MD&hnear=28+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">28 E Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-846-9767
+	]]></description>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-77.40998471221234,39.41369814542603,0 -77.40989777866633,39.41369701460108,0 -77.4098571619908,39.4140204567602,0 -77.40994437096434,39.414026307398,0 -77.40998471221234,39.41369814542603,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Chic to Chic</name>
+	<styleUrl>#shop</styleUrl>
+	<description><![CDATA[
+		Address: <a href="http://maps.google.com/maps?q=23A+East+Patrick+Street,+Frederick,+MD&hnear=23+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">23A East Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-620-8889
+		<br><a href="http://www.chictochic.com/">Website</a>
+	]]></description>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-77.40988119691215,39.41382915901293,0 -77.40979241752544,39.41382268529362,0 -77.40977531414058,39.41400644226956,0 -77.40985851695585,39.41401025306629,0 -77.40988119691215,39.41382915901293,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Frederick School of Classical Ballet</name>
+	<styleUrl>#art</styleUrl>
+	<description><![CDATA[
+		Address: <a href="http://maps.google.com/maps?q=36+East+Patrick+Street,+Frederick,+MD&hnear=36+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">36 East Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-662-9441
+		<br><a href="http://www.frederickclassicalballet.net/">Website</a>
+	]]></description>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-77.40981257450284,39.41364247952392,0 -77.40971788619186,39.41363606141522,0 -77.40967901254912,39.41400235839373,0 -77.40977502696735,39.41400580635874,0 -77.40981257450284,39.41364247952392,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Home Essentials</name>
+	<styleUrl>#shop</styleUrl>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/home-essentials/">Home Essentials</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=38+East+Patrick+Street,+Frederick,+MD&hnear=38+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">38 East Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-696-9070
+		<br><a href="http://homeessentialsfrederick.com/">Website</a>
+	]]></description>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-77.409703259043,39.41367056626824,0 -77.40958881097521,39.41366722388253,0 -77.40954944133642,39.41400557901911,0 -77.40965822346585,39.41401018108482,0 -77.409703259043,39.41367056626824,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Heritage Antiques</name>
+	<styleUrl>#shop</styleUrl>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/heritage-antiques/">Heritage Antiques</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=39+E.+Patrick+Street,+Frederick,+MD&hnear=39+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">39 E Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-668-0299
+		<br><a href="http://www.heritageantiques.com/">Website</a>
+	]]></description>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-77.40952889201159,39.41416443077186,0 -77.40949504322273,39.41442961371045,0 -77.40961166253845,39.41443420329151,0 -77.40964334833039,39.41417367556829,0 -77.40952889201159,39.41416443077186,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Sweet Memories</name>
+	<styleUrl>#shop</styleUrl>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/sweet-memories/">Sweet Memories</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=43+East+Patrick+Street,+Frederick,+MD&hnear=43+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">43 East Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-620-4202
+		<br><a href="http://www.sweetmemoriescandystore.com/">Website</a>
+	]]></description>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-77.40947763833277,39.41416074317849,0 -77.40945854562044,39.4143335916854,0 -77.40950735517941,39.41433461898838,0 -77.40952891485593,39.41416439248429,0 -77.40947763833277,39.41416074317849,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>Colonial Treasures</name>
+	<styleUrl>#shop</styleUrl>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/colonial-treasures/">Colonial Treasures</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=43+E+Patrick+St+%23+B,+Frederick,+MD&hnear=43+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">43 E Patrick St # B, Frederick, MD</a>
+		<br>Phone: 240-422-4384
+	]]></description>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-77.40947757738947,39.41416074187964,0 -77.40942132819247,39.4141554456038,0 -77.40940427537399,39.41432342671861,0 -77.40945895199246,39.41432725986476,0 -77.40947757738947,39.41416074187964,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+	<Placemark>
+	<name>National Museum of Civil War Medicine</name>
+	<styleUrl>#site</styleUrl>
+	<description><![CDATA[
+		Address: <a href="http://maps.google.com/maps?q=48+East+Patrick+Street,+Frederick,+MD&hnear=48+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">48 East Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-695-1864
+		<br><a href="http://www.civilwarmed.org/">Website</a>
+	]]></description>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-77.40942077853958,39.4135912537943,0 -77.40931610972072,39.41358507035796,0 -77.40930545130888,39.4136914830319,0 -77.40924245229658,39.41368942505832,0 -77.40920348453028,39.41398292144397,0 -77.40937615899598,39.41399083240337,0 -77.40942077853958,39.4135912537943,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+
+	<Placemark>
+	<name>Brainstorm Comics Cards &amp; Gaming</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/brainstorm-comics/">Brainstorm Comics Cards &amp; Gaming</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=54+East+Patrick+Street,+Frederick,+MD&hnear=54+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">54 East Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-663-3039
+		<br><a href="http://www.brainstormcomics.com/">Website</a>
+	]]></description>
+	<styleUrl>#shop</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+		-77.40923731186039,39.41372301477257,0 -77.40914363940021,39.41371531138162,0 -77.40911332250234,39.41397529503761,0 -77.40920363559474,39.41397875591039,0 -77.40923731186039,39.41372301477257,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+
+</Document>
+</kml>

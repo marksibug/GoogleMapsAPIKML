@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<name>Emmitsburg</name>
+	<description>Restaurants and shops around Emmitsburg</description>
+
+	<Style id="restaurant">
+		<LineStyle><color>75FF0000</color><width>0.1</width></LineStyle>
+		<PolyStyle><color>63FF0000</color></PolyStyle>
+	</Style>
+	<Style id="bar">
+		<LineStyle><color>85FFAA00</color><width>0.1</width></LineStyle>
+		<PolyStyle><color>75FFAA00</color></PolyStyle>
+	</Style>
+	<Style id="shop">
+		<LineStyle><color>770000FF</color><width>0.1</width></LineStyle>
+		<PolyStyle><color>550000FF</color></PolyStyle>
+	</Style>
+	<Style id="site">
+		<LineStyle><color>ff003e7c</color><width>0.1</width></LineStyle>
+		<PolyStyle><color>bd003e7c</color></PolyStyle>
+	</Style>
+	<Style id="art">
+		<LineStyle><color>FF8255AA</color><width>0.1</width></LineStyle>
+		<PolyStyle><color>958255AA</color></PolyStyle>
+	</Style>
+	<Style id="park">
+		<LineStyle><color>FF00FFAA</color><width>0.1</width></LineStyle>
+		<PolyStyle><color>9500FFAA</color></PolyStyle>
+	</Style>
+	<Style id="misc">
+		<LineStyle><color>FF00AAFF</color><width>0.1</width></LineStyle>
+		<PolyStyle><color>9500AAFF</color></PolyStyle>
+	</Style>
+
+
+	<Placemark>
+	<name>National Shrine of Saint Elizabeth Ann Seton</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/national-shrine-of-saint-elizabeth-ann-seton/">National Shrine of Saint Elizabeth Ann Seton</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=333+S+Seton+Ave+Emmitsburg,+MD+21727&hl=en&sll=39.698978,-77.324996&sspn=0.002757,0.006539&vpsrc=0&gl=us&hnear=333+S+Seton+Ave,+Emmitsburg,+Frederick,+Maryland+21727&t=h&z=16">333 S Seton Avenue, Emmitsburg, Maryland 21727</a>
+		<br>Phone: 301-447-6606
+		<br><a href="http://www.setonheritage.org/">Website</a>
+	]]></description>
+	<styleUrl>#site</styleUrl>
+	<Polygon>
+	<tessellate>1</tessellate><altitudeMode>clampToGround</altitudeMode>
+	<outerBoundaryIs><LinearRing><coordinates>
+						-77.33035152022362,39.69630654697227,0 -77.32774882580071,39.69570195139923,0 -77.32740181932211,39.69582196975537,0 -77.32708667855705,39.69657947897129,0 -77.32520571949358,39.69608048166037,0 -77.32514857657426,39.69539427889863,0 -77.32341285114649,39.69502644252712,0 -77.32201238893509,39.69518064975724,0 -77.3213904743659,39.7009791735642,0 -77.32791465669681,39.70182591475294,0 -77.33035152022362,39.69630654697227,0 
+	</coordinates></LinearRing></outerBoundaryIs>
+	</Polygon>
+	</Placemark>
+	
+</Document>
+</kml>

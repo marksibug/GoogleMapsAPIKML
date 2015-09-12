@@ -1,0 +1,1620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+  <Document xmlns="">
+    <Style id="trb825">
+      <LineStyle>
+        <color>FF5AB284</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>FF0DDBC4</color>
+        <fill>1</fill>
+      </PolyStyle>
+      <BalloonStyle>
+        <bgColor>ffffffff</bgColor>
+        <text>
+                  &lt;font font size='3' color="#aa0000"&gt;&lt;b&gt;$[name]&lt;/b&gt;&lt;/font&gt;
+                  &lt;table border='1' padding='1'&gt;$[description]&lt;/table&gt;                  
+                  &lt;br&gt;&lt;a href='http://shape2earth.com'&gt;&lt;b&gt;Shape2Earth&lt;/b&gt;&lt;/a&gt;
+                  </text>
+      </BalloonStyle>
+    </Style>
+    <name>Howard Co Parks</name>
+    <Placemark id="0">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Park &amp; Recreation</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Park &amp; Recreation&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;5.55087708301&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.9739384082225,39.3623090255698,0 -76.9735236389206,39.3621694602122,0 -76.9729461915353,39.3626396797117,0 -76.9718495586492,39.3629083751954,0 -76.9700316661623,39.363221493209,0 -76.9692266725901,39.3615457832648,0 -76.9688252110735,39.3616840243472,0 -76.9687937482038,39.362317624669,0 -76.969389903846,39.3630852329923,0 -76.9694210304367,39.3632193656647,0 -76.9694209989168,39.3632924093626,0 -76.9694053645282,39.3633899376411,0 -76.9692798428117,39.3635238887413,0 -76.969672147683,39.3636213821638,0 -76.9698918858618,39.3636336829451,0 -76.9702370933459,39.3636337708176,0 -76.9703941454816,39.363536278123,0 -76.9706922934963,39.3633414288596,0 -76.970864916548,39.3632927759499,0 -76.9713986998306,39.3632442111769,0 -76.9717283423478,39.36317110644,0 -76.9722150086785,39.3630615864965,0 -76.972591793434,39.3629763868817,0 -76.9730781222342,39.3627938195663,0 -76.9732823122174,39.362684230188,0 -76.9735492418053,39.3625501659333,0 -76.9737846100132,39.3624528270069,0 -76.9739101123532,39.3623432189596,0 -76.9739384082225,39.3623090255698,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="1">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Public Works Property</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Public Works Property&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;1.5819510916&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.9681355084034,39.3625612087201,0 -76.9681670482939,39.3625766985903,0 -76.9681655884434,39.3625976683581,0 -76.9686991100435,39.3631338877039,0 -76.9690757292835,39.3634385472244,0 -76.9691855847783,39.3634751682809,0 -76.9693267094772,39.3633167327091,0 -76.9692640358395,39.3631827325143,0 -76.9692248950433,39.3631340264724,0 -76.9692611478972,39.3631528950232,0 -76.9691865117111,39.3630112917289,0 -76.968931015263,39.3626841462879,0 -76.9687987429556,39.3625032612057,0 -76.9684394787194,39.3623248485731,0 -76.9681921838156,39.3623191523714,0 -76.9678941473649,39.3622620719404,0 -76.9676167953485,39.3621712190023,0 -76.9679470307856,39.3623881888336,0 -76.9681355084034,39.3625612087201,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="2">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Poplar Springs Park Site</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Poplar Springs Park Site&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;4.57462262715&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-77.0963543180916,39.3500838181841,0 -77.0949111360179,39.3507035441355,0 -77.0958588986948,39.3518237687875,0 -77.0970033020334,39.3511657155641,0 -77.0963543180916,39.3500838181841,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="3">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Lisbon Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Lisbon Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;10.6508468582&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-77.0681560137636,39.3334804257529,0 -77.0673116504549,39.335181903612,0 -77.0690047865462,39.3356060992488,0 -77.0697505227102,39.334639193404,0 -77.0704974687329,39.3349093920392,0 -77.0706962698031,39.3347160357787,0 -77.0715424691046,39.334560709138,0 -77.0714922152977,39.3343289398841,0 -77.0699984863165,39.3339432242824,0 -77.0681560137636,39.3334804257529,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="4">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Alpha Ridge Community Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Alpha Ridge Community Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;169.149942106&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.908885853076,39.3154239748713,0 -76.908767221889,39.3155307056253,0 -76.9085369705041,39.3156456531857,0 -76.9082564446435,39.3156868125204,0 -76.9082147113475,39.3157339283289,0 -76.9081381403434,39.3158198615428,0 -76.9079589667552,39.3159458257112,0 -76.9075516332927,39.3162471149423,0 -76.9073579182437,39.3164071261708,0 -76.907338659602,39.3164476445251,0 -76.9072405516236,39.3166522051898,0 -76.9067352663517,39.318685377727,0 -76.9091304858197,39.3193553532084,0 -76.9099706967043,39.319769779292,0 -76.9105114213164,39.3200247932603,0 -76.9110427846823,39.3202343381999,0 -76.9112785438419,39.3203601983694,0 -76.9121154778732,39.3208066955053,0 -76.9129723865287,39.3212268827939,0 -76.913589823183,39.3215952359276,0 -76.9143777077908,39.3218695542036,0 -76.9151557885862,39.3221648305308,0 -76.915678603408,39.3222739997173,0 -76.9163197020213,39.3222653097389,0 -76.9176392145186,39.3219459148546,0 -76.918149998321,39.321805249,0 -76.9190533075815,39.3216207999221,0 -76.9196767560549,39.3215117309948,0 -76.9199740901138,39.3213628888783,0 -76.9200077130831,39.3182214255324,0 -76.9199439418914,39.3182144857835,0 -76.9199460762851,39.3163239080827,0 -76.9163314271113,39.3163213902496,0 -76.9166085764482,39.3157600288426,0 -76.9163975994175,39.3142899747584,0 -76.9141646568659,39.3146517596425,0 -76.9097842849915,39.3153255859883,0 -76.9094225595136,39.3153914562495,0 -76.9091503036023,39.3154841354783,0 -76.9090300587616,39.3154366125792,0 -76.908885853076,39.3154239748713,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="5">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Howard County Fairgrounds</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Howard County Fairgrounds&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;81.0728381969&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.9710949278203,39.3141151785096,0 -76.9710952194177,39.3133997895423,0 -76.9711592337124,39.3119196264301,0 -76.9712791993862,39.3118497072464,0 -76.9711801040027,39.310495467215,0 -76.9705504226845,39.3103323322755,0 -76.9706851490464,39.3078581268912,0 -76.96568906166,39.3062566808948,0 -76.9646764936208,39.310390106377,0 -76.9643326891778,39.3109974434208,0 -76.9644281770151,39.3113382078113,0 -76.9670785808394,39.3124501349955,0 -76.9671738860399,39.3124353837928,0 -76.9677271287946,39.3125835971459,0 -76.9702630575027,39.313858539962,0 -76.9704540265259,39.3138438102732,0 -76.9710949278203,39.3141151785096,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="6">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Western Regional Park Site</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Western Regional Park Site&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;UNDEVELOPED REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;200.534143994&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-77.0373723420307,39.3100086257219,0 -77.0372446993265,39.3091293122098,0 -77.0368592436463,39.3064715256342,0 -77.036671241286,39.305852179669,0 -77.0365555351019,39.3049030526049,0 -77.0364516215834,39.3036297928334,0 -77.0364337493626,39.3033977149152,0 -77.0361427327292,39.30322947742,0 -77.0360760491657,39.3031909346175,0 -77.0358908895252,39.3031467983474,0 -77.0357263838913,39.3031075814754,0 -77.0352527969759,39.30299442724,0 -77.0351162070533,39.3029909495921,0 -77.0348136803057,39.3029831580671,0 -77.0347408565448,39.3029813499759,0 -77.0344702129328,39.302974392587,0 -77.0340721171754,39.3031305915336,0 -77.0340398216998,39.3030254666511,0 -77.0326766943791,39.3035011392106,0 -77.0319460390736,39.3037562237761,0 -77.0317580227867,39.3038030010636,0 -77.0311610303237,39.3040068144628,0 -77.0305531667333,39.3042142869324,0 -77.0299836989305,39.3044086574552,0 -77.029443933309,39.3045928843506,0 -77.0290689937607,39.3047207713407,0 -77.0290135677866,39.3047396444522,0 -77.0286603365976,39.3047961686364,0 -77.0283465743367,39.3047962447483,0 -77.0280367790364,39.3047495927707,0 -77.0279798867492,39.3047259616952,0 -77.0232213615265,39.3027490114382,0 -77.0230387349899,39.3026674170469,0 -77.0228477747311,39.3025820239574,0 -77.0227147940296,39.3025311011455,0 -77.0221622196003,39.3023195307312,0 -77.0216752891592,39.3023196215661,0 -77.0216825823906,39.3024741549162,0 -77.0219046044814,39.3046003021202,0 -77.0208100835006,39.304671434973,0 -77.0208624886458,39.3054611282997,0 -77.0211299103185,39.3067874314518,0 -77.0221722576452,39.3066151121736,0 -77.0230853771276,39.3090549760525,0 -77.023359298175,39.3090447885176,0 -77.0236067620814,39.3090144795991,0 -77.0237632868164,39.3090043146477,0 -77.0242194751315,39.3090344809751,0 -77.0243624474155,39.3085991373152,0 -77.027131931305,39.3081328161136,0 -77.0319746619792,39.3101868491753,0 -77.0328601471764,39.3084654747588,0 -77.035311448121,39.3109149355606,0 -77.0374355463925,39.3103068371776,0 -77.0374068895931,39.3102463273925,0 -77.037374523851,39.3100234029027,0 -77.0373723420307,39.3100086257219,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="7">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>West Friendship Park Site</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;West Friendship Park Site&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;176.471870312&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.9653200278395,39.305909362462,0 -76.966635167719,39.3037556887263,0 -76.9696611308655,39.3021161614281,0 -76.9715527349503,39.3011031513587,0 -76.9765934872437,39.2984034228689,0 -76.9774136074744,39.2986560748002,0 -76.9775426199623,39.2985280241801,0 -76.9779434253567,39.2981305035205,0 -76.9786441993955,39.2977044656917,0 -76.9788003208162,39.2977696575946,0 -76.9790603236245,39.2944659207045,0 -76.9797759145577,39.2940144039418,0 -76.9798070894552,39.293941364031,0 -76.9794357099687,39.2941704281323,0 -76.9793882490012,39.294188294091,0 -76.9793045679178,39.294186590472,0 -76.9783576318332,39.2941665751796,0 -76.978285905264,39.294165013779,0 -76.9782257126218,39.2955335807765,0 -76.977361719401,39.2955075208936,0 -76.9762383642872,39.2954251055762,0 -76.9759373302175,39.2954029477685,0 -76.9757931613994,39.2953668881288,0 -76.9753566721991,39.2952550480111,0 -76.9742304766456,39.296028466643,0 -76.9717714062452,39.2960279015384,0 -76.9705198292484,39.295020020201,0 -76.9695359145226,39.2958882897989,0 -76.9687311266394,39.2955059631005,0 -76.9670320894124,39.2955402619608,0 -76.964393383587,39.296199573103,0 -76.9635310505626,39.2964615113978,0 -76.9635339007465,39.2965548243866,0 -76.9634181463054,39.2969238145256,0 -76.9632167538507,39.2975631434956,0 -76.9677910481925,39.2979029715036,0 -76.9633156196301,39.3053366381608,0 -76.9653200278395,39.305909362462,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="8">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Glenwood Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Glenwood Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;19.7445351523&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-77.0216752891592,39.3023196215661,0 -77.0221622196003,39.3023195307312,0 -77.0227147940296,39.3025311011455,0 -77.0228477747311,39.3025820239574,0 -77.0247447995408,39.3005562213824,0 -77.0246726923878,39.3005235843879,0 -77.0217428076014,39.2992006244955,0 -77.0212890210653,39.2997161051884,0 -77.0208353474167,39.3006383285944,0 -77.0207310892717,39.3021570942143,0 -77.020940545902,39.3023197548097,0 -77.0216752891592,39.3023196215661,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="9">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Public Works Property</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Public Works Property&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;11.9286192977&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8138094836143,39.2900336479467,0 -76.8137704737163,39.2899910817893,0 -76.8136590633459,39.289930667207,0 -76.8134459389771,39.2891532878781,0 -76.8131512232987,39.288686819944,0 -76.8131579361814,39.2886136443374,0 -76.8131233461275,39.2884062750862,0 -76.8131081852519,39.2882487596998,0 -76.813090816972,39.2881041891365,0 -76.8130543503559,39.2877843632802,0 -76.8129860340613,39.2874547754216,0 -76.8129143607949,39.2871621975307,0 -76.8122909526654,39.2871707735573,0 -76.8120518238376,39.2877409629518,0 -76.811314600273,39.288457288347,0 -76.8106695357835,39.2891111269881,0 -76.8114573565334,39.2895333558508,0 -76.8110072598559,39.2897447320353,0 -76.8115273243627,39.2900574536059,0 -76.8118436782473,39.2897388967801,0 -76.8125067217515,39.2900926583348,0 -76.8129374588519,39.2898041185492,0 -76.8129840917788,39.289840363696,0 -76.8130687171631,39.2898927139638,0 -76.8135508627733,39.290165113766,0 -76.8122971208603,39.291136916487,0 -76.8138094836143,39.2900336479467,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="10">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Cypressmeade Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Cypressmeade Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;20.4431196703&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8550260500097,39.2834167326404,0 -76.8549833314072,39.2832290695467,0 -76.8547488789816,39.2832815584809,0 -76.8526914927928,39.283492081263,0 -76.851699105977,39.2852001553754,0 -76.8552248621147,39.2868074738952,0 -76.8555840297068,39.2861720399124,0 -76.8550260500097,39.2834167326404,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="11">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Wallace Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Wallace Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;24.5866314641&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8779264566504,39.2816729211395,0 -76.8780041923822,39.2815414072164,0 -76.877384930361,39.2806515481465,0 -76.8752990024299,39.2771943906723,0 -76.8735921837127,39.2812064182656,0 -76.8739841208891,39.2813847385492,0 -76.8744745291231,39.2813852636447,0 -76.8776438456575,39.282150590208,0 -76.8779264566504,39.2816729211395,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="12">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Warfields Pond Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Warfields Pond Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;UNDEVELOPED REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;20.8680447992&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-77.0226066392399,39.2769306213408,0 -77.0222844839289,39.2763373101513,0 -77.020568261178,39.2753833850516,0 -77.0199244419626,39.2744664137796,0 -77.0201475910723,39.2734032017781,0 -77.018749372143,39.2735893550662,0 -77.0182064281199,39.2732890945107,0 -77.0173923310755,39.2733662044164,0 -77.017277559759,39.2734924680009,0 -77.0181993912959,39.2740930206635,0 -77.0184295177682,39.2747007137184,0 -77.0185401610309,39.2754084934904,0 -77.0188806523205,39.2756301096443,0 -77.0189173642375,39.2761305861755,0 -77.0190003078361,39.2761591436327,0 -77.0190649424042,39.2767882546749,0 -77.0209874563681,39.2771955187493,0 -77.0212453907482,39.2774243205514,0 -77.0214934397698,39.2772954955476,0 -77.0226066392399,39.2769306213408,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="13">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Font Hill Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Font Hill Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;24.3089489781&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8539233556029,39.2701190718284,0 -76.8539876828694,39.2705356118349,0 -76.8563060958875,39.2721411170023,0 -76.8571655362305,39.2726468712212,0 -76.8575063933366,39.2726092845446,0 -76.8583667292029,39.272673518982,0 -76.8606563603518,39.2724237641467,0 -76.8616945956774,39.2728162579706,0 -76.8622122446611,39.2738642784567,0 -76.8630065840189,39.2743573870562,0 -76.8641611394486,39.2734122291644,0 -76.8641957617439,39.2723523308872,0 -76.8628818582731,39.2718080976979,0 -76.8621837442371,39.2717567536892,0 -76.8612262460162,39.2715664670518,0 -76.8605938168555,39.2712628381925,0 -76.8601561601548,39.2708079980109,0 -76.8591806310395,39.2715009790822,0 -76.858513882587,39.2720679367358,0 -76.8581075400076,39.2722567464095,0 -76.8576370370363,39.2722940370105,0 -76.8564362546267,39.2718887824752,0 -76.8539233556029,39.2701190718284,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="14">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Benson Branch Park Site</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Benson Branch Park Site&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;UNDEVELOPED REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;333.155323987&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.9654982943892,39.2686573760351,0 -76.9652571929662,39.2685030501896,0 -76.965188762815,39.2684789628036,0 -76.9644947866107,39.2680379466733,0 -76.9636776599008,39.2676703564346,0 -76.9614894806264,39.2647665430982,0 -76.9633603000175,39.2630331806227,0 -76.9650614928452,39.2614562441432,0 -76.9651100350168,39.2614115020814,0 -76.964670679448,39.2609646502045,0 -76.9646283364429,39.2609218513686,0 -76.9642686341718,39.2612173042564,0 -76.9637585981409,39.2616360011887,0 -76.963589948896,39.2614693084901,0 -76.9626974962243,39.2605874097764,0 -76.9617949328959,39.2596953672078,0 -76.9634258175136,39.2581585420105,0 -76.9634866754128,39.258101278212,0 -76.9621140840524,39.2573664419886,0 -76.9612536951621,39.2569057880334,0 -76.9587868479482,39.2595381243975,0 -76.9586981545651,39.2595098037363,0 -76.9581627375313,39.2593390327335,0 -76.9579915060203,39.2592843630125,0 -76.9589313446337,39.258241220898,0 -76.9595319213779,39.2571550276436,0 -76.9588870094944,39.2572709173026,0 -76.9583265656934,39.2584363602472,0 -76.9575978237942,39.2594542400029,0 -76.9567983232653,39.2606872861021,0 -76.9555642251611,39.2625910877362,0 -76.9545221676698,39.2641976994582,0 -76.954231215708,39.2639180696452,0 -76.9541421936731,39.2638323220625,0 -76.9536237496886,39.2636984120386,0 -76.9535495312617,39.2636792415741,0 -76.9517909886531,39.2634026753264,0 -76.9516932319998,39.2633871533555,0 -76.9510931802198,39.262935540155,0 -76.9507073851821,39.2626448839585,0 -76.9499692064422,39.2639914882953,0 -76.9494195424663,39.2649940508384,0 -76.9493764379616,39.2650130326454,0 -76.9463913007504,39.2663323044601,0 -76.9455646723529,39.2666975758185,0 -76.945603128597,39.2670763343564,0 -76.9456552440054,39.2675881017302,0 -76.9458507727261,39.2695089174574,0 -76.9474537199896,39.2693048639718,0 -76.9471477326603,39.2683145968137,0 -76.9493012441974,39.2673724244149,0 -76.9495407618402,39.2681720910848,0 -76.950250364586,39.2699535014521,0 -76.950490763002,39.2705566882635,0 -76.9509372115697,39.2696057320624,0 -76.9513096660932,39.2688122351205,0 -76.9522530366053,39.2682354337126,0 -76.9524569967381,39.2681108177824,0 -76.9527232670051,39.2679479443796,0 -76.9545603456699,39.269607612005,0 -76.9581710565499,39.2728691312322,0 -76.9584869047711,39.2727764935072,0 -76.9615192947292,39.2718884510845,0 -76.9622163094416,39.2727801451247,0 -76.9624178890402,39.2730391773342,0 -76.9631683893837,39.2727971959997,0 -76.961487903634,39.2683395974708,0 -76.9640328228434,39.2685412452913,0 -76.9640864154958,39.2685454839943,0 -76.9654982943892,39.2686573760351,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="15">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Patapsco Female Inst Hist Pk</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Patapsco Female Inst Hist Pk&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;6.46478367227&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.7991378668601,39.2710683945123,0 -76.7966894358728,39.2701827040019,0 -76.7967805641993,39.2701016526215,0 -76.7963657150579,39.2699202191613,0 -76.7964035569105,39.2699837601709,0 -76.7963916506922,39.2702207518842,0 -76.7963498325342,39.2704070239965,0 -76.7962870377126,39.2705836891322,0 -76.7962662666196,39.2706286910723,0 -76.7963442508344,39.2708376899083,0 -76.7965970606316,39.2710776737028,0 -76.797186875161,39.2714972652684,0 -76.7973203263583,39.2715601265546,0 -76.7975638275476,39.2716376740195,0 -76.7977531246622,39.2716741712577,0 -76.7979484174348,39.2716400252136,0 -76.7980015942585,39.2715332922847,0 -76.7980489182116,39.2715743300605,0 -76.7985949164526,39.2714868806617,0 -76.7995070594313,39.2717768249815,0 -76.7996168732507,39.2716188165858,0 -76.7991378668601,39.2710683945123,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="16">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Roger Carter NHBD Pk &amp; Ctr.</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Roger Carter NHBD Pk &amp; Ctr.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;1.68592167427&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8026498645408,39.2709537311749,0 -76.8025291292487,39.2708748525474,0 -76.8022576832683,39.2706879105149,0 -76.802015103973,39.2705388765487,0 -76.8017585302018,39.2703440767657,0 -76.8015904158208,39.2701146622022,0 -76.8014725174585,39.2701876496673,0 -76.8014600631176,39.27023829633,0 -76.8015019789353,39.2704006446126,0 -76.8015488593642,39.2706007205571,0 -76.8016556298769,39.2708814029869,0 -76.8017818580835,39.2711974447841,0 -76.801892975478,39.2713486501652,0 -76.8020819446817,39.2715032237573,0 -76.8026498645408,39.2709537311749,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="17">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Parks &amp; Rec</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Parks &amp; Rec&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;2.9606706377&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.9636316517292,39.2578147687543,0 -76.9638846865691,39.2579202639876,0 -76.9642205936644,39.2581116376898,0 -76.9643513073344,39.2573807946652,0 -76.9643770866446,39.2572366807746,0 -76.9637630701182,39.2571327646615,0 -76.9630520381812,39.2569960215242,0 -76.9627678307885,39.2569653903301,0 -76.962325771524,39.2569169741788,0 -76.9620878999261,39.2569040899245,0 -76.9620332255389,39.2569081538314,0 -76.9619825266516,39.2569257304124,0 -76.9619412353878,39.2569547102751,0 -76.9619151488308,39.2569876358842,0 -76.9623636390547,39.2571990370438,0 -76.9627006328336,39.2573752151477,0 -76.9629692372062,39.2574741023515,0 -76.9632294980688,39.2576050759233,0 -76.9634010774811,39.2576871831912,0 -76.9635726465989,39.257790120292,0 -76.9636316517292,39.2578147687543,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="18">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Dunloggin Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Dunloggin Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;7.87275512871&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8323133592584,39.2575186852304,0 -76.8327493378021,39.257499743601,0 -76.8332218392045,39.2575004156602,0 -76.8336642255869,39.2573735290263,0 -76.8339425069627,39.2572832837112,0 -76.8313803149622,39.2567509974591,0 -76.8314605775865,39.2566475250223,0 -76.8295174425353,39.2563135489308,0 -76.8294611848769,39.2575762234021,0 -76.8300201224809,39.257618412609,0 -76.8323133592584,39.2575186852304,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="19">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Public Works Property</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Public Works Property&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;UNDEVELOPED REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;87.6414048344&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.7971476137265,39.2439342794001,0 -76.7925526711499,39.2492766576551,0 -76.793876321265,39.2501252857207,0 -76.7978966070814,39.252703675698,0 -76.7985824269987,39.2520295625912,0 -76.7988978637495,39.2514842964398,0 -76.7991402089392,39.2507952042605,0 -76.7990308943597,39.2501485778573,0 -76.7989302505856,39.2501479833095,0 -76.7989305292781,39.2500496033927,0 -76.7989544913812,39.2496421891172,0 -76.8004895732691,39.2465266119775,0 -76.8006046027448,39.2461725531671,0 -76.7971476137265,39.2439342794001,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="20">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Centennial Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Centennial Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;329.4035738&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8565455879551,39.2470070770069,0 -76.8567559628164,39.246985940717,0 -76.8568902709637,39.2469861045085,0 -76.8596952862904,39.2471165823886,0 -76.8600139122004,39.2447048839026,0 -76.8673142762761,39.2440407436736,0 -76.8673693099881,39.2440357390571,0 -76.8673719938213,39.242599303081,0 -76.8686650778095,39.240622309572,0 -76.8687357425872,39.2401887542607,0 -76.8683259483464,39.2357162708647,0 -76.8681685559582,39.2356838636342,0 -76.8676638154586,39.2355801297036,0 -76.8631293672774,39.2375533803665,0 -76.8622580566621,39.2375793842184,0 -76.8583195507317,39.2379000987519,0 -76.8584055649906,39.2385121608689,0 -76.8584223388724,39.2386319549018,0 -76.8579741579307,39.2386599847091,0 -76.8579639262287,39.2385272500088,0 -76.8579106697147,39.2378269802305,0 -76.8566099161307,39.2379223717415,0 -76.8566247205584,39.2388365272008,0 -76.8566256663469,39.2389059155251,0 -76.8566320304035,39.238980940256,0 -76.8549011745092,39.2392781777247,0 -76.854854393722,39.2391430049274,0 -76.8545379810014,39.2382813959915,0 -76.8539268454067,39.2385180735805,0 -76.8523918116767,39.2391666757974,0 -76.8519038899855,39.239328621468,0 -76.849811810638,39.23959703795,0 -76.8486616883561,39.2396497476087,0 -76.8486261871726,39.2400019859381,0 -76.8521092503786,39.2410092316295,0 -76.8504420263163,39.2423419418954,0 -76.8498749092892,39.2427952602341,0 -76.8520343822524,39.2435839197312,0 -76.852555082277,39.2445603569389,0 -76.8531121458149,39.2449403617759,0 -76.8543668033024,39.2449690885493,0 -76.8550983375355,39.2451867402847,0 -76.8546765275164,39.2468125214381,0 -76.8541876954213,39.2472183853,0 -76.8522342524353,39.2480832100918,0 -76.8509071086078,39.249274059458,0 -76.8514572555426,39.2500316798787,0 -76.8525039495704,39.2513982191784,0 -76.8535193739768,39.2503930279661,0 -76.8538585685772,39.2500569309918,0 -76.8553354260791,39.2485748922846,0 -76.856105490949,39.24694967768,0 -76.8565455879551,39.2470070770069,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="21">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Centennial Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Centennial Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;5.82971495449&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8504420263163,39.2423419418954,0 -76.8521092503786,39.2410092316295,0 -76.8486261871726,39.2400019859381,0 -76.8486616883561,39.2396497476087,0 -76.849811810638,39.23959703795,0 -76.8519038899855,39.239328621468,0 -76.8523918116767,39.2391666757974,0 -76.8539268454067,39.2385180735805,0 -76.8545379810014,39.2382813959915,0 -76.8544897634851,39.2381414359056,0 -76.8542580448346,39.238168875175,0 -76.852345714904,39.2390530367997,0 -76.8519893138741,39.2391564576157,0 -76.8516683855652,39.2392599221754,0 -76.8510803891428,39.2393285648982,0 -76.8507417946051,39.2393973812997,0 -76.850367798528,39.2394315283948,0 -76.8500737555731,39.2394864659169,0 -76.8498062095531,39.2395069541408,0 -76.8496371510404,39.2395136342145,0 -76.8485905237625,39.2395815353821,0 -76.8485725946616,39.2396715888994,0 -76.8485631758853,39.2398446927919,0 -76.8485629392947,39.2399555993452,0 -76.8485578813501,39.2401206863989,0 -76.8485559483372,39.2401783892462,0 -76.8486328262827,39.2402836247124,0 -76.8486460533855,39.2403616143457,0 -76.851650881535,39.2412270890469,0 -76.8513831839993,39.2414899430075,0 -76.8507780142148,39.2412812954384,0 -76.8506261641634,39.2415373983817,0 -76.8504963653604,39.2418073221729,0 -76.850487169465,39.2418766975799,0 -76.8504868048487,39.2420498130438,0 -76.8504327924294,39.2422574833451,0 -76.8504420263163,39.2423419418954,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="22">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Cedar Lane Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Cedar Lane Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;89.3582788&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8892677299244,39.2265174072039,0 -76.8860783950589,39.2272926757139,0 -76.8854741468189,39.2267490928004,0 -76.885404034682,39.2269118665377,0 -76.8823499314504,39.2303479517457,0 -76.8816718214132,39.2322115785048,0 -76.8817617358037,39.2342931459174,0 -76.8829486360286,39.2342581640291,0 -76.8832031365029,39.2351090795471,0 -76.8848560043424,39.2350021982234,0 -76.8842295896821,39.2335897701371,0 -76.8856033472263,39.233265151768,0 -76.8846758600102,39.2311465954093,0 -76.8855133913512,39.2313647255864,0 -76.8865859235775,39.2299357973374,0 -76.8874475460958,39.2297918000555,0 -76.8879322934909,39.2322357379823,0 -76.8903532395424,39.2318217008036,0 -76.8897195749295,39.2291991680924,0 -76.8897757335561,39.2291605159471,0 -76.8895842883282,39.228686165806,0 -76.8892677299244,39.2265174072039,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="23">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Rockburn Branch Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Rockburn Branch Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;311.41605285&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.769046763215,39.2193591766233,0 -76.7687871763655,39.2188405801162,0 -76.7692391358495,39.2184019204319,0 -76.770999000675,39.2166941793958,0 -76.7703864887357,39.2163202873662,0 -76.7693658904647,39.2156973149279,0 -76.7696642057481,39.2153183089899,0 -76.770559493887,39.2141814278415,0 -76.7691321347341,39.2140262004544,0 -76.7682509513844,39.2138284043223,0 -76.7675375979865,39.2136527497744,0 -76.7672861457206,39.2135324765057,0 -76.7663285448868,39.2153381745977,0 -76.7605282685192,39.2168618794072,0 -76.7587838755678,39.2173483841844,0 -76.7594327970456,39.2158252967697,0 -76.7584957159667,39.2155728441704,0 -76.7582636853881,39.213895377452,0 -76.7581356261168,39.2129287509664,0 -76.7573653005272,39.2130224458254,0 -76.7562623807098,39.2132378943881,0 -76.7559496347496,39.2126383696731,0 -76.7546766158963,39.2113971490694,0 -76.753049447161,39.2113937359761,0 -76.7531525812579,39.2119111951617,0 -76.7523654141206,39.2118550678663,0 -76.7512252528428,39.2126830585557,0 -76.7505355944742,39.2129877173,0 -76.7505778202871,39.2133281311906,0 -76.7504245806893,39.2133788962203,0 -76.7519737961874,39.2160301772444,0 -76.7526640910623,39.2172117892333,0 -76.7536226302619,39.218580730005,0 -76.7536289798647,39.218628033958,0 -76.7565669577174,39.2175943342319,0 -76.7580319933305,39.2177503548811,0 -76.7570845760253,39.2197730271243,0 -76.7570406723714,39.2198069967351,0 -76.7557266217137,39.2202467738965,0 -76.7558785857443,39.2205702425061,0 -76.7559425184522,39.2211318104897,0 -76.7562007951722,39.2223233380039,0 -76.7564244671635,39.2241102877253,0 -76.7564155010624,39.2241920423534,0 -76.7572910031222,39.2239624702471,0 -76.7573594905438,39.2244661998547,0 -76.7583753728628,39.2241414842525,0 -76.7588111980467,39.224646109388,0 -76.7615636020197,39.2232089495492,0 -76.7640646108211,39.2235541862332,0 -76.7659275247623,39.2238164661862,0 -76.7659806725339,39.2236124909765,0 -76.7647058838478,39.2227931950247,0 -76.7686666390775,39.2204058581213,0 -76.7694217711854,39.2201075556765,0 -76.769046763215,39.2193591766233,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="24">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;10.6727200344&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8325514964223,39.2233418332369,0 -76.8325242234953,39.2235506605507,0 -76.8330926334692,39.2239147342168,0 -76.8349191076147,39.2225288637117,0 -76.8365636243954,39.2212382773002,0 -76.835593076411,39.220912221788,0 -76.8353281288207,39.220776875367,0 -76.8349255669347,39.2209957321099,0 -76.8348801167474,39.2210879972365,0 -76.8335248837611,39.2223107092895,0 -76.8326167868737,39.2228180718029,0 -76.8325514964223,39.2233418332369,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="25">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Rockburn Branch Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Rockburn Branch Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;97.3695079&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.769046763215,39.2193591766233,0 -76.7694217711854,39.2201075556765,0 -76.7686666390775,39.2204058581213,0 -76.769407052288,39.2212969691426,0 -76.7701568020386,39.2215454486192,0 -76.771191183031,39.2230855386781,0 -76.7730770657605,39.2223932128825,0 -76.7733950532549,39.2222028354007,0 -76.7737708690226,39.2220352285914,0 -76.7741755628739,39.2218900547093,0 -76.7742332510448,39.2219574421369,0 -76.7743633469475,39.2219016755433,0 -76.7746809009422,39.2218461281038,0 -76.7752154740925,39.2217123188235,0 -76.7758509755434,39.2215901003155,0 -76.7762987624766,39.221433741747,0 -76.7760832043388,39.2211639433911,0 -76.7759972454581,39.2209953067332,0 -76.7759544571447,39.2207931141973,0 -76.7759405129987,39.2206247556823,0 -76.7759265693629,39.220456256413,0 -76.7758697744434,39.2202203988373,0 -76.7758558661521,39.2200407806929,0 -76.7758276250089,39.2198160965159,0 -76.7758139652942,39.2195578019328,0 -76.7757940677518,39.2190975252036,0 -76.7756935589147,39.2188390646003,0 -76.7755064992222,39.2187152728464,0 -76.775189557783,39.2184676572276,0 -76.7747575441283,39.2182198199282,0 -76.7745846720594,39.2180735345732,0 -76.7745274915826,39.2179611095463,0 -76.7745855276306,39.2178040079256,0 -76.7746438180909,39.2176806857634,0 -76.7747014973133,39.217635898583,0 -76.7743406812964,39.2176463242533,0 -76.7745304861381,39.2170179772815,0 -76.7746745076666,39.2170182538992,0 -76.775097663574,39.2156044285269,0 -76.7743764796909,39.2154907289119,0 -76.7742773419413,39.2149179837347,0 -76.7739886195374,39.2149061683454,0 -76.7740443318596,39.2154789709127,0 -76.7721254480428,39.2153516855291,0 -76.7727495138868,39.2142638033611,0 -76.77246075832,39.2142632438204,0 -76.7718257851015,39.2142396322781,0 -76.771479495658,39.2142389584392,0 -76.7711187322635,39.2142382553488,0 -76.7707290936646,39.2142149753774,0 -76.770559493887,39.2141814278415,0 -76.7696642057481,39.2153183089899,0 -76.7710327184269,39.2162252797987,0 -76.7703864887357,39.2163202873662,0 -76.770999000675,39.2166941793958,0 -76.7692391358495,39.2184019204319,0 -76.7691829215473,39.2192194024134,0 -76.769046763215,39.2193591766233,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="26">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Rec &amp; Parks</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Rec &amp; Parks&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;186.284381194&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8311557372072,39.2230047186314,0 -76.8311723165928,39.2228810272223,0 -76.8323728792772,39.2197482046047,0 -76.8326940107755,39.2189186860642,0 -76.8333218242408,39.2172393579091,0 -76.8336816593897,39.2162523966376,0 -76.8337994258491,39.2158740982402,0 -76.8350283517549,39.2155398722226,0 -76.8342310205238,39.2145231272286,0 -76.833178349723,39.2133091103776,0 -76.8323435819147,39.2125381816641,0 -76.8313081840438,39.2118471837333,0 -76.83044161291,39.2113790806167,0 -76.8294138754684,39.2109782948889,0 -76.8287482547266,39.2107643767652,0 -76.8285983188149,39.2108211599571,0 -76.8280503377472,39.2110389366878,0 -76.8273657895639,39.2113191419523,0 -76.8269752828543,39.2117999178256,0 -76.8268043441326,39.2120102215217,0 -76.8266752874801,39.2119610513968,0 -76.8264359784819,39.2123117179412,0 -76.8260866372878,39.2128222490015,0 -76.8252633811658,39.2140239807695,0 -76.8251051622618,39.2142076998574,0 -76.824767265467,39.2146185957808,0 -76.8238225577205,39.215749340376,0 -76.8234835763345,39.2161538972639,0 -76.8227366357482,39.2170479142259,0 -76.82290684927,39.217138107721,0 -76.8309293266149,39.222643662061,0 -76.8310131777169,39.2229932538163,0 -76.8311557372072,39.2230047186314,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="27">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Natural Resource Area</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Natural Resource Area&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;NATURAL RESOURCE AREA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;12.5328386422&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8977137364968,39.2164370068979,0 -76.8977113019975,39.2163686024324,0 -76.8986986144747,39.2165134415624,0 -76.9003578519978,39.2159258419279,0 -76.8995458237912,39.2146587207016,0 -76.8995116193483,39.2142817746072,0 -76.8985303735872,39.2139635488048,0 -76.8985501246559,39.2140689843764,0 -76.8988883121849,39.2141685019401,0 -76.8987540458153,39.2144363658783,0 -76.8988176750164,39.214476111028,0 -76.8989646554205,39.2141734937927,0 -76.8993664803705,39.2143078289215,0 -76.8994617137258,39.2145163548391,0 -76.8992153335803,39.2149974935306,0 -76.8983981539014,39.2155822905786,0 -76.8980988926144,39.2153338966085,0 -76.8980413149628,39.2153635439194,0 -76.8983278543582,39.2156516172698,0 -76.8981684665122,39.2157705498377,0 -76.896733353394,39.215759443557,0 -76.8965006715685,39.2155160301845,0 -76.8967176398919,39.2153674532405,0 -76.8966667122559,39.2153028061742,0 -76.8963986859805,39.2154762499335,0 -76.8961756818629,39.215297446674,0 -76.8961700163858,39.2149650005193,0 -76.896214560574,39.2149402686935,0 -76.8953351366323,39.2142844574378,0 -76.8955525093658,39.2141060448807,0 -76.8957088718177,39.214076486615,0 -76.8956706107297,39.2140118503482,0 -76.8951794428789,39.2141057122364,0 -76.8950518713227,39.2139965203298,0 -76.8952185131682,39.2133764030654,0 -76.8957866346959,39.2131138552825,0 -76.8961053684994,39.2131489020958,0 -76.8962521831098,39.2132134935139,0 -76.8962967479566,39.2131738426211,0 -76.8965912946923,39.2124249131669,0 -76.896572225574,39.2123504418751,0 -76.8965339283356,39.2123107178202,0 -76.8964384243259,39.2122957145269,0 -76.8963264633435,39.212647902195,0 -76.8962492672221,39.2129802753219,0 -76.8956305950085,39.2129252581146,0 -76.8949092161253,39.2133215171557,0 -76.8946222288447,39.2133509571329,0 -76.8946221402939,39.2134106332239,0 -76.8946220594703,39.2134651017307,0 -76.8949410974051,39.2135398422567,0 -76.8947775827828,39.2140012008037,0 -76.8948982367444,39.2143832926312,0 -76.8965281303082,39.2162901551122,0 -76.8977137364968,39.2164370068979,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="28">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Rockburn Branch Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Rockburn Branch Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;1.52657607813&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.7696642057481,39.2153183089899,0 -76.7693658904647,39.2156973149279,0 -76.7703864887357,39.2163202873662,0 -76.7710327184269,39.2162252797987,0 -76.7696642057481,39.2153183089899,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="29">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Parks &amp; Rec.</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Parks &amp; Rec.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;63.8845274484&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8386536702597,39.2097041010371,0 -76.8384748841601,39.2097231372628,0 -76.8376597973693,39.209832920244,0 -76.8372910936658,39.209833254045,0 -76.837040101952,39.2097822372017,0 -76.8367718131208,39.2097006538875,0 -76.8346974077118,39.2089440552249,0 -76.834950188584,39.2091573597378,0 -76.8351467950388,39.209410697388,0 -76.8351814778835,39.209589212,0 -76.8349943318686,39.2096242762215,0 -76.8348630803889,39.2119189538498,0 -76.8348477601562,39.2132166090564,0 -76.8348370722368,39.213300197035,0 -76.8348968806129,39.2134111889064,0 -76.8349318788434,39.2134545878547,0 -76.8364472918682,39.2147118806946,0 -76.8379545093589,39.2159369113702,0 -76.8392385537211,39.21506366123,0 -76.8392831053671,39.215044440087,0 -76.8393834371846,39.2150010870178,0 -76.8394421373074,39.214965840163,0 -76.8411261769578,39.2138472328991,0 -76.8386536702597,39.2097041010371,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="30">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Parks &amp; Rec.</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Parks &amp; Rec.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;2.50020075293&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8359417787472,39.215340308588,0 -76.83677165663,39.2151213394896,0 -76.8348221368681,39.2134986276209,0 -76.8346516587099,39.2135193586601,0 -76.8359417787472,39.215340308588,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="31">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Parks &amp; Rec.</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Parks &amp; Rec.&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;28.4480110414&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8316351713957,39.2080798839209,0 -76.8309246111255,39.2106414244187,0 -76.8318356952957,39.2111039580343,0 -76.832840009565,39.2117778769321,0 -76.8336533343662,39.2124330787885,0 -76.8341666308921,39.21296498014,0 -76.83439549026,39.2132007711198,0 -76.8344983426285,39.2133181574978,0 -76.8347237016162,39.2131932113316,0 -76.8348576667528,39.2098900938307,0 -76.8348695019074,39.2096241006189,0 -76.8348459241438,39.2094938774146,0 -76.8347048710568,39.2093129609689,0 -76.8344780219161,39.2091510648041,0 -76.834259360408,39.2090471671059,0 -76.8337351160405,39.2088759820504,0 -76.8331140340888,39.2086501882491,0 -76.8329311003292,39.2085871552086,0 -76.8326255927177,39.2084887606005,0 -76.8324347622,39.208399255266,0 -76.8322399767532,39.2082993287582,0 -76.831972625797,39.2081318806845,0 -76.831789048753,39.2080359103576,0 -76.8316767879206,39.2079241377632,0 -76.8316351713957,39.2080798839209,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="32">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Open Space</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Open Space&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COLUMBIA ASSC&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;26.030593132&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.896997570297,39.2062375204923,0 -76.8969309678097,39.2062578701704,0 -76.8967937817945,39.2062992696412,0 -76.8963241856701,39.2065244714132,0 -76.8962983508026,39.2066246596957,0 -76.8959105671301,39.2068181234913,0 -76.896546258673,39.2075722393494,0 -76.8966556898317,39.2084550939949,0 -76.8959073798983,39.2089927854747,0 -76.8949112490137,39.209013431694,0 -76.894827391889,39.2094440388487,0 -76.8984253839094,39.2094472085614,0 -76.89914411206,39.2098568358739,0 -76.8994752945624,39.2105460707489,0 -76.9011633584953,39.2107197775635,0 -76.9014120030433,39.2111937369826,0 -76.9021031179104,39.2117111339789,0 -76.9023527723681,39.2111945236103,0 -76.9024090503572,39.2105270132444,0 -76.902133560899,39.2098378331328,0 -76.9013878192318,39.2085453027701,0 -76.9005849087118,39.2088245687649,0 -76.899588571754,39.208737724682,0 -76.8990625387867,39.2089524737685,0 -76.8972918012033,39.2084341183947,0 -76.897101253103,39.2063455636106,0 -76.896997570297,39.2062375204923,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="33">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Open Space</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Open Space&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;85.3973584625&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.7774142734258,39.2106420591266,0 -76.7773966923921,39.2105945943348,0 -76.777336615331,39.2103678790945,0 -76.7773073139037,39.2101348886428,0 -76.7772947600908,39.2084843345113,0 -76.7772239488555,39.2079891956759,0 -76.777153813919,39.2077400824287,0 -76.7765692004792,39.2077132141249,0 -76.7762427394158,39.2074008391159,0 -76.7754427674293,39.207285165669,0 -76.7748435070715,39.206972264321,0 -76.7743398011965,39.2065358277016,0 -76.7730499398005,39.2049512105632,0 -76.7731275658648,39.2048885878116,0 -76.7730375956797,39.2046249366299,0 -76.7728542127003,39.2044959395808,0 -76.7729622015102,39.204215781811,0 -76.7727344462774,39.2041598868087,0 -76.7724784301837,39.2041167444858,0 -76.7722307276114,39.2040761511771,0 -76.7689087546653,39.2036099776277,0 -76.7675222619413,39.2034152605188,0 -76.7671848084758,39.203384049431,0 -76.7668469011102,39.203380985757,0 -76.7665103488742,39.2034059323472,0 -76.7661784144669,39.2034567845192,0 -76.7658561584799,39.2035348191287,0 -76.7655457559905,39.2036386331363,0 -76.765409530056,39.2036962076294,0 -76.7651953503711,39.2038042947014,0 -76.7655596922916,39.2041297252464,0 -76.7679659986762,39.2054659693224,0 -76.7661390053104,39.2060858484443,0 -76.7662129483426,39.2061551022464,0 -76.7680450186805,39.2055319948533,0 -76.7689729293198,39.2060150372662,0 -76.7691063107408,39.2060538643049,0 -76.7693045464706,39.206399082704,0 -76.7709250263828,39.2073190788695,0 -76.7710618786042,39.2075169537179,0 -76.7712300911555,39.2075269932898,0 -76.7713097901368,39.2078332717498,0 -76.772368579422,39.208363973387,0 -76.7719547602548,39.2085568366697,0 -76.7720362582566,39.2086421464901,0 -76.7724622686347,39.2084839301347,0 -76.7727773818241,39.209059911249,0 -76.772817031188,39.2089941188016,0 -76.7733218169876,39.2090947433395,0 -76.7735935013776,39.2093362253344,0 -76.7736318747471,39.2096705715318,0 -76.7734644149333,39.2099900236382,0 -76.773956587681,39.2105318602054,0 -76.7740131983931,39.2105937567957,0 -76.7742111364537,39.2107026530958,0 -76.7745751178118,39.2108238315767,0 -76.774802192284,39.2108733879788,0 -76.7750116654899,39.2109966611566,0 -76.775105856474,39.2109606699651,0 -76.7750715818134,39.210929217888,0 -76.7750532451755,39.2108923072562,0 -76.7750501184182,39.2108513441425,0 -76.7750618245275,39.2108111131933,0 -76.775089797432,39.2107758395361,0 -76.7751434478434,39.2107445559703,0 -76.7749675208871,39.2105401368403,0 -76.7746721808691,39.2105668748333,0 -76.7745035991,39.2103288307718,0 -76.775064298155,39.2100301176424,0 -76.7757013608543,39.210755335217,0 -76.7760637013666,39.2111682726149,0 -76.7763954291991,39.2110772794965,0 -76.7768370262499,39.2109117582572,0 -76.7769145140139,39.2108941715879,0 -76.7771158462989,39.2108455745295,0 -76.7772701000499,39.2108096956708,0 -76.7773226106347,39.2107954392266,0 -76.7773682847875,39.2107689248768,0 -76.7774002366724,39.2107336582199,0 -76.7774159237769,39.2106927308584,0 -76.7774142734258,39.2106420591266,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="34">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Open Space</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Open Space&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;27.0391549477&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.772093146404,39.2089548543226,0 -76.7720449793814,39.2088559569245,0 -76.7719913490291,39.2087683085844,0 -76.7719203568429,39.208678937517,0 -76.7718381248981,39.2085968633527,0 -76.7717453800142,39.2085211022584,0 -76.7716431995127,39.2084541897384,0 -76.771531947918,39.2083952820009,0 -76.7713740395435,39.2083307941559,0 -76.77094503766,39.2081820332044,0 -76.7708901239462,39.2081563101805,0 -76.7704767161014,39.2083329832537,0 -76.770064760282,39.2082840415042,0 -76.7696852252391,39.2083909680292,0 -76.7688931587516,39.2084030630616,0 -76.7684407248679,39.2083402427474,0 -76.7677694530688,39.2080368746785,0 -76.7666994185435,39.2074167351717,0 -76.7663425389773,39.2070158833466,0 -76.7666197451712,39.2068886373914,0 -76.7665847762017,39.2068500033467,0 -76.7664868387882,39.206705262024,0 -76.7661839551369,39.206829219341,0 -76.7656440989151,39.206399851289,0 -76.7661096690694,39.2062047206212,0 -76.7660158609803,39.206125011914,0 -76.7654577317806,39.2063006749864,0 -76.7622776142918,39.2050519069784,0 -76.7619808729724,39.2051782586351,0 -76.7618989894945,39.2052127161113,0 -76.7617417111509,39.2052886813868,0 -76.7615970549689,39.2053767762861,0 -76.7615430110723,39.2054169199299,0 -76.7614642973128,39.2054769993838,0 -76.7613452585394,39.2055859765091,0 -76.7612406532886,39.2057063833382,0 -76.7611886747131,39.2057777767122,0 -76.7618352507339,39.2060940812549,0 -76.7617646234109,39.2062241282486,0 -76.7619419748842,39.2063128769093,0 -76.7625364280219,39.2064217524172,0 -76.7630905559218,39.2065803676943,0 -76.763791949763,39.2068461033483,0 -76.7641363795769,39.2069600969889,0 -76.7643177417883,39.207150046685,0 -76.7645845858477,39.2073121591113,0 -76.7647154742332,39.2074482418117,0 -76.7649793834854,39.2075137954882,0 -76.7653715278331,39.2076430816298,0 -76.7655102560734,39.2078161953728,0 -76.7656235695528,39.2079063586304,0 -76.7658321600113,39.2079606809118,0 -76.7658869006076,39.2079285592484,0 -76.7661435702302,39.2081058483771,0 -76.7660492435754,39.2081827892938,0 -76.7672760452304,39.2085541247869,0 -76.7675495486037,39.2086751456929,0 -76.7675591825501,39.2088270299558,0 -76.7681968211634,39.2093490523149,0 -76.7680627777614,39.2096219758062,0 -76.7690308860847,39.210110867156,0 -76.7697335630595,39.2103332196336,0 -76.7699377829951,39.2101761252542,0 -76.769482958493,39.2099542611545,0 -76.7694071088049,39.209801402523,0 -76.7691782516139,39.2096345905743,0 -76.7687390358543,39.2093991018686,0 -76.7685651080548,39.2092540718603,0 -76.7693825549794,39.2090058567793,0 -76.7702805765574,39.2089023401294,0 -76.7717677186919,39.2090008087932,0 -76.772093146404,39.2089548543226,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="35">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Open Space</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Open Space&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;106.5855966&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.7773724509581,39.2067851119392,0 -76.7773514756063,39.2065511518411,0 -76.7719223496266,39.2019743486964,0 -76.7718435272977,39.2020721549866,0 -76.7700636811352,39.2005708561361,0 -76.7697786122344,39.2003429914546,0 -76.7688013562945,39.1998139739258,0 -76.7683697870209,39.1996933473572,0 -76.7677774548075,39.1996142028358,0 -76.7672497020555,39.1995899338709,0 -76.7667427615516,39.1996177801454,0 -76.7661507002997,39.1996768410868,0 -76.7653319260558,39.1999178533612,0 -76.7649362362177,39.1999982720249,0 -76.7640806071147,39.2001139372703,0 -76.7635742238898,39.2005162975895,0 -76.7623959688233,39.200820744839,0 -76.7616907034812,39.2011890556251,0 -76.7615413930449,39.2012650368812,0 -76.760602454219,39.2017258993981,0 -76.7603922660968,39.2018300450048,0 -76.7601781038886,39.2019323524054,0 -76.7598233555801,39.2020971446565,0 -76.7602184756961,39.2049770623177,0 -76.7613350007945,39.2053008034825,0 -76.7617612123067,39.2050837942457,0 -76.7648948472132,39.2037586540899,0 -76.7653014640262,39.2035529931388,0 -76.765453257612,39.2034922127224,0 -76.7657821347411,39.2033812577689,0 -76.7661275661944,39.2032967952219,0 -76.7664797732491,39.2032420426425,0 -76.7668380327461,39.2032169985331,0 -76.7671987322753,39.2032201074598,0 -76.7675745244253,39.2032546316317,0 -76.7722670685652,39.2039130966512,0 -76.7727874184137,39.2040001015071,0 -76.7734189803855,39.2041571290717,0 -76.7740246984947,39.2043640684154,0 -76.7746009642791,39.2046182388153,0 -76.7751394615935,39.2049182172934,0 -76.7756351386495,39.2052599130542,0 -76.7760800439753,39.2056407780203,0 -76.7764741921078,39.2060561681571,0 -76.7768096384003,39.2065011427337,0 -76.7770816962829,39.2069700634903,0 -76.7771524587568,39.2071341672916,0 -76.7774875258463,39.2070102427422,0 -76.7775093805179,39.2069636971737,0 -76.7773724509581,39.2067851119392,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="36">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Open Space</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Open Space&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;3.52109488555&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8085243443634,39.2071310047702,0 -76.8078118384702,39.2070315990988,0 -76.807047895612,39.2068216187888,0 -76.8069742792926,39.2066172750262,0 -76.8072286434046,39.2063468975629,0 -76.8074635278673,39.2060543904174,0 -76.80768129638,39.2056685399988,0 -76.8078822020445,39.2052293187141,0 -76.8079540413115,39.2050208504196,0 -76.8080405564788,39.2047368253533,0 -76.8081386821421,39.2043064430896,0 -76.8082027118796,39.2037738231732,0 -76.8082321928623,39.203440865667,0 -76.808233055855,39.2031212322517,0 -76.8082029560497,39.2028795216527,0 -76.8078346200313,39.2028908823983,0 -76.8078044930088,39.2034619815206,0 -76.8077446330976,39.2043243765857,0 -76.8075548542724,39.2051976773568,0 -76.8072941320866,39.2058131548513,0 -76.8069180183864,39.2064173228972,0 -76.8067447949669,39.206652365319,0 -76.8068453141026,39.2068091813123,0 -76.8070465081013,39.2069328059708,0 -76.8078087836253,39.2070908482231,0 -76.8085243443634,39.2071310047702,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="37">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Open Space</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Open Space&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;5.16856656914&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.9240544506806,39.206197068912,0 -76.9240581547269,39.2064550585662,0 -76.9242307382383,39.2064551701382,0 -76.9241145392295,39.2068479168511,0 -76.9240150390113,39.2071877537725,0 -76.9246460537306,39.2071777455116,0 -76.9250191123342,39.2061229532425,0 -76.9253069426409,39.2052520602302,0 -76.9252494123707,39.2052552607501,0 -76.9248485188864,39.2052686570233,0 -76.9244747596771,39.2052829138713,0 -76.9239964346298,39.2053010427292,0 -76.9235314985296,39.2053169264286,0 -76.9229500544301,39.205338924658,0 -76.9222582558346,39.2053642248436,0 -76.9215208684009,39.205390334943,0 -76.9210682326873,39.2054060763626,0 -76.9207791379803,39.205417141206,0 -76.9207717737657,39.2055319849281,0 -76.9210641350458,39.2055120553057,0 -76.9214317773709,39.2054689523065,0 -76.9221970113895,39.2054549653866,0 -76.922197933994,39.2056035937163,0 -76.9224323850201,39.2056030452118,0 -76.9226907363768,39.2055830890487,0 -76.9229624831028,39.2055551185937,0 -76.9229582163956,39.2054860095336,0 -76.9231781949657,39.2054853092896,0 -76.9235056347229,39.205480034124,0 -76.9240519694987,39.2054722257619,0 -76.9240817777336,39.2056795638231,0 -76.924112660286,39.2058974585044,0 -76.924056579378,39.2058981259499,0 -76.9240544506806,39.206197068912,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="38">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Open Space</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Open Space&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;3.4957265957&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8818979060758,39.2055266010728,0 -76.8827563522399,39.2064756677423,0 -76.8828483474547,39.2064179130334,0 -76.8839164137503,39.2057528238077,0 -76.8835709113054,39.2055178578917,0 -76.8833523172591,39.2053360784242,0 -76.8828973051094,39.2050325990044,0 -76.8820011047919,39.2054760363368,0 -76.8818979060758,39.2055266010728,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="39">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>County Property</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;County Property&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;2.39571413184&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8129418706838,39.2037841485696,0 -76.8141253185998,39.2039193160372,0 -76.8149429307245,39.2040781034795,0 -76.8149192957648,39.2044010788036,0 -76.8155409316634,39.2047950211656,0 -76.815989375271,39.2043104323485,0 -76.8158720779283,39.2037807609903,0 -76.8149466142549,39.203775223371,0 -76.8149471572898,39.2039833879258,0 -76.8141223357357,39.2038148775948,0 -76.8129815436365,39.2036941342073,0 -76.8129418706838,39.2037841485696,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="40">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Sewells Orchard Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Sewells Orchard Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;UNDEVELOPED REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;26.7322914961&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.830998008354,39.2009331439385,0 -76.831080402193,39.2009721085745,0 -76.8310076198973,39.2003907214611,0 -76.8310370965063,39.1998619799095,0 -76.830416958321,39.1986713560747,0 -76.8299080684508,39.1983180496523,0 -76.8295678474871,39.1983837067263,0 -76.82891719474,39.1981623508391,0 -76.8286349405812,39.1977433590209,0 -76.8282663857758,39.1980072826649,0 -76.827530244102,39.1979841056132,0 -76.8274458177092,39.1977416161047,0 -76.8269929412631,39.1977188519556,0 -76.826878595046,39.1980271994749,0 -76.8257183880254,39.1977390627121,0 -76.8250118605886,39.1972973338719,0 -76.8246715857939,39.1973849331329,0 -76.8239086539228,39.1967889958823,0 -76.8260112756209,39.1945483518691,0 -76.8257751287016,39.1945173186548,0 -76.8253567187276,39.1944623683542,0 -76.8251813153032,39.1944439507989,0 -76.82374843729,39.1942927562069,0 -76.8238065758834,39.1959385929826,0 -76.8230618581196,39.1967533796809,0 -76.8230157886644,39.1968038381819,0 -76.82334499801,39.1975287564682,0 -76.8235426879852,39.1980444674806,0 -76.8235768359592,39.198133048347,0 -76.8253382017733,39.1987565162517,0 -76.8260427972545,39.1989598156688,0 -76.8263501182551,39.1985919375904,0 -76.826452436833,39.1984694988601,0 -76.8266192831555,39.1984407517843,0 -76.8268330179203,39.1984700612118,0 -76.8269811324098,39.198556838779,0 -76.8272036489599,39.1986942537223,0 -76.827426032339,39.1987379309368,0 -76.8278527816397,39.1987962639046,0 -76.828390717093,39.1988043707928,0 -76.8287249933251,39.1988048592649,0 -76.8290682965589,39.1988125380029,0 -76.8293743198835,39.1988274803377,0 -76.82970831954,39.1989433776476,0 -76.8299025545745,39.1991098808965,0 -76.8298926816585,39.1993048003182,0 -76.8302171403487,39.199478388338,0 -76.8302263910604,39.1995434265462,0 -76.8302537643675,39.1997457186758,0 -76.8302807246,39.1999695443818,0 -76.8302063871906,39.2001932235132,0 -76.8300291656418,39.2004746003232,0 -76.830998008354,39.2009331439385,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="41">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Troy Historic Site</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Troy Historic Site&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;UNDEVELOPED REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;52.0332099109&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.7613869599,39.1928503223206,0 -76.7613858072928,39.1931934607987,0 -76.7602658552111,39.1931911774837,0 -76.7582623623,39.1937679284031,0 -76.7609278673268,39.1981295023082,0 -76.7605519489122,39.1989999574061,0 -76.7621105078304,39.199636769191,0 -76.7630969120176,39.1989258835381,0 -76.7637107429877,39.1979766593712,0 -76.7638841844734,39.1968418866289,0 -76.7637865685371,39.1956271866843,0 -76.7634160518698,39.1947816780268,0 -76.7613869599,39.1928503223206,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="42">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Sewells Orchard Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Sewells Orchard Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;UNDEVELOPED REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;1.4187133085&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.829995172795,39.1950269603113,0 -76.8283073680713,39.1948218273272,0 -76.8300274706535,39.195740310497,0 -76.829995172795,39.1950269603113,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="43">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>? plots in AA County</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;? plots in AA County&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;7.51166818828&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.6941299304635,39.1943647701774,0 -76.6928128412916,39.1930993899464,0 -76.691323745496,39.1941341952476,0 -76.6926034566594,39.1953413653872,0 -76.6941299304635,39.1943647701774,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="44">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Sewells Orchard Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Sewells Orchard Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;10.8127475504&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8283073680713,39.1948218273272,0 -76.829995172795,39.1950269603113,0 -76.8299841677282,39.1947883789731,0 -76.8297807980524,39.1946646493471,0 -76.8286985123395,39.194034218353,0 -76.8287284585643,39.1936168076979,0 -76.8274825173736,39.1933555860946,0 -76.8274830102656,39.193152630204,0 -76.8266245208411,39.1928859164667,0 -76.8251813153032,39.1944439507989,0 -76.8253567187276,39.1944623683542,0 -76.8257751287016,39.1945173186548,0 -76.8260112756209,39.1945483518691,0 -76.8261795673553,39.1943687272207,0 -76.827793260716,39.1945473217493,0 -76.8283073680713,39.1948218273272,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="45">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Harwood Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Harwood Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;1.50006929434&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.7371746715385,39.1905415572225,0 -76.7365325058694,39.1909568687138,0 -76.7368281311705,39.1912256553787,0 -76.7371709535446,39.1915464826733,0 -76.7377942287247,39.1911533635569,0 -76.7371746715385,39.1905415572225,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="46">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Martin Road Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Martin Road Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;17.206281482&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8732391898325,39.1854430462232,0 -76.8728644269247,39.1854641748965,0 -76.8724617283892,39.1857336900803,0 -76.8701379388001,39.1894022371175,0 -76.8718442957834,39.1895444380892,0 -76.871704273384,39.1903649786039,0 -76.8724255397924,39.1903766026936,0 -76.8727180212173,39.189858691363,0 -76.8728996867835,39.1890058229369,0 -76.8730140548497,39.187148794188,0 -76.8730159849259,39.1860689872281,0 -76.8732391898325,39.1854430462232,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="47">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Atholton Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Atholton Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;9.74127851484&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8656415726637,39.1867973001629,0 -76.8678115030456,39.1869766841883,0 -76.8678812719044,39.1868044887696,0 -76.8686697899795,39.1848539200353,0 -76.866606589602,39.1848853711424,0 -76.8665032387956,39.1859894122599,0 -76.8658660513922,39.1861070534145,0 -76.8656415726637,39.1867973001629,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="48">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Waterloo Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Waterloo Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;UNEDEVELOPED REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;18.2474122359&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.7867486402306,39.1815458116698,0 -76.7861767794081,39.1815582823091,0 -76.7850502032314,39.1818933126926,0 -76.7822366949516,39.1843551389298,0 -76.7870006091807,39.1841210976106,0 -76.7867955849865,39.1832579453794,0 -76.7867486402306,39.1815458116698,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="49">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Hopewell Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Hopewell Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;8.33530557617&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8335464631116,39.1809942491788,0 -76.8337086499713,39.1810831498738,0 -76.8345889459819,39.1815653272386,0 -76.8351368586911,39.1809586344095,0 -76.8352837344218,39.1806323075861,0 -76.8352846147669,39.1802525732239,0 -76.8351001413814,39.1799485818104,0 -76.8348272449295,39.1797203282806,0 -76.8345446992897,39.1795983245541,0 -76.8333459859742,39.1790347649748,0 -76.8330309574943,39.1795018788732,0 -76.8331522890994,39.1795831218679,0 -76.8333124697117,39.1802172745429,0 -76.8331653489397,39.1807984915383,0 -76.833413814273,39.1809566221414,0 -76.8335464631116,39.1809942491788,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="50">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Holiday Hills Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Holiday Hills Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;6.80891047949&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8812007085925,39.1802171442175,0 -76.8799384623072,39.1804271201565,0 -76.8794970270697,39.1803246259167,0 -76.8797584162738,39.1795310811834,0 -76.8797038065101,39.179529336223,0 -76.8794464099562,39.1803141586272,0 -76.8778260107399,39.1799420359244,0 -76.8774536087264,39.1798701479584,0 -76.8776617358962,39.1806151982232,0 -76.8785953518441,39.181602100614,0 -76.8798490984652,39.1808722112718,0 -76.8809818990373,39.1806459191327,0 -76.8812007085925,39.1802171442175,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="51">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Hopewell Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Hopewell Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;1.49639030352&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8335464631116,39.1809942491788,0 -76.833413814273,39.1809566221414,0 -76.8331653489397,39.1807984915383,0 -76.8333124697117,39.1802172745429,0 -76.8331522890994,39.1795831218679,0 -76.8330309574943,39.1795018788732,0 -76.8327779882606,39.1798768910188,0 -76.832857790183,39.1799314738922,0 -76.8328387563398,39.1801815543506,0 -76.8329034534106,39.1805074760315,0 -76.8327751105772,39.1810995567711,0 -76.8330576773374,39.1812138236502,0 -76.8332080985409,39.1810762462834,0 -76.833289565178,39.1810386418909,0 -76.8333659622643,39.1810035636865,0 -76.8335464631116,39.1809942491788,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="52">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Cedar/Villa Heights Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Cedar/Villa Heights Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;2.9478523252&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.793106176316,39.1716625187967,0 -76.7931617229545,39.1718365807176,0 -76.7937614475405,39.1725381372416,0 -76.794804282509,39.1725834574386,0 -76.7947819806395,39.17166546318,0 -76.793106176316,39.1716625187967,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="53">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Schooley Mill Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Schooley Mill Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;178.661886725&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.9528760062285,39.1639110491658,0 -76.9543124959943,39.1674766086501,0 -76.9564425254106,39.1672568680611,0 -76.9566016442218,39.167240459615,0 -76.95937328963,39.1699478822975,0 -76.9595743720717,39.1699141724459,0 -76.9597938858468,39.1699004546788,0 -76.9601507942367,39.1699268962322,0 -76.9604577944772,39.1699609202331,0 -76.9609321789068,39.1700829663355,0 -76.9615634891018,39.1702447527711,0 -76.961723667367,39.170285762604,0 -76.9620761935995,39.1703970674424,0 -76.962421136959,39.1704890864185,0 -76.9625561758173,39.1702008792883,0 -76.9627031606279,39.1698870597826,0 -76.9628432655834,39.1695880163495,0 -76.962885622778,39.1694973885284,0 -76.9621622729336,39.1683368367907,0 -76.9611903765961,39.166777320243,0 -76.9618273901614,39.1663657025323,0 -76.9640270376397,39.1649447084374,0 -76.9641288508269,39.1631081260334,0 -76.961447161372,39.1613660873882,0 -76.9609904298174,39.160807309236,0 -76.9600762655837,39.1596889026206,0 -76.9596679844759,39.1598050204309,0 -76.9581375515694,39.1602398163889,0 -76.9560678933288,39.1608278064108,0 -76.9556802128009,39.1609380066247,0 -76.9527230806584,39.1622373590675,0 -76.9522626466755,39.162439567475,0 -76.9524949418414,39.1627460691623,0 -76.9529891626674,39.1633983515133,0 -76.9530903201209,39.1635318206414,0 -76.9528565122831,39.1638626241999,0 -76.9528760062285,39.1639110491658,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="54">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Gorman Area</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Gorman Area&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;NATURAL RESOURCE AREA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;1.20973210312&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8833306994787,39.1678374700024,0 -76.8831576513801,39.1677370855475,0 -76.8827967122204,39.1675474200762,0 -76.8827186458941,39.1673028637257,0 -76.8826483842062,39.1671499417085,0 -76.8825937322435,39.1669605816806,0 -76.8824840256048,39.1668259172232,0 -76.882303684205,39.1667646519646,0 -76.8821857897167,39.16677072647,0 -76.881934742519,39.1668253654985,0 -76.8816984733248,39.1669085906328,0 -76.8819241153277,39.1669099440232,0 -76.8821431372706,39.1669782861167,0 -76.882317930235,39.1671148459382,0 -76.882492047542,39.1676604168746,0 -76.8831267842254,39.1680360023135,0 -76.8833306994787,39.1678374700024,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="55">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Gorman Area</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Gorman Area&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;NATURAL RESOURCE AREA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;44.1527005719&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8816984733248,39.1669085906328,0 -76.881934742519,39.1668253654985,0 -76.8821857897167,39.16677072647,0 -76.882303684205,39.1667646519646,0 -76.8824840256048,39.1668259172232,0 -76.8825937322435,39.1669605816806,0 -76.8826483842062,39.1671499417085,0 -76.8827186458941,39.1673028637257,0 -76.8827967122204,39.1675474200762,0 -76.8831576513801,39.1677370855475,0 -76.8833306994787,39.1678374700024,0 -76.8844205228638,39.1667759059919,0 -76.8848599490605,39.165838960069,0 -76.8840152992492,39.1658040668079,0 -76.8830574866035,39.1666370444009,0 -76.8828887817925,39.1665362416032,0 -76.882622280884,39.1667528670069,0 -76.8816924596027,39.1661766977001,0 -76.8812968466887,39.1655370227681,0 -76.8811329645721,39.1653664115236,0 -76.8817376538803,39.1637903688944,0 -76.8827263699939,39.1617458768388,0 -76.8804369808884,39.1603640968647,0 -76.879796897484,39.1612746429811,0 -76.8791986368094,39.1624595456362,0 -76.87893866125,39.1628809573993,0 -76.8787618726672,39.1630762731816,0 -76.8785811681416,39.1632349902575,0 -76.8778345250782,39.1636314044936,0 -76.8786024586192,39.1645304530069,0 -76.8803221737444,39.1664876259326,0 -76.8807567276656,39.1669770253162,0 -76.881441637877,39.1669642079975,0 -76.8816040943737,39.1669079323954,0 -76.8816984733248,39.1669085906328,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="56">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Dickinson Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Dickinson Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;10.7455421418&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8708551302734,39.1651856607578,0 -76.8707857146,39.1651792506506,0 -76.8707108757091,39.1651724122806,0 -76.8705167283748,39.1651547453719,0 -76.8701969082028,39.1650472829105,0 -76.8695283607391,39.1648226116181,0 -76.8689883223888,39.1660923968234,0 -76.8691127310533,39.1674577864204,0 -76.8698233114395,39.167253649042,0 -76.8705253876312,39.1671499916613,0 -76.8712625307487,39.1670503095076,0 -76.871571390231,39.1670257358602,0 -76.8708551302734,39.1651856607578,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="57">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Gorman Area</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Gorman Area&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;NATURAL RESOURCE AREA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;6.05579649336&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.881441637877,39.1669642079975,0 -76.8807567276656,39.1669770253162,0 -76.8803221737444,39.1664876259326,0 -76.8786024586192,39.1645304530069,0 -76.8778345250782,39.1636314044936,0 -76.8785811681416,39.1632349902575,0 -76.8787618726672,39.1630762731816,0 -76.87893866125,39.1628809573993,0 -76.8791986368094,39.1624595456362,0 -76.879796897484,39.1612746429811,0 -76.8804369808884,39.1603640968647,0 -76.8800743279617,39.1601451453343,0 -76.8793573501643,39.1601301943346,0 -76.8794112961468,39.1603012582929,0 -76.8796897426494,39.1611360373773,0 -76.8797134913533,39.1612043243636,0 -76.8792988560998,39.1619985595795,0 -76.8790877407415,39.1623942651878,0 -76.8790289506195,39.1625194699426,0 -76.8788418959664,39.1627985201044,0 -76.8786788169436,39.1630118656239,0 -76.8785249176712,39.16314274232,0 -76.8784626414598,39.1631910949662,0 -76.8778253431473,39.1635037368625,0 -76.8774995770333,39.1636970656855,0 -76.8774561364342,39.1637257328047,0 -76.8804130557132,39.1670618275694,0 -76.8811576097723,39.167062584472,0 -76.881441637877,39.1669642079975,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="58">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Gorman Area</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Gorman Area&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;NATURAL RESOURCE AREA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;98.5376654281&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8738708272474,39.1652152629375,0 -76.8746782851737,39.1658285211258,0 -76.8748376503882,39.1656811879301,0 -76.8750285252807,39.1655048941067,0 -76.875075956449,39.1654700392579,0 -76.8758623015997,39.1647218159081,0 -76.8762387555436,39.164496876981,0 -76.8767737508368,39.1641769581861,0 -76.8774561364342,39.1637257328047,0 -76.8774995770333,39.1636970656855,0 -76.8778253431473,39.1635037368625,0 -76.8784626414598,39.1631910949662,0 -76.8785249176712,39.16314274232,0 -76.8786788169436,39.1630118656239,0 -76.8788418959664,39.1627985201044,0 -76.8790289506195,39.1625194699426,0 -76.8790877407415,39.1623942651878,0 -76.8792988560998,39.1619985595795,0 -76.8797134913533,39.1612043243636,0 -76.8796897426494,39.1611360373773,0 -76.8794112961468,39.1603012582929,0 -76.8793573501643,39.1601301943346,0 -76.8790069966791,39.1601227959593,0 -76.8776259091988,39.1594181870895,0 -76.8765870309369,39.1588418621957,0 -76.8770277650175,39.1571803752817,0 -76.8754413040912,39.1567312633348,0 -76.8739087775453,39.1566657257732,0 -76.8738071218618,39.1569020727919,0 -76.8738135528781,39.1573527542768,0 -76.8738223262672,39.1575023786539,0 -76.8735695785338,39.1583244958266,0 -76.8732421946393,39.158215344323,0 -76.8732146009948,39.1582796362318,0 -76.8735304027787,39.1583956719603,0 -76.8733420017357,39.1590184182655,0 -76.8730585128633,39.1590288085336,0 -76.8729677996393,39.1590060499019,0 -76.8726713229158,39.1600095412836,0 -76.8713304005496,39.1599229251473,0 -76.8706742749661,39.1594535133304,0 -76.8707897844005,39.1587643988503,0 -76.8702080669498,39.1585415156283,0 -76.8698923869902,39.1585590407414,0 -76.8694269981815,39.1583906112997,0 -76.8688618278883,39.1591974506123,0 -76.8702446746624,39.1594827365027,0 -76.87052898253,39.1596194353426,0 -76.8705286097207,39.1598240821546,0 -76.870353142292,39.1600794861722,0 -76.8702650502059,39.1604032492625,0 -76.8704615186193,39.1607273269655,0 -76.8707235275431,39.1610003851709,0 -76.8709863024761,39.1610517659955,0 -76.8712273611515,39.1609156464495,0 -76.8714907214901,39.1606433070659,0 -76.8717538956758,39.160473008966,0 -76.8721697999429,39.1604223716829,0 -76.8726076070863,39.1604569090913,0 -76.8728263863572,39.1606447632733,0 -76.8729349385873,39.1612073087534,0 -76.8731962897838,39.1618553124676,0 -76.8731735300827,39.1624519171518,0 -76.8731948907374,39.1626394161066,0 -76.8731320472673,39.1630037437412,0 -76.8731064736804,39.163150656584,0 -76.8730404778216,39.1634574149408,0 -76.8732370888447,39.1637133660328,0 -76.873455670338,39.1638157848689,0 -76.8740908388448,39.1636972553729,0 -76.874352089296,39.1644133777864,0 -76.8738708272474,39.1652152629375,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="59">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Huntington Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Huntington Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;12.6858813785&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8489164905677,39.1626162784807,0 -76.8470282689273,39.1626211493273,0 -76.8470473312588,39.1631724828828,0 -76.8470593465717,39.1634700391318,0 -76.8468914117075,39.1633746745595,0 -76.8468303201898,39.1633665721604,0 -76.8467811144296,39.1625415856924,0 -76.8465214784135,39.1625491280265,0 -76.8461349836487,39.1621956262729,0 -76.846303129002,39.1621919058488,0 -76.8462827762293,39.1620728066018,0 -76.8462720083829,39.1612001565292,0 -76.8465220721107,39.1609347523354,0 -76.8465321387504,39.1606265279046,0 -76.8461485318791,39.1606140616536,0 -76.8461563254133,39.1613566570553,0 -76.8459478748962,39.1616063513745,0 -76.8459932173343,39.162373908267,0 -76.8460058842963,39.1625355032688,0 -76.8465118498031,39.1629892334597,0 -76.846510468509,39.1636287890791,0 -76.8467272648753,39.1637026836746,0 -76.8472835781365,39.1641224152492,0 -76.847915912006,39.164336469715,0 -76.8495589399649,39.1643678645957,0 -76.8496727141196,39.1642578051098,0 -76.849735376549,39.1631814473955,0 -76.8489164905677,39.1626162784807,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="60">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Open Space</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Open Space&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;11.373691577&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8488548685877,39.1609876071751,0 -76.8487074506459,39.160937592359,0 -76.8478161417189,39.1609451653315,0 -76.8475933920367,39.1607844235806,0 -76.8476019277338,39.1606821110498,0 -76.8473380394908,39.1606524922493,0 -76.8465321387504,39.1606265279046,0 -76.8465220721107,39.1609347523354,0 -76.8462720083829,39.1612001565292,0 -76.8462827762293,39.1620728066018,0 -76.846303129002,39.1621919058488,0 -76.8461349836487,39.1621956262729,0 -76.8465214784135,39.1625491280265,0 -76.8467811144296,39.1625415856924,0 -76.8468303201898,39.1633665721604,0 -76.8468914117075,39.1633746745595,0 -76.8470593465717,39.1634700391318,0 -76.8470473312588,39.1631724828828,0 -76.8470282689273,39.1626211493273,0 -76.8489164905677,39.1626162784807,0 -76.8488881452788,39.1620025819686,0 -76.8488661586606,39.1612895256432,0 -76.8488548685877,39.1609876071751,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="61">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Gorman Area</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Gorman Area&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;NATURAL RESOURCE AREA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;88.5497367125&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8626109079673,39.1620515536836,0 -76.8627288547718,39.1623896269799,0 -76.862937326566,39.1624744601862,0 -76.863485193484,39.1622535624585,0 -76.8637702510888,39.1619981554492,0 -76.8639240519682,39.1617427362358,0 -76.8640559258713,39.1614190287529,0 -76.864319283311,39.1611635952,0 -76.8646702056273,39.1608742011852,0 -76.8646778939026,39.160824244618,0 -76.864736462375,39.1604480935214,0 -76.8649917069078,39.1600824435587,0 -76.8640736616206,39.1595189549054,0 -76.8640241845486,39.1594884960221,0 -76.8655920510799,39.1573370030284,0 -76.8656956851675,39.1572165008746,0 -76.8622940313098,39.1553998631384,0 -76.8593101542376,39.1586861614185,0 -76.8584787660793,39.1583953611696,0 -76.8587312285325,39.157986652416,0 -76.8563435331349,39.1586655338864,0 -76.8536731209645,39.1582530778573,0 -76.8519355716074,39.1602711906499,0 -76.8526395572109,39.1606211319236,0 -76.8531871952912,39.1605196359963,0 -76.8535606972854,39.1598211496165,0 -76.8552254179953,39.1594482647179,0 -76.8558597483391,39.1597388458859,0 -76.8559467307284,39.1599945507374,0 -76.8566051024476,39.1603803028387,0 -76.8569091913242,39.1605582979749,0 -76.8572180923438,39.1610414392611,0 -76.857280089434,39.1611383491723,0 -76.8571911488182,39.1618540837534,0 -76.8574099064819,39.1618543499682,0 -76.8577386876267,39.1618036578925,0 -76.8579141708769,39.161565162552,0 -76.8585721819375,39.1610546215724,0 -76.8586674031306,39.160991399904,0 -76.8588792071698,39.160850344279,0 -76.8590545826356,39.160663079228,0 -76.8590552586842,39.1603221890026,0 -76.8590561376494,39.1598789753659,0 -76.8591223930915,39.1594700419539,0 -76.8594731258859,39.1592829867662,0 -76.8596482182081,39.1594194403317,0 -76.8599095088212,39.160033413075,0 -76.8600836304139,39.1606643116294,0 -76.8603014797472,39.1611248164384,0 -76.8605316112385,39.1610399380115,0 -76.8607289392216,39.1609036472554,0 -76.8609265661078,39.1606142229842,0 -76.8613645350718,39.1605636501858,0 -76.8619996618781,39.1604620757735,0 -76.8621749601175,39.1604963429016,0 -76.8623494678713,39.1607521457687,0 -76.8624583658065,39.1610933052818,0 -76.8625443843439,39.1618604811161,0 -76.8626109079673,39.1620515536836,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="62">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Gorman Area</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Gorman Area&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;NATURAL RESOURCE AREA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;0.61226185833&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8729677996393,39.1590060499019,0 -76.8730585128633,39.1590288085336,0 -76.8733420017357,39.1590184182655,0 -76.8735304027787,39.1583956719603,0 -76.8732146009948,39.1582796362318,0 -76.8731118514733,39.1585185148318,0 -76.8729677996393,39.1590060499019,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="63">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Gorman Area</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Gorman Area&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;NATURAL RESOURCE AREA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;2.09642125479&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8694269981815,39.1583906112997,0 -76.8698923869902,39.1585590407414,0 -76.8702080669498,39.1585415156283,0 -76.8707897844005,39.1587643988503,0 -76.8709509766658,39.1580048197719,0 -76.8699627329636,39.1578558020056,0 -76.8698170631765,39.1578338244529,0 -76.8694269981815,39.1583906112997,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="64">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Gorman Area</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Gorman Area&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;NATURAL RESOURCE AREA&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;0.77391394233&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8732421946393,39.158215344323,0 -76.8735695785338,39.1583244958266,0 -76.8738223262672,39.1575023786539,0 -76.8738135528781,39.1573527542768,0 -76.8738071218618,39.1569020727919,0 -76.8732421946393,39.158215344323,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="65">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Guilford Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Guilford Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;10.6302120777&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8229426270674,39.1540234480868,0 -76.8211721330525,39.1543156282926,0 -76.8203595046699,39.1548378281003,0 -76.8211596201258,39.1562711624167,0 -76.8219768980706,39.156928151006,0 -76.8227923452526,39.1554252123888,0 -76.8229426270674,39.1540234480868,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="66">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Hammond Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Hammond Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;5.788008625&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8889030054131,39.152446913379,0 -76.8895379686534,39.1526110624657,0 -76.889503109778,39.1527084272096,0 -76.8900777424391,39.1528450706339,0 -76.8900725544469,39.1529268403315,0 -76.8894704929131,39.1527589249837,0 -76.8887133839961,39.1525597541685,0 -76.8869896070124,39.1520871625832,0 -76.8865970066743,39.152071160477,0 -76.88578724082,39.1520275870571,0 -76.8848052645232,39.1518359128216,0 -76.8837958235999,39.1516402621848,0 -76.8839366568302,39.151297961758,0 -76.8837464861694,39.1513015735436,0 -76.8836019079396,39.1510601879757,0 -76.8833970620892,39.1509742688736,0 -76.8831876510361,39.1508067109989,0 -76.8831224695102,39.1508715308856,0 -76.8832625851059,39.1509672383995,0 -76.8835218607609,39.1511513132023,0 -76.8834764093548,39.1517511360959,0 -76.8855444538095,39.1521505047897,0 -76.8866625822073,39.1522114088817,0 -76.8876617851287,39.1524899255405,0 -76.8876929305502,39.1524561758645,0 -76.8896851584204,39.1530483642032,0 -76.8910476156491,39.1534033377735,0 -76.8923835909969,39.1538262524071,0 -76.8926022708991,39.1536223684362,0 -76.8899215558113,39.152613112208,0 -76.8893368656643,39.1524357823517,0 -76.8889030054131,39.152446913379,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="67">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Hammond Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Hammond Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;9.96616075&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8831224695102,39.1508715308856,0 -76.8831876510361,39.1508067109989,0 -76.8833970620892,39.1509742688736,0 -76.8836019079396,39.1510601879757,0 -76.8837464861694,39.1513015735436,0 -76.8839366568302,39.151297961758,0 -76.8837958235999,39.1516402621848,0 -76.8848052645232,39.1518359128216,0 -76.88578724082,39.1520275870571,0 -76.8865970066743,39.152071160477,0 -76.8869896070124,39.1520871625832,0 -76.8887133839961,39.1525597541685,0 -76.8894704929131,39.1527589249837,0 -76.8900725544469,39.1529268403315,0 -76.8900777424391,39.1528450706339,0 -76.889503109778,39.1527084272096,0 -76.8895379686534,39.1526110624657,0 -76.8889030054131,39.152446913379,0 -76.888567848352,39.1524554624404,0 -76.888193787986,39.1519136488366,0 -76.887949392005,39.1519134155215,0 -76.8849653723825,39.1514207226446,0 -76.8846428070614,39.1512472856467,0 -76.8837745990318,39.1504700620023,0 -76.8844086014258,39.1489838260844,0 -76.8829528326343,39.1491639467965,0 -76.883190702831,39.1502696194711,0 -76.8832800832944,39.15065887686,0 -76.8830784127382,39.1508413668769,0 -76.8831224695102,39.1508715308856,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="68">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Hammond Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Hammond Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;12.0018458383&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8830784127382,39.1508413668769,0 -76.8832800832944,39.15065887686,0 -76.883190702831,39.1502696194711,0 -76.8829528326343,39.1491639467965,0 -76.8844086014258,39.1489838260844,0 -76.8848945184921,39.1478449480887,0 -76.8828627408605,39.1476729118843,0 -76.8828030987521,39.147668489085,0 -76.881631585618,39.1475810334985,0 -76.880863192512,39.1483367764769,0 -76.8810931771596,39.1485163230812,0 -76.8823967014514,39.1487963191883,0 -76.8824726846317,39.1491945717844,0 -76.8828537950676,39.1506881495339,0 -76.8830784127382,39.1508413668769,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="69">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Savage Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Savage Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;71.0601917594&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8348145026259,39.1501987737414,0 -76.8347653668431,39.1501851926767,0 -76.8345060958319,39.1500547756634,0 -76.8342281277242,39.1498809811928,0 -76.8338201486685,39.1496491543338,0 -76.833171716955,39.1491280280376,0 -76.833171818698,39.1490846777295,0 -76.8331721239262,39.1489546268022,0 -76.8331540938969,39.1487810585741,0 -76.8331545009091,39.1486076573233,0 -76.8330808311615,39.1484197942995,0 -76.8330134134579,39.1483407385252,0 -76.8329809661575,39.1483028310249,0 -76.8329326562891,39.1482461813938,0 -76.832821446173,39.1481881753302,0 -76.8327289453189,39.148014641532,0 -76.8325811678062,39.1478265316567,0 -76.8325626414036,39.1477109508664,0 -76.8326190627506,39.1473930810664,0 -76.8326938056186,39.1472776334095,0 -76.8327681188553,39.1471910384892,0 -76.8327499541531,39.1470753174776,0 -76.8328028650259,39.1470197973708,0 -76.8330223391579,39.1468495232282,0 -76.833549290083,39.1464406949901,0 -76.8346830677179,39.1457775449011,0 -76.8349987663782,39.1455755935421,0 -76.834906792798,39.1453298581867,0 -76.8349076318985,39.1449685583265,0 -76.8348520957719,39.1449106325254,0 -76.8351121530866,39.1446942460917,0 -76.8362646903923,39.1438722019134,0 -76.8374580024252,39.1430706113345,0 -76.8372827030048,39.1429028775124,0 -76.836536281644,39.1420949282138,0 -76.8364521564098,39.141265661582,0 -76.836568755357,39.1405485698033,0 -76.8359346526987,39.1402675944758,0 -76.8339024290286,39.1388820187255,0 -76.8336516311087,39.1387017863916,0 -76.8334451114701,39.1384454714388,0 -76.8333311713961,39.1383248286845,0 -76.8332680807337,39.13825422391,0 -76.8332392389902,39.1382220921995,0 -76.8331390510342,39.1380947128802,0 -76.8330345391242,39.1379616973671,0 -76.832652399725,39.1376858481215,0 -76.8325829464066,39.1377082687283,0 -76.8324144312427,39.1378931123769,0 -76.8323733200091,39.1380059339911,0 -76.8323206305217,39.1382767997214,0 -76.8324185010062,39.1386200847814,0 -76.8325279181383,39.1389723941352,0 -76.8325335527339,39.1390355983002,0 -76.8326541978027,39.1393789156287,0 -76.8327521565134,39.1396860280562,0 -76.8328035497953,39.1399660502482,0 -76.8327238381283,39.1401994383686,0 -76.8326277247491,39.1404900876583,0 -76.8327554337263,39.1413660072039,0 -76.8327817153355,39.141564922324,0 -76.8328314607328,39.1422388970063,0 -76.8328464543784,39.1423191450137,0 -76.8328800207092,39.1426486850189,0 -76.832928686105,39.1430138558623,0 -76.832947398399,39.1432038929217,0 -76.8329621205252,39.1433998357173,0 -76.8325621343351,39.1433219942162,0 -76.8322610144285,39.1433215637436,0 -76.8318261507818,39.1433179849925,0 -76.8309614597212,39.1434732536062,0 -76.8319271199307,39.1438815457387,0 -76.8332486868032,39.144981551957,0 -76.831995257014,39.1465600848173,0 -76.8306532545319,39.1469020021066,0 -76.8305152265991,39.147176684085,0 -76.8302015835071,39.1471151454781,0 -76.8300241089118,39.1475576824392,0 -76.8304750182981,39.1476653040197,0 -76.8313367481003,39.1481705664758,0 -76.8319386106078,39.1486541972997,0 -76.8320219627218,39.1487211721701,0 -76.8322166766254,39.1487821134826,0 -76.8325527684917,39.1489862566835,0 -76.8328694963073,39.1492777759493,0 -76.8331307234268,39.1494964485287,0 -76.833429257421,39.1496858978957,0 -76.8338025595733,39.1499047281286,0 -76.8339278462369,39.1499740130268,0 -76.8340718214899,39.1499359333719,0 -76.8347619609888,39.15025063578,0 -76.8348145026259,39.1501987737414,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="70">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Hammond Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Hammond Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;3.01891842998&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8762817578839,39.1478961343026,0 -76.8765670217049,39.1480868672453,0 -76.8783249393953,39.1460468709291,0 -76.8783838147191,39.1460759261536,0 -76.8785138167187,39.1459458688349,0 -76.8783942295851,39.1459047871153,0 -76.8786271143733,39.1456478814321,0 -76.8786978310422,39.1453048104076,0 -76.8789025418537,39.1450326741741,0 -76.878749269777,39.1441830999154,0 -76.8785645946228,39.1441548998531,0 -76.8786507511079,39.1449310750645,0 -76.8785544285313,39.1452387917588,0 -76.8783335681121,39.1452296956143,0 -76.8782340247341,39.1455172816826,0 -76.878514393537,39.1456083551707,0 -76.8783169137132,39.1458781054756,0 -76.8780538961621,39.1457870495722,0 -76.8779713095653,39.1458826724346,0 -76.8778307638532,39.1460472014828,0 -76.8774882824927,39.1465466410007,0 -76.8771193904891,39.1468460485972,0 -76.8767930162758,39.1470160113698,0 -76.8770294437825,39.1474332964694,0 -76.8767678723447,39.1477568833552,0 -76.8763726609207,39.1478022104225,0 -76.8762817578839,39.1478961343026,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="71">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Hammond Hill Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Hammond Hill Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;4.38994529941&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8869827341816,39.1470872211897,0 -76.8868246126068,39.1458142827503,0 -76.8862536598163,39.1454505997596,0 -76.8859429833151,39.1462186424229,0 -76.8854842157537,39.1473523440492,0 -76.8857295190231,39.1474530775891,0 -76.8860258523631,39.1475186731948,0 -76.8868999208651,39.1471047348484,0 -76.8869827341816,39.1470872211897,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="72">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>??appears to be an error</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;??appears to be an error&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;0.86231149392&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8871785909282,39.1441771588748,0 -76.8874177466154,39.1438173546934,0 -76.8886682081106,39.1419318177217,0 -76.888523686036,39.1418866409067,0 -76.8870477713283,39.1441512759692,0 -76.8871785909282,39.1441771588748,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="73">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Savage Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Savage Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;77.4320667969&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8309614597212,39.1434732536062,0 -76.8318261507818,39.1433179849925,0 -76.8322610144285,39.1433215637436,0 -76.8325621343351,39.1433219942162,0 -76.8329621205252,39.1433998357173,0 -76.832947398399,39.1432038929217,0 -76.832928686105,39.1430138558623,0 -76.8328800207092,39.1426486850189,0 -76.8328464543784,39.1423191450137,0 -76.8328314607328,39.1422388970063,0 -76.8327817153355,39.141564922324,0 -76.8327554337263,39.1413660072039,0 -76.8326277247491,39.1404900876583,0 -76.8327238381283,39.1401994383686,0 -76.8326973408918,39.1400924316605,0 -76.8325722685869,39.1397865472337,0 -76.8324659847184,39.1396379056509,0 -76.83233872879,39.1394923304403,0 -76.832270231987,39.1394149614857,0 -76.8321031414541,39.1391475814836,0 -76.8320156275107,39.1390109299783,0 -76.831897982406,39.1387762741753,0 -76.8317709543309,39.1385355525836,0 -76.831755969359,39.1384524893994,0 -76.8317332574271,39.1382742690579,0 -76.831733383684,39.1382209255139,0 -76.8317492007148,39.1381051121048,0 -76.8317646209273,39.1380042174749,0 -76.8318104670798,39.1378766242606,0 -76.8319160204705,39.1375681139093,0 -76.831973913625,39.1373900091285,0 -76.8320847754061,39.1371289384953,0 -76.8321501669754,39.1369895502313,0 -76.8321824628346,39.1369361119817,0 -76.8322554445964,39.1367967345192,0 -76.8323012399533,39.1366899718069,0 -76.8323626689705,39.1365445255481,0 -76.8324240974047,39.13639922,0 -76.8324815147874,39.1362686872944,0 -76.8325043771599,39.1362301548259,0 -76.8325274215285,39.1361143515833,0 -76.8326253717776,39.1358087853243,0 -76.8326599401296,39.1357108735838,0 -76.8326752399413,39.1356603666405,0 -76.8326834154171,39.1355653729341,0 -76.8327025181216,39.1354347853973,0 -76.8326498533419,39.1352358322842,0 -76.8326365705734,39.1351972481703,0 -76.8325681684056,39.1350813142855,0 -76.8324126810531,39.1348021281001,0 -76.8323477118638,39.1347634700395,0 -76.8322946846988,39.1347187768334,0 -76.8320014370185,39.1346144843328,0 -76.8315784039118,39.1345218275777,0 -76.8310258832296,39.1344676886041,0 -76.8307649706412,39.1344464813734,0 -76.8306049079136,39.1344224636259,0 -76.8303877513873,39.1343924516099,0 -76.8302883827657,39.1343804848838,0 -76.830025620768,39.1343771484205,0 -76.8297508317508,39.1344153147833,0 -76.8296593367181,39.1344360126713,0 -76.8293581048121,39.1344979262225,0 -76.8292112447704,39.1345451446614,0 -76.8290969070569,39.1345955068115,0 -76.8288451491757,39.1346752255103,0 -76.8285970194305,39.1347490375256,0 -76.828647089808,39.1352697403167,0 -76.8315826396683,39.1353276201616,0 -76.8315222397706,39.1359537243655,0 -76.8314427911319,39.1363812046657,0 -76.8282468960531,39.136346023002,0 -76.8282815437982,39.1381632797181,0 -76.827202791734,39.1382229201332,0 -76.827351841503,39.1414452968036,0 -76.8258812705587,39.1414736641915,0 -76.8260959152922,39.1419474607932,0 -76.8275278636914,39.1417509801753,0 -76.8288229933816,39.141325284536,0 -76.8287851672843,39.1408213495815,0 -76.8291777354185,39.1406692101337,0 -76.8294508496259,39.1411886883672,0 -76.8299608616433,39.1410520587062,0 -76.8306808512087,39.1435118359656,0 -76.8309614597212,39.1434732536062,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="74">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Savage Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Savage Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;20.7070861758&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8327238381283,39.1401994383686,0 -76.8328035497953,39.1399660502482,0 -76.8327521565134,39.1396860280562,0 -76.8326541978027,39.1393789156287,0 -76.8325335527339,39.1390355983002,0 -76.8325279181383,39.1389723941352,0 -76.8324185010062,39.1386200847814,0 -76.8323206305217,39.1382767997214,0 -76.8323733200091,39.1380059339911,0 -76.8324144312427,39.1378931123769,0 -76.8325829464066,39.1377082687283,0 -76.832652399725,39.1376858481215,0 -76.8330345391242,39.1379616973671,0 -76.8328815741902,39.1376823748614,0 -76.8327895241251,39.1374766098344,0 -76.8327238249091,39.1372862239326,0 -76.8326978862962,39.1370958947398,0 -76.8327117685744,39.1368798653639,0 -76.8328637854627,39.136792677296,0 -76.8332205296183,39.1367983931166,0 -76.8333853895288,39.1367831452112,0 -76.8334845004609,39.1367524620883,0 -76.8335244052058,39.1366907301047,0 -76.8334519575535,39.1366032222688,0 -76.8334654517023,39.1365518681766,0 -76.8334655842395,39.136495287399,0 -76.8332212778043,39.1364794576993,0 -76.8332082418157,39.1363354532551,0 -76.8332086397091,39.1361658516597,0 -76.8332122791051,39.1360011808736,0 -76.8331601347836,39.1357336841449,0 -76.8332797030087,39.1354561570759,0 -76.8329874452661,39.1346208195872,0 -76.8329152487029,39.1345814477979,0 -76.8328105758925,39.1345192283492,0 -76.8325864607053,39.134373937259,0 -76.8320173692436,39.1342964149948,0 -76.8314374461018,39.1342145111765,0 -76.8311964754556,39.1341672950592,0 -76.8307752572862,39.1340729490183,0 -76.8306550092573,39.1340257652639,0 -76.830095356476,39.133933046423,0 -76.8294736784282,39.1339321436365,0 -76.8284447815254,39.1341785008411,0 -76.8279794211451,39.1342541046477,0 -76.825748960528,39.1342508100687,0 -76.8257023813968,39.1342315989816,0 -76.8256659457933,39.1342029727949,0 -76.8256427705037,39.1336309352576,0 -76.8253121007056,39.1336113010773,0 -76.8243705352482,39.1333240332189,0 -76.8239158739526,39.1333123726749,0 -76.824250068164,39.1338063395467,0 -76.8246526260188,39.1339885083877,0 -76.8248732487304,39.1340772284589,0 -76.8249731133781,39.1343276289486,0 -76.8249954977208,39.1346315389614,0 -76.825493452161,39.1346794321938,0 -76.8257587089554,39.1346975611436,0 -76.8257625648083,39.1347465474428,0 -76.8259580479041,39.1349184105896,0 -76.828246623646,39.1352618352761,0 -76.8283318946628,39.1352746275758,0 -76.8283843290176,39.1352645704478,0 -76.828647089808,39.1352697403167,0 -76.8285970194305,39.1347490375256,0 -76.8288451491757,39.1346752255103,0 -76.8290969070569,39.1345955068115,0 -76.8292112447704,39.1345451446614,0 -76.8293581048121,39.1344979262225,0 -76.8296593367181,39.1344360126713,0 -76.8297508317508,39.1344153147833,0 -76.830025620768,39.1343771484205,0 -76.8302883827657,39.1343804848838,0 -76.8303877513873,39.1343924516099,0 -76.8306049079136,39.1344224636259,0 -76.8307649706412,39.1344464813734,0 -76.8310258832296,39.1344676886041,0 -76.8315784039118,39.1345218275777,0 -76.8320014370185,39.1346144843328,0 -76.8322946846988,39.1347187768334,0 -76.8323477118638,39.1347634700395,0 -76.8324126810531,39.1348021281001,0 -76.8325681684056,39.1350813142855,0 -76.8326365705734,39.1351972481703,0 -76.8326498533419,39.1352358322842,0 -76.8327025181216,39.1354347853973,0 -76.8326834154171,39.1355653729341,0 -76.8326752399413,39.1356603666405,0 -76.8326599401296,39.1357108735838,0 -76.8326253717776,39.1358087853243,0 -76.8325274215285,39.1361143515833,0 -76.8325043771599,39.1362301548259,0 -76.8324815147874,39.1362686872944,0 -76.8324240974047,39.13639922,0 -76.8323626689705,39.1365445255481,0 -76.8323012399533,39.1366899718069,0 -76.8322554445964,39.1367967345192,0 -76.8321824628346,39.1369361119817,0 -76.8321501669754,39.1369895502313,0 -76.8320847754061,39.1371289384953,0 -76.831973913625,39.1373900091285,0 -76.8319160204705,39.1375681139093,0 -76.8318104670798,39.1378766242606,0 -76.8317646209273,39.1380042174749,0 -76.8317492007148,39.1381051121048,0 -76.831733383684,39.1382209255139,0 -76.8317332574271,39.1382742690579,0 -76.831755969359,39.1384524893994,0 -76.8317709543309,39.1385355525836,0 -76.831897982406,39.1387762741753,0 -76.8320156275107,39.1390109299783,0 -76.8321031414541,39.1391475814836,0 -76.832270231987,39.1394149614857,0 -76.83233872879,39.1394923304403,0 -76.8324659847184,39.1396379056509,0 -76.8325722685869,39.1397865472337,0 -76.8326973408918,39.1400924316605,0 -76.8327238381283,39.1401994383686,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="75">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Savage Park</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Savage Park&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;COUNTY PARKS&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;1.44210202329&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8253653012402,39.136526286885,0 -76.8249998772615,39.1365233491702,0 -76.825077602834,39.1368119999998,0 -76.8251046738412,39.1371214059922,0 -76.8251004438992,39.1376653932702,0 -76.8257720025135,39.1376800459709,0 -76.8257640532032,39.1375314035753,0 -76.8256648592217,39.1371519384394,0 -76.8254311355686,39.1366533402684,0 -76.8253653012402,39.136526286885,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="76">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Recreation &amp; Parks</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Recreation &amp; Parks&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;3.58591375215&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8428001260113,39.1170569488872,0 -76.8408937606118,39.1171516338565,0 -76.8365866993448,39.1173313552745,0 -76.8362459927509,39.1174650137858,0 -76.8363075460367,39.1175688320377,0 -76.8363435412199,39.1176299675193,0 -76.8409116072385,39.1174120443346,0 -76.8409889467287,39.1174080675724,0 -76.8428001260113,39.1170569488872,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="77">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Recreation &amp; Parks</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Recreation &amp; Parks&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;4.34821242598&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8398439420349,39.1170256406289,0 -76.8397728880231,39.1160042661925,0 -76.8386287000719,39.1160709595897,0 -76.8386864207527,39.116590967206,0 -76.8385060821285,39.1166011342702,0 -76.8384649864593,39.116080445736,0 -76.8378809642413,39.1161149673148,0 -76.837968275916,39.1171259499374,0 -76.8398439420349,39.1170256406289,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="78">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Recreation &amp; Parks</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Recreation &amp; Parks&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;4.3873869457&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.841854389607,39.1169247795262,0 -76.8417609373092,39.115888034398,0 -76.8414927805153,39.1159037174139,0 -76.8415472055475,39.1164525727732,0 -76.8413737330577,39.1164628942831,0 -76.8413305130667,39.115913209519,0 -76.839895763074,39.1159972559188,0 -76.8399657293945,39.1170210215334,0 -76.841854389607,39.1169247795262,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="79">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>High Ridge Park Site</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;High Ridge Park Site&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;UNDEVELOPED REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;100.296113969&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8626751344729,39.1100999104155,0 -76.8624160594458,39.1101041104848,0 -76.8622090005417,39.1101155493865,0 -76.8620004829092,39.1101338829307,0 -76.8626020862437,39.1118149980294,0 -76.8621134625166,39.1116835270677,0 -76.8615471877937,39.1122776665352,0 -76.861363552398,39.1125034930163,0 -76.8611181301279,39.1130981502223,0 -76.8609957433124,39.1132287613107,0 -76.8606589085438,39.11363287505,0 -76.8600769615562,39.114464995721,0 -76.8622293151651,39.1151100668299,0 -76.8657778061107,39.116220474677,0 -76.8660999595162,39.1153524199662,0 -76.8669088860863,39.1156149944895,0 -76.8668625271948,39.1158647718583,0 -76.8669541539915,39.1159481995132,0 -76.8682080602969,39.114962119213,0 -76.8693069541294,39.1153321131974,0 -76.8695063932859,39.1149516085296,0 -76.8701468751712,39.1152498640952,0 -76.8716288449129,39.115001666883,0 -76.8721324289243,39.1152758341499,0 -76.8731578594508,39.114505783024,0 -76.8730665137142,39.1144643038053,0 -76.8729599726181,39.1144335049922,0 -76.8727914031901,39.1143342345797,0 -76.8726307900343,39.1142314538361,0 -76.8724483128934,39.1142312553517,0 -76.8722654390205,39.1142507610599,0 -76.8720669283498,39.1141244330811,0 -76.8718764018359,39.1139792530768,0 -76.8716472914537,39.1139906845439,0 -76.8714485806,39.1139761102843,0 -76.8712729817151,39.1137695789418,0 -76.8711208837939,39.1135558949561,0 -76.8709605232962,39.1133161630256,0 -76.8708153481307,39.113071943622,0 -76.8707163839979,39.1128501541719,0 -76.8706253744108,39.1126258399189,0 -76.8705641709687,39.1125031795898,0 -76.8704718634965,39.1123968117794,0 -76.8703126625836,39.1123164085208,0 -76.8701368192288,39.1122478095527,0 -76.8699082631637,39.1121566319004,0 -76.8696793399069,39.112068972127,0 -76.8692980205233,39.1119352577005,0 -76.8689087385584,39.1118095558376,0 -76.8685652849667,39.1117172617089,0 -76.8682069594098,39.1116564777212,0 -76.86796988476,39.1116797159929,0 -76.8677328251374,39.1116947903338,0 -76.86749734525,39.1116376615131,0 -76.8672752984193,39.1115464860659,0 -76.8671692330463,39.1114581159687,0 -76.8670617076355,39.1113777668361,0 -76.866864218897,39.1112937966844,0 -76.8666573211205,39.1112178382106,0 -76.8664666765464,39.1111455573789,0 -76.8662611823125,39.1110922604667,0 -76.8659327448889,39.1110882256573,0 -76.8656053470599,39.111107696282,0 -76.8652157739337,39.1111414509363,0 -76.8648341923939,39.1111526935985,0 -76.8646121727303,39.111049830913,0 -76.8644448443001,39.1108784860873,0 -76.8643309427974,39.110733241542,0 -76.8642083404638,39.1106034692419,0 -76.863956796796,39.1104473677681,0 -76.8636817392444,39.1103064393407,0 -76.8634994485985,39.1102143176967,0 -76.8633004925291,39.1101456814939,0 -76.8631180830559,39.1101157703991,0 -76.8629341937367,39.110103873227,0 -76.8626751344729,39.1100999104155,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="80">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Recreation &amp; Parks</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Recreation &amp; Parks&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;4.50406882051&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8377492730734,39.1160263944451,0 -76.8377059878923,39.1155176662301,0 -76.8376579526301,39.114873952667,0 -76.835722686813,39.1149877961208,0 -76.8361078605812,39.1156239597736,0 -76.8364026989647,39.1161048901622,0 -76.8377492730734,39.1160263944451,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="81">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Recreation &amp; Parks</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Recreation &amp; Parks&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;1.47620845928&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8360540699479,39.1157588631966,0 -76.8357405289158,39.1152417330723,0 -76.8355947428834,39.1149997211368,0 -76.8349256922484,39.1152414325479,0 -76.8349933587699,39.1153563793667,0 -76.8350653502484,39.1154762584594,0 -76.8351423786486,39.1156057155493,0 -76.8352042884313,39.1157102386811,0 -76.8352964307488,39.1158670222967,0 -76.8353777792458,39.1160038042581,0 -76.8360540699479,39.1157588631966,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="82">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>Recreation &amp; Parks</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;Recreation &amp; Parks&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;1.0973346624&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8417528389405,39.1157924546391,0 -76.8417076702866,39.1153054007746,0 -76.8414536153974,39.1153178655124,0 -76.8414182435676,39.1146516507325,0 -76.8410355311911,39.1146736520898,0 -76.8410907807272,39.115336656708,0 -76.841278344585,39.1153256509582,0 -76.8413112118924,39.1158183183069,0 -76.8417528389405,39.1157924546391,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+    <Placemark id="83">
+      <Snippet maxLines="0">
+      </Snippet>
+      <name>High Ridge Park Site</name>
+      <description>&lt;br&gt;&lt;br&gt;&lt;table border="1"padding="1"width="97%"&gt;&lt;tr&gt;&lt;td&gt;NAME:&lt;/td&gt;&lt;td&gt;High Ridge Park Site&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;TYPE:&lt;/td&gt;&lt;td&gt;REGIONAL PARK&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;OWNER:&lt;/td&gt;&lt;td&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;ACRES:&lt;/td&gt;&lt;td&gt;9.59068650859&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td&gt;County:&lt;/td&gt;&lt;td&gt;HOWA&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</description>
+      <visibility>1</visibility>
+      <open>0</open>
+      <Polygon>
+        <extrude>1</extrude>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampedToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-76.8600393363352,39.1119176678531,0 -76.8605124457797,39.1120363207915,0 -76.8610014561323,39.1110453218671,0 -76.8614016898977,39.1109188399182,0 -76.8614122996677,39.1108514334604,0 -76.8615885867063,39.1108716282571,0 -76.8617389964209,39.1104491350837,0 -76.8615820702638,39.1105067978595,0 -76.861382911952,39.1105424535493,0 -76.8613398021179,39.1106001098389,0 -76.8611949303523,39.1107755936891,0 -76.8610504909724,39.1107293974124,0 -76.8608743990989,39.1106096921393,0 -76.8605350732019,39.1106318086759,0 -76.8602459900226,39.1106442724493,0 -76.8601419274599,39.1106449927852,0 -76.8600161999457,39.1106383681744,0 -76.8595931673835,39.1105992966679,0 -76.8594706885647,39.1105943643584,0 -76.8593980577702,39.11059681072,0 -76.8593405930446,39.1106040607265,0 -76.8590435182741,39.1106379058649,0 -76.858992923352,39.1106427712231,0 -76.8587608746067,39.1106826053578,0 -76.8586907187042,39.1107123596681,0 -76.8585728283547,39.1107620427614,0 -76.858479958779,39.1107667161167,0 -76.858292518421,39.1107231387357,0 -76.8580903365174,39.1106432298287,0 -76.8579935099408,39.1106391715365,0 -76.8578087953331,39.1106783573943,0 -76.8578035955475,39.1107490073366,0 -76.8577547779513,39.1109490938764,0 -76.8577004776851,39.1111804201155,0 -76.8576383952364,39.1113281316684,0 -76.8580551757965,39.111242639353,0 -76.8584148851656,39.1109659387969,0 -76.8587037428709,39.1108859195094,0 -76.8585399121014,39.1118699829671,0 -76.8585282056704,39.1119423140586,0 -76.8585031698782,39.1121762094298,0 -76.8598931085336,39.1124116644274,0 -76.8600393363352,39.1119176678531,0 </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+      <styleUrl>#trb825</styleUrl>
+    </Placemark>
+  </Document>
+</kml>

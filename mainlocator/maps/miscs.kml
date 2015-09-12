@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<Style id="misc">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/misc.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="cave">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/cave.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="aquarium">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/dolphins.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="fair">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/ferriswheel.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="lake">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/lake.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="hotel">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/lodging.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="mountains">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/mountains.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="music">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/music.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="dance">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/dance.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+	<name>Baltimore National Aquarium</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/baltimore-national-aquarium/">Baltimore National Aquarium</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=501+East+Pratt+Street,+Baltimore,+MD&hnear=501+E+Pratt+St,+Baltimore,+Maryland+21202&gl=us&t=h&z=16&vpsrc=0">501 East Pratt Street, Baltimore, MD</a>
+		<br>Phone: 410-576-3800
+		<br><a href="http://www.aqua.org/">Website</a>
+
+	]]></description>
+	<styleUrl>#aquarium</styleUrl>
+	<LookAt>
+		<longitude>-76.60831300000000</longitude>
+		<latitude>39.28541242582000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.60831300000000,39.28541242582000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Frederick School of Classical Ballet</name>
+	<description><![CDATA[
+		Frederick School of Classical Ballet
+		<br>Address: <a href="http://maps.google.com/maps?q=36+East+Patrick+Street,+Frederick,+MD&hnear=36+E+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">36 East Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-662-9441
+		<br><a href="http://www.frederickclassicalballet.net/">Website</a>
+
+	]]></description>
+	<styleUrl>#dance</styleUrl>
+	<LookAt>
+		<longitude>-77.40972400000000</longitude>
+		<latitude>39.41389870812200</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.40972400000000,39.41389870812200,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>ICE! at the National Harbor</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/ice-at-the-national-harbor">ICE! at the National Harbor</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=201+Waterfront+Street,+National+Harbor,+Maryland+20745&ll=38.781262,-77.015297&spn=0.007603,0.016512&safe=off&hnear=201+Waterfront+St,+National+Harbor,+Maryland+20745&gl=us&t=h&z=17">201 Waterfront Street, National Harbor, Maryland 20745</a>
+		<br>Phone: 800-627-7468
+		<br><a href="http://www.marriott.com/hotel-info/wasgn-gaylord-national-resort-and-convention-center/gaylord-national-entertainment/fr8e90c/seasonal.mi">Website</a>
+
+	]]></description>
+	<styleUrl>#misc</styleUrl>
+	<LookAt>
+		<longitude>-77.01360279749400</longitude>
+		<latitude>38.78226232539500</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.01360279749400,38.78226232539500,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Lake Lucerne</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/lake-lucerne">Lake Lucerne</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=lake+lucerne&oe=utf-8&client=firefox-a&channel=fflb&hnear=Lake+of+Lucerne&gl=us&t=m&z=11">Lake Lucerne, Switzerland</a>
+
+	]]></description>
+	<styleUrl>#lake</styleUrl>
+	<LookAt>
+		<longitude>8.38794700000000</longitude>
+		<latitude>47.03409900000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>8.38794700000000,47.03409900000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Luray Caverns</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/luray-caverns/">Luray Caverns</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=101+Cave+Hill+Road+Luray,+VA+22835&hnear=101+Cave+Hill+Rd,+Luray,+Virginia+22835&gl=us&t=h&z=16&vpsrc=0">101 Cave Hill Road  Luray, VA 22835</a>
+		<br>Phone: 540-743-6551
+		<br><a href="http://luraycaverns.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#cave</styleUrl>
+	<LookAt>
+		<longitude>-78.48374800000000</longitude>
+		<latitude>38.66409011848600</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-78.48374800000000,38.66409011848600,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Montgomery County Fair</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/montgomery-county-fair">Montgomery County Fair</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=596+N.+Frederick+Ave.,+Gaithersburg+MD&ll=39.145622,-77.208846&spn=0.014428,0.033023&hnear=596+N+Frederick+Ave,+Gaithersburg,+Maryland+20877&gl=us&t=m&z=16">596 N Frederick Ave., Gaithersburg MD</a>
+		<br>Phone: 301-926-3100
+		<br><a href="http://www.mcagfair.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#fair</styleUrl>
+	<LookAt>
+		<longitude>-77.21009100000000</longitude>
+		<latitude>39.14598800000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.21009100000000,39.14598800000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Mount Stanserhorn</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/mount-stanserhorn">Mount Stanserhorn</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=Mount+Stanserhorn,+Switzerland&ll=46.929678,8.339267&spn=0.005942,0.009645&oe=utf-8&client=firefox-a&hnear=Stanserhorn&t=h&z=17">Mount Stanserhorn, Switzerland</a>
+
+	]]></description>
+	<styleUrl>#mountains</styleUrl>
+	<LookAt>
+		<longitude>8.34027000000000</longitude>
+		<latitude>46.92974000000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>8.34027000000000,46.92974000000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>The Obladi</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/the-obladi/">The Obladi</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8060+Main+St,+Ellicott+City,+MD&hnear=8060+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8060 Main St, Ellicott City, MD</a>
+		<br>Phone: 410-480-1968
+		<br><a href="http://theobladi.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#hotel</styleUrl>
+	<LookAt>
+		<longitude>-76.79586300000000</longitude>
+		<latitude>39.26770423251400</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79586300000000,39.26770423251400,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>The Weinberg Center</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/weinberg-center/">The Weinberg Center</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=20+West+Patrick+Street,+Frederick,+MD&hnear=20+W+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">20 West Patrick Street, Frederick, MD</a>
+		<br>Phone: 301-600-2828
+		<br><a href="http://www.weinbergcenter.org/">Website</a>
+
+	]]></description>
+	<styleUrl>#music</styleUrl>
+	<LookAt>
+		<longitude>-77.41168300000000</longitude>
+		<latitude>39.41404303140100</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.41168300000000,39.41404303140100,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Verbena Day Spa</name>
+	<description><![CDATA[
+		Verbena Day Spa
+		<br>Address: <a href="http://maps.google.com/maps?q=14+West+Patrick+Street,+Frederick,+MD&hnear=14+W+Patrick+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">14 West Patrick Street, Frederick, MD</a>
+		<br>Phone: 240-575-5333
+		<br><a href="http://www.verbenadayspa.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#misc</styleUrl>
+	<LookAt>
+		<longitude>-77.41147600000000</longitude>
+		<latitude>39.41403700772000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.41147600000000,39.41403700772000,0</coordinates>
+	</Point>
+	</Placemark>
+
+</Document>
+</kml>

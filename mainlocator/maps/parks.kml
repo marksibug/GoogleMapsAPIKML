@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<Style id="museum_war">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/museum_war.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="park">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/park.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="beach">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/beach.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="farm">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/farm.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="forest">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/forest.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="hiking">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/hiking.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="battlefield">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/battlefield.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="train">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/train.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="tree">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/tree.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="wetlands">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/wetlands.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="fort">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/fort.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="amphitheater">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/amphitheater.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="park_bridge">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/park_bridge.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+	<name>Antietam Battlefield</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/">Antietam Battlefield</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=5831+Dunker+Church+Rd,+Sharpsburg,+MD&hl=en&hnear=5831+Dunker+Church+Rd,+Sharpsburg,+Washington,+Maryland+21782&t=h&z=16">5831 Dunker Church Rd, Sharpsburg, MD</a>
+		<br>Phone: 301-432-5124
+		<br><a href="http://www.nps.gov/ancm/index.htm">Website</a>
+
+	]]></description>
+	<styleUrl>#battlefield</styleUrl>
+	<LookAt>
+		<longitude>-77.74450000000000</longitude>
+		<latitude>39.47422100000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.74450000000000,39.47422100000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Baker Park</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/baker-park/">Baker Park</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=121+N+Bentz+St,+Frederick,+MD+21701&hnear=121+N+Bentz+St,+Frederick,+Maryland+21701&gl=us&t=h&z=16&vpsrc=0">121 N Bentz St, Frederick, MD 21701</a>
+
+	]]></description>
+	<styleUrl>#amphitheater</styleUrl>
+	<LookAt>
+		<longitude>-77.41647100000000</longitude>
+		<latitude>39.41590690760800</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.41647100000000,39.41590690760800,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Billy Goat Trail</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/billy-goat-trail/">Billy Goat Trail</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=11710+MacArthur+Boulevard,+Potomac,+MD&hnear=11710+MacArthur+Blvd,+Potomac,+Maryland+20854&t=h&z=16">11710 MacArthur Blvd, Potomac, MD 20854</a>
+
+	]]></description>
+	<styleUrl>#hiking</styleUrl>
+	<LookAt>
+		<longitude>-77.24741600000000</longitude>
+		<latitude>39.00133500000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.24741600000000,39.00133500000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Black Hill Regional Park</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/black-hill-regional-park">Black Hill Regional Park</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=black+hill+regional+park&ll=39.198338,-77.280235&spn=0.060396,0.132093&t=h&z=14">20930 Lake Ridge Dr, Boyds, MD 20841</a>
+		<br>Phone: 301-972-9396
+		<br><a href="http://www.montgomeryparks.org/facilities/regional_parks/blackhill/">Website</a>
+
+	]]></description>
+	<styleUrl>#park</styleUrl>
+	<LookAt>
+		<longitude>-77.29608700000000</longitude>
+		<latitude>39.19255100000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.29608700000000,39.19255100000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Brookside Gardens</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/brookside-gardens">Brookside Gardens</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=1800+Glenallan+Ave+Wheaton,+MD+20902&amp;hnear=1800+Glenallan+Ave,+Wheaton-Glenmont,+Montgomery,+Maryland+20902&amp;gl=us&amp;t=h&amp;z=16">1800 Glenallan Ave, Wheaton, MD 20902</a>
+		<br>Phone: 301-962-1400
+		<br><a href="http://www.montgomeryparks.org/brookside/">Website</a>
+
+	]]></description>
+	<styleUrl>#park</styleUrl>
+	<LookAt>
+		<longitude>-77.03735125067126</longitude>
+		<latitude>39.05816930572999</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.03735125067126,39.05816930572999,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Buck Hollow</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/buck-hollow-trail/">Buck Hollow</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=38.65703,-78.280107&hl=en&ll=38.65703,-78.280098&spn=0.008512,0.01693&sll=38.65703,-78.283103&sspn=0.008512,0.01693&t=h&z=14">Directions to Buck Hollow</a>
+
+	]]></description>
+	<styleUrl>#hiking</styleUrl>
+	<LookAt>
+		<longitude>-78.28010700000000</longitude>
+		<latitude>38.65703000000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-78.28010700000000,38.65703000000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Casselman River Bridge State Park</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/casselman-river-bridge-state-park/">Casselman River Bridge State Park</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=10240+National+Pike,+Grantsville,+MD+21536&hl=en&safe=off&hnear=10240+National+Pike,+Grantsville,+Maryland+21536&gl=us&t=h&z=16">10240 National Pike, Grantsville, MD 21536</a>
+		<br>Phone: 301-895-5453
+		<br><a href="http://www.dnr.state.md.us/publiclands/western/casselman.asp">Website</a>
+
+	]]></description>
+	<styleUrl>#park_bridge</styleUrl>
+	<LookAt>
+		<longitude>-79.14366800000000</longitude>
+		<latitude>39.69675124908300</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-79.14366800000000,39.69675124908300,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Catoctin Furnace</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/catoctin-furnace/">Catoctin Furnace</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=12755-12763+Catoctin+Furnace+RdThurmont,+MD+21788&hnear=12763+Catoctin+Furnace+Rd,+Thurmont,+Maryland+21788&gl=us&t=h&z=16&vpsrc=0">12763 Catoctin Furnace Rd, Thurmont, MD 21788</a>
+		<br><a href="http://www.dnr.state.md.us/publiclands/western/cunningham.asp">Website</a>
+
+	]]></description>
+	<styleUrl>#park</styleUrl>
+	<LookAt>
+		<longitude>-77.43450200000000</longitude>
+		<latitude>39.58120775587200</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.43450200000000,39.58120775587200,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Catoctin Mountain Park</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/catoctin-mountain-park">Catoctin Mountain Park</a>
+		<br>Address: <a href="http://goo.gl/maps/zzCTA">6602 Foxville Rd, Thurmont, MD 21788</a>
+		<br>Phone: 301-663-9388
+		<br><a href="http://www.nps.gov/cato/index.htm">Website</a>
+
+	]]></description>
+	<styleUrl>#hiking</styleUrl>
+	<LookAt>
+		<longitude>-77.44911018495033</longitude>
+		<latitude>39.63342925817587</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.44911018495033,39.63342925817587,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Cromwell Valley Park</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/cromwell-valley-park/">Cromwell Valley Park</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=2002+Cromwell+Bridge+Road,+Baltimore,+MD+21234&hnear=2002+Cromwell+Bridge+Rd,+Carney,+Baltimore,+Maryland+21234&gl=us&t=h&z=16&vpsrc=0">2002 Cromwell Bridge Road, Baltimore, MD 21234</a>
+		<br>Phone: 410-887-2503
+		<br><a href="http://www.cromwellvalleypark.org/">Website</a>
+
+	]]></description>
+	<styleUrl>#park</styleUrl>
+	<LookAt>
+		<longitude>-76.54908900000000</longitude>
+		<latitude>39.41186362379700</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.54908900000000,39.41186362379700,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Cunningham Falls State Park</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/cunningham-falls-state-park">Cunningham Falls State Park</a>
+		<br>Address: <a href="http://goo.gl/maps/z2RG7">14039 Catoctin Hollow Road, Thurmont, MD 21788</a>
+		<br>Phone: 301-271-7574
+		<br><a href="http://dnr2.maryland.gov/publiclands/Pages/western/cunningham.aspx">Website</a>
+
+	]]></description>
+	<styleUrl>#hiking</styleUrl>
+	<LookAt>
+		<longitude>-77.45059250323857</longitude>
+		<latitude>39.59930938465742</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.45059250323857,39.59930938465742,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Doubleday Hill</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/doubleday-hill">Doubleday Hill</a>
+		<br>Address: <a href="https://www.google.com/maps/place/Doubleday+Hill+Monument/@39.59880227351929,-77.82533109789375,16z/data=!4m2!3m1!1s0x89c9f3ee29fb3481:0xf873cfed097a6baf">39.59880227351929,-77.82533109789375</a>
+
+	]]></description>
+	<styleUrl>#museum_war</styleUrl>
+	<LookAt>
+		<longitude>-77.82533109789375</longitude>
+		<latitude>39.59880227351929</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.82533109789375,39.59880227351929,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Everglades</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/everglades">Everglades</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=visitor+center&hl=en&ll=25.393157,-80.597463&spn=0.035241,0.066047&sll=25.390714,-80.601025&sspn=0.035242,0.066047&t=h&radius=2.47&hq=visitor+center&z=15&iwloc=B">40001 State Highway 9336, Homestead, FL 33034</a>
+		<br><a href="http://www.nps.gov/ever/index.htm">Website</a>
+
+	]]></description>
+	<styleUrl>#wetlands</styleUrl>
+	<LookAt>
+		<longitude>-80.59746300000000</longitude>
+		<latitude>25.39315700000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-80.59746300000000,25.39315700000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Fort Frederick State Park</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/fort-frederick-state-park/">Fort Frederick State Park</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=11100+Fort+Frederick+Road,+Big+Pool,+Maryland+21711&hl=en&safe=off&hnear=11100+Fort+Frederick+Rd,+Big+Pool,+Maryland+21711&gl=us&t=h&z=16">11100 Fort Frederick Road, Big Pool, Maryland 21711</a>
+		<br>Phone: 301-842-2155
+		<br><a href="http://www.dnr.state.md.us/publiclands/western/fortfrederick.asp">Website</a>
+
+	]]></description>
+	<styleUrl>#fort</styleUrl>
+	<LookAt>
+		<longitude>-78.00623900000000</longitude>
+		<latitude>39.61346528732500</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-78.00623900000000,39.61346528732500,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Gettysburg Battlefield</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/gettysburg-battlefield">Gettysburg Battlefield</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=Gettysburg+National+Military+Park,+Gettysburg,+PA+17325&hl=en&sll=39.150683,-77.24957&sspn=0.015009,0.033023&t=h&z=17&iwloc=A">Gettysburg National Military Park, Gettysburg, PA 17325</a>
+		<br>Phone: 717-338-1243
+		<br><a href="http://www.gettysburgfoundation.org/">Website</a>
+
+	]]></description>
+	<styleUrl>#battlefield</styleUrl>
+	<LookAt>
+		<longitude>-77.22313700000000</longitude>
+		<latitude>39.81156900000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.22313700000000,39.81156900000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Goblin Valley State Park</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/goblin-valley-state-park">Goblin Valley State Park</a>
+		<br>Address: <a href="https://www.google.com/maps/place/Goblin+Valley+State+Park/@38.574256,-110.706749,13z/data=!4m2!3m1!1s0x0:0x3895cdf0b7d38cf9">Green River, UT 84525</a>
+		<br>Phone: 435-275-4584
+		<br><a href="http://stateparks.utah.gov/parks/goblin-valley/">Website</a>
+
+	]]></description>
+	<styleUrl>#park</styleUrl>
+	<LookAt>
+		<longitude>38.57425600000000</longitude>
+		<latitude>110.70674900000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>110.70674900000000,38.57425600000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Great Falls National Park</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/great-falls-national-park/">Great Falls National Park</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=11710+MacArthur+Boulevard,+Potomac,+MD&hnear=11710+MacArthur+Blvd,+Potomac,+Montgomery,+Maryland+20854&t=h&z=16">11710 MacArthur Blvd, Potomac, MD 20854</a>
+
+	]]></description>
+	<styleUrl>#hiking</styleUrl>
+	<LookAt>
+		<longitude>-77.24729800000000</longitude>
+		<latitude>39.00144300000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.24729800000000,39.00144300000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Harpers Ferry National Historical Park</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/harpers-ferry">Harpers Ferry National Historical Park</a>
+		<br>Address: <a href="https://maps.google.com/maps/ms?msid=201131786694587368614.0004d7bdcd01a9e2ee6d4&msa=0&ll=39.327426,-77.728314&spn=0.013212,0.01929">Directions to Harpers Ferry National Historical Park</a>
+		<br>Phone: 304-535-6029
+		<br><a href="http://www.nps.gov/hafe/index.htm">Website</a>
+
+	]]></description>
+	<styleUrl>#hiking</styleUrl>
+	<LookAt>
+		<longitude>-77.72775700000000</longitude>
+		<latitude>39.32641400000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.72775700000000,39.32641400000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Manassas Battlefield</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/manassas-battlefield">Manassas Battlefield</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=6511+Sudley+Road+Manassas,+VA+20109&hnear=6511+Sudley+Rd,+Manassas,+Prince+William,+Virginia+20109&gl=us&t=h&z=16">6511 Sudley Road, Manassas, VA 20109</a>
+		<br>Phone: 703-361-1339
+		<br><a href="http://www.nps.gov/mana/index.htm">Website</a>
+
+	]]></description>
+	<styleUrl>#battlefield</styleUrl>
+	<LookAt>
+		<longitude>-77.52144700000000</longitude>
+		<latitude>38.81283700000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.52144700000000,38.81283700000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Mary&#039;s Rock</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/marys-rock/">Mary's Rock</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=38.660106,-78.321289&hl=en&ll=38.660106,-78.321289&spn=0.008512,0.01693&sll=38.660106,-78.321289&sspn=0.008512,0.01693&t=h&z=14">Directions to Mary's Rock</a>
+
+	]]></description>
+	<styleUrl>#hiking</styleUrl>
+	<LookAt>
+		<longitude>-78.32128900000000</longitude>
+		<latitude>38.66010600000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-78.32128900000000,38.66010600000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Maryland Heights</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/maryland-heights-harpers-ferry/">Maryland Heights</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=39.326414,-77.727757&hl=en&sll=39.327426,-77.728314&sspn=0.017594,0.03386&t=m&z=16">Directions to Maryland Heights</a>
+
+	]]></description>
+	<styleUrl>#hiking</styleUrl>
+	<LookAt>
+		<longitude>-77.72775700000000</longitude>
+		<latitude>39.32641400000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.72775700000000,39.32641400000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Middle Patuxent Environmental Area</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/middle-patuxent-environmental-area">Middle Patuxent Environmental Area</a>
+		<br>Address: <a href="https://www.google.com/maps/place/5795+Trotter+Rd,+Clarksville,+MD+21029/@39.2181914,-76.9152586,13z/data=!4m2!3m1!1s0x89b7d8ccd80ade23:0xb7ef89d74c9f80a1">5795 Trotter Road Clarksville, MD 21029</a>
+		<br>Phone: 410-313-4726
+		<br><a href="http://www.howardcountymd.gov/mpea.htm">Website</a>
+
+	]]></description>
+	<styleUrl>#forest</styleUrl>
+	<LookAt>
+		<longitude>-76.90750000000000</longitude>
+		<latitude>39.20960000000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.90750000000000,39.20960000000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Monocacy National Battlefield</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/monocacy-national-battlefield/">Monocacy National Battlefield</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=4801+Urbana+Pike,+Frederick,+Maryland+21704&hl=en&safe=off&hnear=4801+Urbana+Pike,+Frederick,+Maryland+21703&gl=us&t=h&z=16">4801 Urbana Pike, Frederick, Maryland 21704</a>
+		<br>Phone: 301-662-3515
+		<br><a href="http://www.nps.gov/mono/index.htm">Website</a>
+
+	]]></description>
+	<styleUrl>#battlefield</styleUrl>
+	<LookAt>
+		<longitude>-77.38565200000000</longitude>
+		<latitude>39.36676891317300</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.38565200000000,39.36676891317300,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>National Arboretum</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/national-arboretum">National Arboretum</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=National+arboretum&ll=38.910554,-76.968498&spn=0.012806,0.01929&oe=utf-8&fb=1&gl=us&hq=National+arboretum&hnear=National+arboretum&cid=0,0,12451978746893569755&t=h&z=16&iwloc=A">3501 New York Avenue NE Washington, DC 20002</a>
+		<br><a href="http://www.usna.usda.gov/">Website</a>
+
+	]]></description>
+	<styleUrl>#tree</styleUrl>
+	<LookAt>
+		<longitude>-76.96962288035032</longitude>
+		<latitude>38.91281049376733</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.96962288035032,38.91281049376733,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>National Colonial Farm</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/national-colonial-farm">National Colonial Farm</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=3400+Bryan+Point+Road+Accokeek,+MD+20607&ll=38.690551,-77.062075&spn=0.015208,0.033023&hnear=3400+Bryan+Point+Rd,+Accokeek,+Maryland+20607&gl=us&t=h&z=16">3400 Bryan Point Road Accokeek, MD 20607</a>
+		<br><a href="http://www.nps.gov/pisc/planyourvisit/ncf.htm">Website</a>
+
+	]]></description>
+	<styleUrl>#farm</styleUrl>
+	<LookAt>
+		<longitude>-77.06600200000000</longitude>
+		<latitude>38.69271300000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.06600200000000,38.69271300000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Old Rag Mountain</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/old-rag-mountain">Old Rag Mountain</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=old+rag+moutain&amp;hl=en&amp;sll=39.490068,-76.688974&amp;sspn=0.026363,0.038581&amp;t=p&amp;hnear=Old+Rag+Mountain&amp;z=14&amp;iwloc=A">Old Rag Mountain, Shenandoah National Park, Robertson, VA 22743</a>
+		<br>Phone: 540-999-3500
+		<br><a href="www.nps.gov/shen">Website</a>
+
+	]]></description>
+	<styleUrl>#hiking</styleUrl>
+	<LookAt>
+		<longitude>-78.31429900000000</longitude>
+		<latitude>38.55175500000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-78.31429900000000,38.55175500000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Oregon Ridge Nature Center</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/oregon-ridge-nature-center/">Oregon Ridge Nature Center</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=13555+Beaver+Dam+Road,+Cockeysville,+MD+21030&hnear=13555+Beaver+Dam+Rd,+Cockeysville,+Maryland+21030&gl=us&t=h&z=16&vpsrc=0">13555 Beaver Dam Road, Cockeysville, MD 21030</a>
+		<br>Phone: 410-887-1815
+		<br><a href="http://www.oregonridge.org/">Website</a>
+
+	]]></description>
+	<styleUrl>#hiking</styleUrl>
+	<LookAt>
+		<longitude>-76.69105400000000</longitude>
+		<latitude>39.49359525166400</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.69105400000000,39.49359525166400,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Pinnacle Overlook</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/pinnacle-overlook/">Pinnacle Overlook</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=Holtwood+Recreation+Area,+T397,+Holtwood,+PA&hl=en&sll=39.840441,-76.316915&sspn=0.003167,0.004823&oq=holtwood+recreat&t=h&hq=Holtwood+Recreation+Area,+T397,+Holtwood,+PA&z=15">Holtwood Recreation Area, T397, Holtwood, PA</a>
+
+	]]></description>
+	<styleUrl>#hiking</styleUrl>
+	<LookAt>
+		<longitude>-76.31691500000000</longitude>
+		<latitude>39.84044100000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.31691500000000,39.84044100000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Sandy Point State Park</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/sandy-point-state-park">Sandy Point State Park</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=1100+East+College+Parkway+Annapolis,+MD+21409&amp;hnear=1100+E+College+Pkwy,+Annapolis,+Anne+Arundel,+Maryland+21409&amp;gl=us&amp;t=h&amp;z=16&amp;iwloc=A">1100 East College Parkway, Annapolis, MD 21409</a>
+		<br>Phone: 800-830-3974
+		<br><a href="http://dnr2.maryland.gov/publiclands/Pages/southern/sandypoint.aspx">Website</a>
+
+	]]></description>
+	<styleUrl>#beach</styleUrl>
+	<LookAt>
+		<longitude>-76.39592200000000</longitude>
+		<latitude>39.01259100000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.39592200000000,39.01259100000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Schaeffer Farm Trails</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/schaeffer-farm-trails">Schaeffer Farm Trails</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=39.142965,-77.310598&hl=en&sll=38.815114,-77.090823&sspn=0.120646,0.264187&t=m&z=17">39.142965,-77.310598</a>
+
+	]]></description>
+	<styleUrl>#hiking</styleUrl>
+	<LookAt>
+		<longitude>-77.31059800000000</longitude>
+		<latitude>39.14296500000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.31059800000000,39.14296500000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Seneca Creek State Park</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/seneca-creek-state-park">Seneca Creek State Park</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=11950+Clopper+Rd,+Gaithersburg,+MD+20878&safe=off&hnear=11950+Clopper+Rd,+Gaithersburg,+Maryland+20878&t=h&z=16">11950 Clopper Rd, Gaithersburg, MD 20878</a>
+		<br>Phone: 800-830-3974
+		<br><a href="http://dnr2.maryland.gov/publiclands/Pages/central/seneca.aspx">Website</a>
+
+	]]></description>
+	<styleUrl>#park</styleUrl>
+	<LookAt>
+		<longitude>-77.25168100000000</longitude>
+		<latitude>39.14227000000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.25168100000000,39.14227000000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Tuckahoe State Park</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/tuckahoe-state-park">Tuckahoe State Park</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=Tuckahoe+State+Park&fb=1&gl=us&hq=Tuckahoe+State+Park&cid=0,0,14190097232627473337&t=h&z=16&iwloc=A">13070 Crouse Mill Rd, Queen Anne, MD 21657</a>
+		<br>Phone: 410-820-1668
+		<br><a href="http://dnr2.maryland.gov/publiclands/Pages/eastern/tuckahoe.aspx">Website</a>
+
+	]]></description>
+	<styleUrl>#park</styleUrl>
+	<LookAt>
+		<longitude>-75.94049900000000</longitude>
+		<latitude>38.95702600000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-75.94049900000000,38.95702600000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Western Maryland Rail Trail</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/western-maryland-rail-trail">Western Maryland Rail Trail</a>
+		<br>Address: <a href="https://www.google.com/maps/dir//39.6988358,-78.1820797/@39.6988353,-78.1820797,15z/data=!4m8!1m4!3m3!1s0x0:0x0!2zMznCsDQxJzU1LjgiTiA3OMKwMTAnNTUuNSJX!3b1!4m2!1m0!1m0">39.69883582997622,-78.18207965053334</a>
+		<br><a href="http://www.westernmarylandrailtrail.org/WMRT/">Website</a>
+
+	]]></description>
+	<styleUrl>#train</styleUrl>
+	<LookAt>
+		<longitude>-78.18207965053334</longitude>
+		<latitude>39.69883582997622</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-78.18207965053334,39.69883582997622,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Wheaton Regional Park</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/">Wheaton Regional Park</a>
+		<br>Address: <a href="https://goo.gl/maps/JAKPM">2000 Shorefield Rd, Silver Spring, MD 20902</a>
+		<br>Phone: 301-680-3803
+		<br><a href="http://www.montgomeryparks.org/facilities/regional_parks/wheaton/index.shtm">Website</a>
+
+	]]></description>
+	<styleUrl>#park</styleUrl>
+	<LookAt>
+		<longitude>-77.04354600000000</longitude>
+		<latitude>39.05165800000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-77.04354600000000,39.05165800000000,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Wye Island</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/wye-island">Wye Island</a>
+		<br>Address: <a href="https://maps.google.com/maps?q=632+Wye+Island+Road+Queenstown,+MD+21658&ll=38.892369,-76.144609&spn=0.060725,0.132093&hnear=632+Wye+Island+Rd,+Queenstown,+Maryland+21658&gl=us&t=h&z=14">632 Wye Island Road, Queenstown, MD 21658</a>
+		<br><a href="http://www.dnr.state.md.us/publiclands/eastern/wyeisland.asp">Website</a>
+
+	]]></description>
+	<styleUrl>#hiking</styleUrl>
+	<LookAt>
+		<longitude>-76.14460900000000</longitude>
+		<latitude>38.89236900000000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.14460900000000,38.89236900000000,0</coordinates>
+	</Point>
+	</Placemark>
+
+</Document>
+</kml>

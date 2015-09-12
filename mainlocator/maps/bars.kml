@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+	<Style id="bar">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/bar.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="restaurant_wine">
+		<IconStyle>
+			<scale>1.0</scale>
+			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/restaurant_wine.png</href></Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Placemark>
+	<name>Diamondback Tavern</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/diamondback-tavern">Diamondback Tavern</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=3733+Old+Columbia+Pike,+Ellicott+City,+MD&hnear=3733+Old+Columbia+Pike,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">3733 Old Columbia Pike, Ellicott City, MD</a>
+		<br>Phone: 410-313-8530
+		<br><a href="http://www.diamondbacktavern.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#bar</styleUrl>
+	<LookAt>
+		<longitude>-76.79842757787800</longitude>
+		<latitude>39.26716493375900</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79842757787800,39.26716493375900,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Ellicott Mills Brewing Company</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/ellicott-mills-brewing-company">Ellicott Mills Brewing Company</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8308+Main+Street,+Ellicott+City,+MD&hnear=8308+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8308 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-313-8141
+		<br><a href="http://www.ellicottmillsbrewing.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#bar</styleUrl>
+	<LookAt>
+		<longitude>-76.79869002410100</longitude>
+		<latitude>39.26793381760600</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79869002410100,39.26793381760600,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Phoenix Emporium</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/phoenix-emporium">Phoenix Emporium</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8049+Main+Street,+Ellicott+City,+MD+&hl=en&sll=39.267628,-76.795496&sspn=0.012742,0.01929&vpsrc=0&hnear=8049+Main+St,+Ellicott+City,+Maryland+21043&t=h&z=17">8049 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-465-5665
+		<br><a href="http://www.facebook.com/ThePhoenixEmporium">Website</a>
+
+	]]></description>
+	<styleUrl>#bar</styleUrl>
+	<LookAt>
+		<longitude>-76.79545779642000</longitude>
+		<latitude>39.26760576367600</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79545779642000,39.26760576367600,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Pure Wine Cafe</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/pure-wine-cafe">Pure Wine Cafe</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8210+Main+Street,+Ellicott+City,+MD&hnear=8210+Main+St,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8210 Main Street, Ellicott City, MD</a>
+		<br>Phone: 410-480-5037
+		<br><a href="http://www.purewinecafe.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#restaurant_wine</styleUrl>
+	<LookAt>
+		<longitude>-76.79718221289200</longitude>
+		<latitude>39.26742434426800</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79718221289200,39.26742434426800,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>The Rumor Mill</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/the-rumor-mill">The Rumor Mill</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=8069+Tiber+Alley,+Ellicott+City,+MD&hnear=8069+Tiber+Alley,+Ellicott+City,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">8069 Tiber Alley, Ellicott City, MD</a>
+		<br>Phone: 410-461-0041
+		<br><a href="http://www.therumormillrestaurant.com/">Website</a>
+
+	]]></description>
+	<styleUrl>#bar</styleUrl>
+	<LookAt>
+		<longitude>-76.79590598758700</longitude>
+		<latitude>39.26789785353100</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79590598758700,39.26789785353100,0</coordinates>
+	</Point>
+	</Placemark>
+	<Placemark>
+	<name>Tiber River Tavern</name>
+	<description><![CDATA[
+		<a href="http://www.mdhistoricdistrict.com/tiber-river-tavern">Tiber River Tavern</a>
+		<br>Address: <a href="http://maps.google.com/maps?q=3747+Old+Columbia+Pike,+Ellicott+City,+MD&hnear=3747+Old+Columbia+Pike,+Ellicott+City,+Howard,+Maryland+21043&gl=us&t=h&z=16&vpsrc=0">3747 Old Columbia Pike, Ellicott City, MD</a>
+
+	]]></description>
+	<styleUrl>#bar</styleUrl>
+	<LookAt>
+		<longitude>-76.79721563073500</longitude>
+		<latitude>39.26723395386000</latitude>
+		<altitude>0</altitude>
+		<heading>0</heading>
+		<tilt>0</tilt>
+		<range>95</range>
+		<altitudeMode>relativeToGround</altitudeMode>
+	</LookAt>
+	<Point>
+		<altitudeMode>clampToGround</altitudeMode>
+		<coordinates>-76.79721563073500,39.26723395386000,0</coordinates>
+	</Point>
+	</Placemark>
+
+</Document>
+</kml>
