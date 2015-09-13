@@ -4,63 +4,63 @@
 	<Style id="misc">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/misc.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/misc.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="cave">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/cave.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/cave.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="aquarium">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/dolphins.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/dolphins.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="fair">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/ferriswheel.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/ferriswheel.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="lake">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/lake.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/lake.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="hotel">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/lodging.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/hotel.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="mountains">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/mountains.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/mountains.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="music">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/music.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/music.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="dance">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/dance.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/dance.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>

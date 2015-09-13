@@ -4,42 +4,42 @@
 	<Style id="restaurant">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/restaurant.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/restaurant.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="bar">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/bar.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/bar.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="restaurant_bakery">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/restaurant_bakery.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/restaurant_bakery.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="restaurant_coffee">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/restaurant_coffee.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/restaurant_coffee.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="restaurant_icecream">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/restaurant_icecream.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/restaurant_icecream.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="restaurant_tea">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/restaurant_tea.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/restaurant_tea.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>

@@ -4,84 +4,84 @@
 	<Style id="shop">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/shop.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/shop.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="shop_art">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/shop_art.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/shop_art.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="shop_books">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/shop_book.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/shop_books.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="shop_furniture">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/shop_furniture.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/shop_furniture.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="shop_crafts">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/shop_crafts.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/shop_crafts.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="grocery">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/supermarket.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/supermarket.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="shop_toys">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/shop_toys.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/shop_toys.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="shop_candy">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/shop_candy.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/shop_candy.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="shop_clothes">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/shop_clothes.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/shop_clothes.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="shop_hardware">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/shop_hardware.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/shop_hardware.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="shop_jewelry">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/shop_jewelry.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/shop_jewelry.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="shop_wine">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/shop_wine.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/shop_wine.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>

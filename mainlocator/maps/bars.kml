@@ -4,14 +4,14 @@
 	<Style id="bar">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/bar.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/bar.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
 	<Style id="restaurant_wine">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/restaurant_wine.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/restaurant_wine.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>

@@ -4,7 +4,7 @@
 	<Style id="city">
 		<IconStyle>
 			<scale>1.0</scale>
-			<Icon><href>http://www.mdhistoricdistrict.com/maps/icons/smallcity.png</href></Icon>
+			<Icon><href>http://www.mdhistoricdistrict.com/mainlocator/maps/icons/smallcity.png</href></Icon>
 			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 		</IconStyle>
 	</Style>
