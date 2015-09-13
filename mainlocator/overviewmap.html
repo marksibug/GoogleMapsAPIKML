@@ -21,14 +21,6 @@
       }
     </style>
 	<script type="text/javascript">
-		var map;
-		var drawingManager;
-		var kmlBars, kmlRestaurants, kmlShops, kmlSites, kmlParks, kmlMiscellaneous;
-		var selectedShape;
-		var selectedLineColor, selectedShapeColor;
-		var colors = ['#1E90FF', '#FF1493', '#32CD32', '#FF8C00', '#4B0082'];
-		var lineColorSpans = {};
-		var shapeColorSpans = {};
     var mapwidth;
 
     mapwidth = $(window).width();
@@ -36,6 +28,17 @@
       //set the width value of the map
       $("#map_canvas").css('width',mapwidth);
     })
+
+
+    var map;
+		var drawingManager;
+		var kmlBars, kmlRestaurants, kmlShops, kmlSites, kmlParks, kmlMiscellaneous;
+		var selectedShape;
+		var selectedLineColor, selectedShapeColor;
+		var colors = ['#1E90FF', '#FF1493', '#32CD32', '#FF8C00', '#4B0082'];
+		var lineColorSpans = {};
+		var shapeColorSpans = {};
+
 
     alert(mapwidth);
 		function toggleBars() {
