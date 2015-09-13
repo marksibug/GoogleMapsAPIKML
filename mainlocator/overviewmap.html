@@ -5,6 +5,7 @@
 	<link href="mainstylesheet.css" rel="stylesheet" type="text/css">
 	<title>Maryland Historic District (Beta Map)</title>
 	<script src="https://maps.googleapis.com/maps/api/js?sensor=false" type="text/javascript"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <style type="text/css">
       .color-span {
         width: 14px;
@@ -28,9 +29,15 @@
 		var colors = ['#1E90FF', '#FF1493', '#32CD32', '#FF8C00', '#4B0082'];
 		var lineColorSpans = {};
 		var shapeColorSpans = {};
+    var mapwidth;
 
+    mapwidth = $(window).width();
+    $(document).ready(function(){
+      //set the width value of the map
+      $("#map_canvas").css('width',mapwidth);
+    })
 
-
+    alert(mapwidth);
 		function toggleBars() {
 			if (document.getElementById('bars').checked) {
 				kmlBars.setMap(map);
