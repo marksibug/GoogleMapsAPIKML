@@ -23,7 +23,7 @@
 	<script type="text/javascript">
     var mapwidth;
 
-    mapwidth = $(window).width();
+    mapwidth = $(window).width() - 30;
     $(document).ready(function(){
       //set the width value of the map
       $("#map_canvas").css('width',mapwidth);
@@ -39,8 +39,8 @@
 		var lineColorSpans = {};
 		var shapeColorSpans = {};
 
-    //check the window width 
-    //alert(mapwidth);
+    //check the window width
+    alert(mapwidth);
 		function toggleBars() {
 			if (document.getElementById('bars').checked) {
 				kmlBars.setMap(map);
