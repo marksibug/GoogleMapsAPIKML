@@ -40,7 +40,7 @@
 		var shapeColorSpans = {};
 
     //check the window width
-    alert(mapwidth);
+    //alert(mapwidth);
 		function toggleBars() {
 			if (document.getElementById('bars').checked) {
 				kmlBars.setMap(map);
@@ -118,7 +118,8 @@
 			if( google.maps.Map !== undefined) {
 				var mapOptions = {
 					center: new google.maps.LatLng(38.9745, -77.196293),
-					zoom: 8
+					zoom: 8,
+           mapTypeId: google.maps.MapTypeId.TERRAIN
 				};
 				map = new google.maps.Map(document.getElementById("map_canvas"), mapOptions);
 
